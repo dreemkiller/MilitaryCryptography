@@ -9,13 +9,10 @@ This manual consists of two parts as follows:
 
 \mypara Part one is an introduction to the elementary principles of military
 cryptography. In this part a few typical examples of cipher systems and
-code systems are presented; the procedure in cryptographing and decryp—
-tographing by means of the systems is shown in detail; methods of pre-
-paring keys suitable for use in connection with them are illustrated;
+code systems are presented; the procedure in cryptographing and decryptographing by means of the systems is shown in detail; methods of preparing keys suitable for use in connection with them are illustrated;
 errors and their correction are discussed; and ﬁnally, a few of the most
 important precautions to be observed in safeguarding systems and
-cryptograms from enemy cryptanalysts are set forth. Only such con-
-siderations as apply to military cryptography are included.
+cryptograms from enemy cryptanalysts are set forth. Only such considerations as apply to military cryptography are included.
 
 \mypara Part two develops the principles established in part one and treats
 of the more advanced systems. Following the presentation sequence of
@@ -50,11 +47,9 @@ Codes will ﬁrst be considered, but as they do not fulﬁll the conditions requ
 of a means of secret communication in the ﬁeld, they need not be dealt with here
 at length.
 
-In the 1935 edition of this text the foregoing quotations were immedi-
-ately succeeded by the following comment:
+In the 1935 edition of this text the foregoing quotations were immediately succeeded by the following comment:
 
-It need only he pointed out in this connection that today rode methods pre—
-dominate in the secret communication systems of the military, naval, and diplomatic
+It need only he pointed out in this connection that today rode methods predominate in the secret communication systems of the military, naval, and diplomatic
 services of practically all the large nations cf the world. Nevertheless, it is likely
 that within the next decade or two the pendulum may once more swing over to the
 other position and cipher methods may again come to the fore, especially if
@@ -65,35 +60,28 @@ attention to the more complicated cipher methods of the past and present time,
 for with the introduction of mechanical and electrical devices the complexities and
 difﬁculties of these hand—operated methods may be eliminated.
 
-In preparing the revision of this text in 1943, the author found it neces—
-sary to say that the forecast he made in 1935 in regard to the rebirth of
+In preparing the revision of this text in 1943, the author found it necessary to say that the forecast he made in 1935 in regard to the rebirth of
 cipher methods had been fully justiﬁed by the present trend, which is in
 a direction away from code and toward cipher methods, because of
-important advances made in the ﬁeld of mechanical and electrical cryp-
-tographic mechanisms.
+important advances made in the ﬁeld of mechanical and electrical cryptographic mechanisms.
 
 \mypara Modern electrical communication methods and instrumentalities are
 ﬁnding an increasing need for applications of cryptographic theory and
 practice to their efﬁcient operation. For example, in very recent years
 there has developed a distinct need for secure methods and means for
 distorting voice communications by telephone or radiophone, and
-for distorting facsimile transmissions by wire or radiotelegraphy. Tele-
-printer services permitting direct cryptographic intercommunication by
+for distorting facsimile transmissions by wire or radiotelegraphy. Teleprinter services permitting direct cryptographic intercommunication by
 machines operated from a typewriter keyboard make it desirable to have
-means whereby, although the keyboard is operated to correspond to plain—
-text characters, the latter are instantaneously and automatically
+means whereby, although the keyboard is operated to correspond to plaintext characters, the latter are instantaneously and automatically
 enciphered in transmission and the received signals are instantaneously
 and automatically deciphered upon reception at the receiving end. Thus
 the printing mechanism at the receiving station records the original
-
-
 plain-text characters set up on the keyboard at the sending station but
 interception Of the signals passing over the line or by radio would yield
 only cipher text.
 
 \mypara It is difficult to foresee the speciﬁc cryptographic methods which
-might some day be useful in connection with developments of the fore-
-going nature. Progress in the electrical and electronic ﬁelds exercises an
+might some day be useful in connection with developments of the foregoing nature. Progress in the electrical and electronic ﬁelds exercises an
 important effect upon developments in the cryptographic ﬁeld. Methods
 which today appear to yield a high degree of cryptographic security but
 which are impractical for hand operation a few years from now, may be
@@ -119,8 +107,7 @@ the following deﬁnitions will be useful:
 in plain or encrypted text other than by direct conversation or mail. A
 commander uses signal communications to receive reports of hostile
 dispositions and activities, to receive reports of the progress and needs
-of subordinate and neighboring friendly units, to send orders to subordi-
-nate units, to receive orders from superior units, and to send to higher
+of subordinate and neighboring friendly units, to send orders to subordinate units, to receive orders from superior units, and to send to higher
 and adjacent units information necessary for the coordinated action of
 the whole command.
 
@@ -130,27 +117,36 @@ communications.
 
 \mypara MESSAGE. Used in its broadest sense in Department of the Army
 and other Ofﬁcial publications, the term “message” includes all instruc-
-tions, reports, orders, documents, photographs, maps, or other informa-
-tion, transmitted by means of signal communication. In this manual,
+tions, reports, orders, documents, photographs, maps, or other information, transmitted by means of signal communication. In this manual,
 however, the term “message” implies instructions, reports, orders, and
 similar communications usually transmitted by electrical means.
 
-\mypara MEANS OF SIGNAL COMMUNICATION. A medium (including equip-
-ment) used by an agency for transmitting messages. There are two
+\mypara MEANS OF SIGNAL COMMUNICATION. A medium (including equipment) used by an agency for transmitting messages. There are two
 dozen or more different means; the most important, so far as this manna
 is concerned, are—
 
-(1) Wire:
+\begin{enumerate}
+\item \textit{Wire}:
+
 Telephone.
+
 Telegraph.
+
 Teletypewriter.
+
 Facsimile (picture or photo transmission).
 
-(2) Radio:
+\item \textit{Radio}:
+
 Radiotelephone.
+
 Radiotelegraph.
+
 Radio teletypewriter.
+
 Radio facsimile.
+
+\end{enumerate}
 
 \mypara WRITER. The person who actually prepares and signs the message
 blank. The writer may be the originator or his ofﬁcially designated
@@ -175,8 +171,7 @@ directly from the originator to the addressee by means of a personal
 agent, or telephone or teletypewriter provided for his personal use; mail
 handled by military or civil postal services, and purely local messages.
 
-\mypara COMMUNICATIONS CENTER. One or more agencies of signal com-
-munication equipped to receive, route, and transmit ofﬁcial messages. A
+\mypara COMMUNICATIONS CENTER. One or more agencies of signal communication equipped to receive, route, and transmit ofﬁcial messages. A
 communications center may be established at a point ﬁxed or mobile.
 
 \subsection{Cryptology and Secret Communication}
@@ -204,8 +199,7 @@ this manual is concerned only with secrecy of intercommunication by
 means of messages conveying in written words the thoughts, orders,
 reports, etc., of the originator to the addressee.
 
-\mypara Writing may be either visible or invisible. In the former, the charac—
-ters are inscribed with ordinary writing materials and can be seen with
+\mypara Writing may be either \textit{visible} or \textit{invisible}. In the former, the characters are inscribed with ordinary writing materials and can be seen with
 the naked eye; in the latter, the characters are inscribed by'means or
 methods which make the writing invisible to the naked eye. Invisible
 writing is done with certain chemicals called invisible, sympathetic, or
@@ -214,8 +208,7 @@ the naked eye or becoming so after a short time. In order to make writing
 done with secret inks visible, special processes must usually be applied.
 There are also methods of producing writings which is invisible because
 the characters are of microscopic size. These methods usually require
-either special photographic apparatus or very delicate mechanical instru—
-ments called micropantographs, by means of which ordinary writing may
+either special photographic apparatus or very delicate mechanical instruments called micropantographs, by means of which ordinary writing may
 be copied in extremely reduced size. Magnifying lenses must be used to
 make such writing visible to the naked eye.
 
@@ -549,37 +542,41 @@ of our own signal communications.
 enemy, derived principally from a study of his signal communications.
 The main components of communication intelligence are as follows:
 
-(1) Interception of signals or messages and forwarding raw trafﬁc
+\begin{enumerate}
+\item Interception of signals or messages and forwarding raw trafﬁc
 to communication intelligence centers for study.
 
-(2) Trafﬁc analysis, including radio direction ﬁnding and radio
+\item Trafﬁc analysis, including radio direction ﬁnding and radio
 position ﬁnding. (Evaluated information from this source is
 often called traﬁ‘ic intelligence.)
 
-(3) Cryptanalysis or solution (and translation, when necessary) of
+\item Cryptanalysis or solution (and translation, when necessary) of
 the texts of the messages.
 
-(4) Evaluation of data, that is, analysis of results obtained from the
+\item Evaluation of data, that is, analysis of results obtained from the
 preceding steps and their correlation, collation, and comparison
 with results obtained from other sources of information.
+\end{enumerate}
 
 \mypara Communication security is the protection resulting from all meas—
 ures designed to deny to unauthorized persons information of value
 which may be derived from communications. The main components of
 communication are as follows -:
 
-(1) Physical security, that component of communication security
+\begin{enumerate}
+\item Physical security, that component of communication security
 which results from all measures necessary to safeguard classi-
 ﬁed communication equipment, and material from access there-
 to by unauthorized persons. ,
 
-(2) Cryptosecurity, that component of communication security
+\item Cryptosecurity, that component of communication security
 which results from the provision of technically sound crypto-
 systems\footnote{ Cryptosystems may be categorized as literal and nonliteral. This manual is concerned solely with literal or cryptographic systems.  } and their proper use.
 
-(3) Transmission security, that component of communication
+\item Transmission security, that component of communication
 security which results from all measures designed to protect
 transmissions from interception and trafﬁc analysis.
+\end{enumerate}
 
 \mypara Further details on the subject of communication security will be
 found in JANAP 122(A) Joint Communications Instructions.
@@ -592,49 +589,52 @@ depends on various time factors.
 
 \mypara Of these factors, the following are the most important:
 
-(1) The length of time necessary to transmit intercepted enemy
+\begin{enumerate}
+\item The length of time necessary to transmit intercepted enemy
 cryptograms to solving headquarters. This factor is negligible
 only when signal communication agencies are properly and
 speciﬁcally organized to perform this function.
 
-(2). The length of time required to organize raw materials, to make
+\item The length of time required to organize raw materials, to make
 trafﬁc analysis studies and to solve the cryptograms, and the
 time required to make copies, tabulate, and record data.
 
-(3) The nature of information disclosed by traffic analysis studies
+\item The nature of information disclosed by traffic analysis studies
 and solved cryptograms; whether it is of immediate or opera-
 tional importance in impending action, or whether it is of his-
 torical interest only in connection with past action.
 
-(4) The length of time necessary to transmit information to the
+\item The length of time necessary to transmit information to the
 organization or bureau responsible for evaluating the informa-
 tion. Only after information has been evaluated does it become
 military intelligence.
 
-(5) The length of time necessary to transmit resulting military
+\item The length of time necessary to transmit resulting military
 intelligence to the agency or agencies responsible for tactical
 operations, and the length of time necessary for the agency to
 prepare orders for the action determined by the intelligence and
 to transmit them to the combat units concerned. The last
 sentence under (1) above applies here also.
+\end{enumerate}
 
 \mypara Of the factors mentioned in b above, the only one of direct interest
 in this manual is the length of time required to solve the cryptograms.
 This is subject to great variation, dependent upon other factors, of
 which the following are the most important:
 
-(1) The degree of cryptographic security in the system. The degree
+\begin{enumerate}
+\item The degree of cryptographic security in the system. The degree
 of security depends upon the technical soundness of the system
 itself. Technical soundness, in turn, determines the resistance
 to analysis which the system offers. Cryptographic systems vary
 widely in technical soundness, but this manual does not attempt
 to demonstrate such variation.
  
-(2) The adequacy and technical soundness of regulations drawn up
+\item The adequacy and technical soundness of regulations drawn up
 by designers of the cryptographic system for the guidance of
 cryptographic technicians who are its actual users.
 
-(3) The extent to which cryptographic technicians follow these
+\item The extent to which cryptographic technicians follow these
 regulations and procedures. Security of a good cryptographic
 system can be almost completely destroyed by a few crypto-
 graphic technicians who fail to observe the regulations, are
@@ -643,7 +643,7 @@ violations of cryptographic security, or adopt bad technical
 habits. As a result, these technicians jeopardize not only their
 own lives but the lives of thousands of their comrades.
 
-(4) The volume of cryptographic text available for study. As a
+\item The volume of cryptographic text available for study. As a
 rule, the greater the volume of text, the more easily and
 speedily it can be solved. A single cryptogram in a given sys—
 tem may present an almost hopeless task for the cryptanalyst,
@@ -651,7 +651,7 @@ but if many cryptograms of the same system or in the same or
 closely related speciﬁc keys are available for study, the solution
 may be reached in a very short time.
 
-(5) The number, skill, and efﬁciency of organization and coopera—
+\item The number, skill, and efﬁciency of organization and coopera—
 tion of signal intelligence units assigned to the work. Crypt--
 analytic headquarters are organized in units of ascending size,
 ranging from a few persons in the forward echelons to many
@@ -662,7 +662,7 @@ of cryptograms in already solved systems. In all these units,
 proper organization of highly skilled workers is essential for
 efﬁcient operation.
 
-(6) The amount and character of information and intelligence avail—
+\item The amount and character of information and intelligence avail—
 able to the cryptanalytic headquarters. Isolated cryptograms ex-
 changed between a restricted, small group of correspondents,
 about whom and whose business no information is available,
@@ -680,6 +680,7 @@ of information derived from an intensive study of already
 solved trafﬁc is equally as important because it yields extremely
 valuable cryptanalytic intelligence which greatly facilitates the
 solution of new cryptograms from the same sources.
+\end{enumerate}
 
 \subsection{Degree of Crytographic Security Required of a System for Military Use}
 
@@ -741,7 +742,8 @@ mit the messages; and the greater will be the economy.
 \mypara Specific requirements which should be met by a cryptographic sys-
 tem for general military use are set forth below.
 
-(1) Cryptograms must be in a form suitable for transmission by
+\begin{enumerate}
+\item Cryptograms must be in a form suitable for transmission by
 standard telegraphic equipment and methods. This requirement
 generally eliminates all systems except those which produce
 cryptograms composed of characters readily transmitted by a
@@ -769,7 +771,7 @@ of the plain text is not apparent. The usual grouping is in sets
 of ﬁve characters, although occasionally other groupings may
 be made in special circumstances. Such grouping is not necessary
 in teleprinter encipherment systems.
-(2) Regular channels of signal communication carry only a 
+\item Regular channels of signal communication carry only a 
 limited volume of trafﬁc. Their most efﬁcient operation demands
 that the smallest number of characters actually necessary to
 convey a given mesSage be transmitted. Therefore, the crypto-
@@ -785,7 +787,7 @@ graphic systems in current use produce cryptograms which cor-
 respond 1n length with that of the original plain—text message
 or are somewhat shorter.
 
-(3) General requirements of reliability and speed are that the opera-
+\item General requirements of reliability and speed are that the opera-
 tions of cryptographing and decryptographing be relatively
 simple and rapid. For use in the combat zone, operations must
 be capable of being performed under difﬁcult ﬁeld conditions
@@ -797,18 +799,19 @@ in the combat zone, but occasionally systems involving only
 two steps, if each step is simple and rapid, may be practicable
 for military usage.
 
-(4) Cipher devices or machines for ﬁeld use must be light 1n weight,
+\item Cipher devices or machines for ﬁeld use must be light 1n weight,
 rugged in construction, and simple in operations, requiring the
 services of only one operator. Requirements to be met by high—
 speed cipher machines are too complex to be described in this
 manual.
 
-(5) The system must be such that errors, which invariably occur in
+\item The system must be such that errors, which invariably occur in
 cryptographic communications, can be corrected easily and
 rapidly by cryptographic technicians. A system is impractical
 if frequently it is necessary to call for a repetition of the whole
 transmission, or for a rechecking of the original crypto-
 graphing.
+\end{enumerate}
 
 \mypara Only a few of the systems which fullfill at least several of the fore—
 going practical requirements are included in this manual.
