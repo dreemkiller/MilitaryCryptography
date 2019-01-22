@@ -1,6 +1,8 @@
 \documentclass[twoside, letterpaper]{book}
 \usepackage{chngcntr}
 \setcounter{tocdepth}{1}
+\newcounter{para}[subsection]
+\newcommand\mypara{\par\refstepcounter{para} \alph{para}.\space}
 \renewcommand \thesection {\Roman{section}}
 \renewcommand \thesubsection {\arabic{subsection}}
 \counterwithout{subsection}{section}
