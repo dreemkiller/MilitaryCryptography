@@ -1,10 +1,16 @@
 \documentclass[twoside, letterpaper]{book}
+\usepackage{chngcntr}
+\setcounter{tocdepth}{1}
+\renewcommand \thesection {\Roman{section}}
+\renewcommand \thesubsection {\arabic{subsection}}
+\counterwithout{subsection}{section}
 
 \title{Elementary Military Cryptography}
 \author{William F. Friedman}
 \begin{document}
 \frontmatter
 \maketitle
+\tableofcontents
 
 \mainmatter
 
