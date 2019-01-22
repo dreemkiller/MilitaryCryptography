@@ -1,0 +1,64 @@
+ 
+
+ 
+
+REF ID:A56932
+
+I M Hawaii” iiu ii
+
+deciphering alphabet. An enciphering alphabet and its corresponding
+alphabet present a verse and inverse relationship to each other. To invert
+a deciphering alphabet is to write the corresponding enciphering alphabet;
+to invert an enciphering alphabet is to write the corresponding decipher—
+ing alphabet.
+
+Enciphen'ng Alphabet
+
+Plain : AB CDEFGH I J KLMN OPQRSTUVWXYZ
+(a) Cipher : J KQVX ZWESTRNUI OLGAPHCMYBDF
+
+Deciphering Alphabet
+
+.b) Cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+( Plain: RXUYHZQTNABPVLOSCKIJMDGEWF
+
+Figure 9.
+
+Section II. MONOALPHABETIC SUBSTITUTION
+SYSTEMS
+
+41. Single-Alphabet Substitution
+
+If a message is enciphered, letter—for—letter, by using one cipher
+alphabet which has been drawn up for the purpose, the resulting crypto-
+gram is said to be enciphered by a single alphabet and to-be a single-
+alphabet, or monoalphabetic, substitution cipher. More complex ciphers
+may use several alphabets in the enciphering of a single message. When
+two or more cipher alphabets are used, the resulting cryptogram is said
+to be a polyalphabetic cipher.
+
+42. Standard Alphabet Ciphers
+
+a. Standard cipher alphabets are of two sorts:
+(.1) Direct standard, in which cipher component is the normal
+sequence but shifted to the right or left of its point of coinci—
+dence in the normal alphabet. Example: I
+
+—>
+Plain: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+Cipher : QRSTUVWXYZAB CDEFGHI JKLMNOP
+
+-—’,
+It is obvious that the cipher component can be applied to the
+plain component at any one of 26 points of coincidence, but
+since the alphabet that results from one of these applications
+coincides exactly with the normal alphabet, a series of only
+25 (direct standard) cipher alphabets results from the shifting
+of the cipher component.
+
+37
+
+ 
+
+ 
+

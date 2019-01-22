@@ -1,0 +1,58 @@
+REF ID : M5932
+121. Continuous or Nonrepeaﬁng-Key'Systems I
+
+a. One of the simplest methods of avoiding periodicity occasioned by
+the employment of more than one substitution alphabet is to use as the
+key for the encipherment of one or more messages a series of letters
+or characters that does not repeat itself. The running text of a book,
+identical copies of which are in possession of the correspondents, may
+serve as the key for this purpose. It is only necessary for the corres-
+pondents to agree as to the starting point of the key, or to arrange a
+system of indicating this starting point in the text of the cryptogram.
+Such a system is called a continuous—key system. Other names applied
+to it are nonrepeating, running, or indeﬁnite-key systems. Telephone
+directories, the Bible, standard reference works, etc., are often used as
+source books for such keys.
+
+b. Various types of cipher alphabets may be employed in this system,
+direct or reversed standard alphabets, mixed alphabets drawn up at
+random, or secondary mixed alphabets resulting from the interaction of
+two primary sliding mixed components.
+
+6. As an example of the method of cryptographing, suppose the
+following message is to be enciphered on the continuous key principle,
+using as the key the text of this subparagraph, beginning AS AN
+EXAMPLE . . . , and reversed standard alphabets:
+
+HEAVY INTERDIC’I‘ION FIRE FALLING AT . . . .
+
+Key text: ASANE XAMPL EOFTH EMETH ODOFC RYPTO . . .
+Plain text: HEAVY INTER DICTI ONFIR EFALL INGAT . . .
+Cryptogram: TOASG PNTLU BGDAZ QZZLQ KYOUR JLJTV . . .
+
+122. Auto-Key Systems
+
+a. The cipher letters of a cryptogram may serve as keyletters, thus
+automatically furnishing a key. Suppose, for example, that two corres-
+pondents agree to use the word TRUE as an initial key, and suppose the
+message to be enciphered (with the obsolete U. S. Army cipher disk) is
+as follows:
+
+HEAVY lNTERDlCTION FIRE FALLING AT . . . .
+
+The ﬁrst four letters are enciphered as shown:
+
+Key text: TRUE
+
+Plain text: HEAVY INTER DICTI ONFIR EFALL INGAT . . .
+Cryptogram: MNUJ
+
+The cipher letters MNUJ now form the keyletters for enciphering the
+next four plain—text letters, YINT, yielding OFHQ. The latter then
+form the keyletters for enciphering the next four letters, and so on,
+yielding the following:
+
+144
+
+ 
+

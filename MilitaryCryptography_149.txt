@@ -1,0 +1,105 @@
+ 
+
+REF ID : 2155932
+
+binations for digraphs in a unique manner. To encipher a message One-
+proceeds as usual to ﬁnd the numerical equivalents of a pair, and then
+these numbers are added together. Thus:
+
+Plain text: PR OC EE DI NG
+275 350 100 075 325
+9 13 24 18 7
+
+Cipher text: 284 363 124 093 332
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+A B c D E 000025050075100
+F G H I K 125150175200225
+
+Sec.l (9;) L M N o P 250275300325350 Sec.3 (91,)
+Q R s T u 575400425450475
+v w x Y z 500525550575600
+o 1 2 3 4‘ v Q L F A
+5 6 7 8 9 w R M G B
+
+500.4(926) 10 11 12 13 14 x s N H c sec.2(92,)
+1516171819 Y 'r o I D
+2021222324 z U P K E
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Figure 67.
+
+b. To decipher such a cryptogram, take the greatest multiple of
+25 contained in the group of three digits; this multiple and its remainder
+form the elements for determining the plain-text pair in the usual
+manner. Thus, 284 = 275 + 9 = PR.
+
+Section III. COMPLEX SUBSTITUTION SYSTEMS
+120. General
+
+In paragraph 64, brief reference was made to more complex substitu-
+tion systems. It was stated that there are certain polyalphabetic methods
+in which periodicity is absent; there are other methods in which the
+external manifestation of periodicity in cryptograms is prevented, or
+in which it is suppressed or disguised. Slight hints were then given as
+to the nature of some of these methods. This and the next two sections
+give a more detailed description and discussion of the methods indicated,
+which, as a class, may be designated as aperiodic systems, as contrasted
+with the previously described, more simple periodic systems.
+
+143
+
+ 
+
+nu}:
+
+., _. “Awnvm-MNBW -"
+
+ 
+

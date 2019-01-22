@@ -1,0 +1,87 @@
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+REF ID:A56932
+
+76. Purposes of Two-Pari- Type of Code
+
+a. The two-part code is a comparatively recent development in code
+systems. Its purposes are greater secrecy, and greater accuracy.
+
+I). In a one-part code the plain-text groups progress from A to Z in a
+regular alphabetical sequence, accompanied by their code groups, also in
+a regular alphabetical or numerical sequence. If the word ABAFT is
+represented by a code group whose initial letter is A, or whose initial
+number is 1, then the word ABANDON will be represented by a group
+whose initial letter is also A, or whose initial number is also 1. In other
+words, the enemy cryptanalysts have deﬁnite clues to follow in breaking
+down the code because of the parallelism of the two sequences; the
+determination of the value of one code group affords deﬁnite clues to the
+value of many other code groups. In a two—part code, however, the word
+ABAFT might be represented by a group whose initial letter is T, or
+whose initial number is 8, and the word ABANDON might be repre-
+sented by a code group whose initial letter is F, or whose initial number
+is 3. In other words, the two sequences are not alike in progression;
+hence the determination of the value of one code group will give no clues
+to the value of any other group.
+
+c. In considering the greater accuracy of. a two-part code over a one-
+part code, the following pair of phrases (in a hypothetical one-part code)
+are given as an example:
+
+WOVAM Will be ready to attack
+WOVEN Will not be ready to attack
+
+Such an arrangement is subject to two sources of error. A code clerk
+working under great difﬁculties, in a hurry, may accidentally write down
+WOVAM instead of WOVEN as a result of the contiguity of the two
+sets of letters which are similar in appearance and are so close together
+on the page that his eye may take the group from the wrong line. Again,
+on account of the similarity in sound, his ear may deceive him into
+writing WOVEN when he should have written WOVAM. Now the
+meaning of the one group is the exact opposite of the meaning of the
+other and, since either meaning may ﬁt in correctly with the context of
+the message, the error may remain undiscovered for some time, thus
+causing serious inconvenience or, in the case of combat, actual loss of life.
+Furthermore, although the making of two errors in a single group is
+rather unusual in transmission or reception, yet it does happen and, in
+such a case as the above, would not be detected. This is especially true
+in connection with tabular material such as lists of numbers, dates, and
+names, in which the context often fails to yield clues to the correction of
+garbles or errors, or to give conclusive evidence of the presence of an
+error. But in a two-part code such errors are improbable. In the ﬁrst
+source of error mentioned above, the code clerk would be very much less
+
+71
+
+ 
+
+El.
+9.
+
+ 
+
+ 
+
+1,} z.;.:+___'_: .
+
+-..-'-L,=.s_- : _
+
+ 
+
+- - --=-- W '- -. "'."‘."‘~'
+- ’“ 2 hit-4.21:“; lava-xi
+
+ 
+

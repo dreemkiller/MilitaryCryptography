@@ -1,0 +1,55 @@
+REF ID:A56932
+
+have made it.” Checking by actually decryptographing will usually elimi-
+nate such errors. At the destination, the ﬁnal copy of a decryptographed
+message should invariably be checked against the original work sheets
+before being turned over to the addressee, and again preferably, by
+another operator. It is easy to omit the word NOT from a decoded
+message and to fail to note the omission, if the same operator merely
+reads over the decryptographed message. Here, again, psychological
+factors are involved, and clerks who are disposed to transpose letters and
+words, an unconscious habit of a peculiar psychological origin, must be
+especially careful in their work.
+
+17. Carelessness in the writing of system and message indicators, or
+failure to insert them in their proper places in the message, will usually
+make prompt decryptographing of the received message difﬁcult or
+impossible. They should be written with the greatest of care.
+
+c. If an incoming message is partially or wholly unreadable, an attempt
+should be made to ﬁnd the error in the faulty message. Often a message
+can be decryptographed by a simple expedient such as applying the key
+for the day preceding or following and correct date, or applying the daily
+key for a classiﬁcation higher or lower and the correct classiﬁcation. If,
+however, the garbled text still resists all efforts of correction, a procedure
+(service) message should be sent. The length of time one should con-
+tinue with the attempt to break the faulty message before sending a
+service will depend upon the classiﬁcation and precedence of the message,
+transmission problems involved, time required to complete service, etc.
+
+d. The procedure in preparing and handling service messages dealing
+with errors in cryptographic messages is quite involved, in order not to
+compromise the cryptographic system or give clues as to the contents of
+the faulty message. Instructions covering the procedure to be followed
+in such Servicing are issued from time to time and should be carefully
+followed.
+
+e. The most important precaution to be observed, in order to avoid the
+transmission-of messages which cannot be promptly decryptographed at
+the receiving end, is the rigid adherence to all instructions set forth in
+documents describing the cryptographic operations to be followed. Mis-
+understanding or ambiguity is rarely found in properly prepared docu-
+ments detailing cryptographic operations, and a careful study and
+observance of the instructions will result in the preparation of messages
+without fundamental errors.
+
+I f. To be efficient in cryptographic work requires, in addition to the
+usual qualities -of carefulness, accuracy, and attention to detail, the
+possession of certain psychological characteristics peculiar to the work. If
+absent, these characteristics as a rule cannot be developed, but if present
+they can be intensiﬁed and made more efﬁcient by constant practice and
+experience. It is therefore advisable to select personnel for cryptographic
+work as for any other specialized work, to train them carefully, and
+
+80
+

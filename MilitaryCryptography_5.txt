@@ -1,0 +1,43 @@
+REF ID:A56932
+
+CONTENTS
+
+Paragraph: Page
+PART ONE. ELEMENTARY MILITARY CRYPT-OGRAPHY.
+
+CHAPTER I. INTRODUCTION.
+
+Section I. General ............................................ l-2 1
+II. Terminology ....................................... 3—9 3
+III. Two classes oi cryptographic systems ............... 10-12 8
+IV. Security and time elements in cryptographic systems. . 13—18 9
+CHAPTER 2. ELEMENTARY TRANSPOSITION SYSTEMS.
+Section I. Simple monoliteral transposition methods ............ 19—26 18
+II. Columnar transposition methods ..................... 27—30 26
+III. Miscellaneous transposition methods ................. 31-34 30
+CHAPTER 3. ELEMENTARY SUBSTITUTION SYSTEMS.
+Section I. General ............................................ 35—40 33
+II. Monoalphabetic substitution systems ................. 4I—44 37
+III. Types of mixed cipher alphabets .................... 45—51 40
+IV. Monoalphabetic substitution with variants ............ 52—55 46
+V. Polyalphabetic substitution systems .................. 56—60 48
+VI. Cipher disks and square tables ...................... 61—63 54
+VII. Observation on cipher systems ...................... 64—67 60
+CHAPTER 4. ELEMENTARY CODE SYSTEMS.
+Section I. General ............................................ 68—71 63
+II. Code groups ....................................... 72—74 66
+III. One-part and two-part cuties ........................ 75—76 69
+IV. Enciphered code .................................... 77—78 72
+CHAPTER 5. COMPARISON OF CODE AND CIPHER SYSTEMS ...... 79—80 74
+6. CORRECTION OF ERRORS ........................... 81-82 79
+7. FUNDAMENTAL RULES FOR SAFEGUARDING
+CRYPTOGRAMS .................................. 83—84 83
+PART TWO. ADVANCED MILITARY CRYPTOGRAPHY.
+CHAPTER I. TRANSPOSITION SYSTEMS.
+Section I. Monophase transposition systems .................... 85-91 87
+II. Polyphase transposition systems ..................... 92—94 99
+III. True double transposition .......................... 95—96 102
+IV. Grilles and other types of matrices ................. 97—106 106
+
+V. Miscellaneous transposition systems .................. lO7—IIO l2]
+

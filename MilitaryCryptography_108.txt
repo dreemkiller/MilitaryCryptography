@@ -1,0 +1,122 @@
+ 
+
+REF ID:A56932
+
+the 2—7 cell in D—Z; the second letter of D—l, which is E, is placed
+in the 2—1 cell of D—2, and so on. The ﬁnal result is as follows:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+71532864 12345 rs
+ans I'VERA 1R -HITVUI
+I 5LLAMMUN12EVIALRDE
+. arrourorosrruoorro
+
+1URTHDIVI4IDNPOMSU
+
+4SIONDUMP5LMMIANLU
+I 13-1 . D—2
+Figure41.
+
+It will be seen that if the columns of D—2 are now read downwards
+in straight order from left to right the ﬁnal cryptogram is identical
+with that obtained in ﬁgure 39: REIIL DVTDM, etc.
+
+d. The foregoing cipher, often called the Nihilist Cipher, is referred
+to in some of the older literature as a double transposition cipher
+becauSe it involves a transposition of both columns and rows; and
+I. indeed as described in b above it seems to involve a double process.
+
+It is, however, not an example of true double transposition. When
+
+the mechanism of this cipher is compared with that now to be
+. described, the great difference in the cryptographic security of the two
+. methods will become apparent.
+
+94. True Double Transposition
+
+In the form of the false double transposition described above, it is
+only entire columns and entire rows that are transposed. The disarrange-
+ment of the letters is after all not very thorough. In true double trans-
+
+; position this is no longer the case, for here the letters of columns and
+i rows become so thoroughly rearranged that the ﬁnal text presents a
+complete scrambling almost as though the letters of the message had
+been tossed into a hat and then drawn out at random.
+
+i Section I". TRUE DOUBLE TRANSPOSITION
+i 95. True Double Transposition of the Columnar Type
+
+a. It is by what is apparently a simple modiﬁcation of certain of the
+c0111mnar methods already described that an exceedingly good true
+double transposition can be effected. Let a numerical key be derived
+from a keyword in the usual manner and let the message be written
+out under this key to form a rectangle in the usual manner for colum-
+nar transposition. The length of the message itself determines the
+anct dimensions of the rectangle thus formed, and whether or not it
+‘5 completely or incompletely ﬁlled.
+
+102
+
+ 
+

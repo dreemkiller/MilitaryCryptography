@@ -1,0 +1,59 @@
+ 
+
+REF ID:A56932
+
+of some of the fundamental rules of cryptographic security. Because the
+
+plain-text words give deﬁnite clues to the meaning of the adjacent code.
+
+groups, even though the former may apparently convey no intelligibility
+in themselves (such words as and, but, by, comma, for, in, period, stop,
+that, the, eta), their presence constitutes a fatal danger, and no cryptog-
+rapher who is aware of this danger will countenance such intermixtures.
+
+b. It often happens that correspondents employ a code which makes
+no provision for encoding proper names or unusual words not included
+in the vocabulary of the code book. Rather than leave the unencodable
+text in plain language in the message, since its appearance will surely
+lead to clues to unauthorized reading of the message, the correspondents
+encipher such words and proper names by means of any prearranged
+cipher system. Also, in some cases, when the code is limited in its
+vocabulary and the various inﬂections of words are not represented, the
+correspondents may suffix the proper inﬂections (“ed,” “ing,” “tion,”
+etc.) in cipher. This procedure, however, is not to be recommended,
+because it considerably reduces the cryptographic security of the whole
+system. _ .
+
+c. Sometimes correspondents make use of two or more codes. within
+the same message. This is occasionally the case when they are making
+use of a general or commercial code which does not have all the Special
+expressions necessary for their business, the latter expressions being
+contained in a small private code. Sometimes, however, the intermixture
+of code text from several codes is done for the purposes of secrecy,
+though'it is, as a rule, a rather poor subterfuge.
+
+'Section II. ENCIPHERED CODE
+155. General
+
+a.- The purposes of enciphering code have already beenexplained to-
+gether with brief indications of methods. The superimposition of a. good
+cipher system upon the code text of a message is a safeand practical
+method of cryptography for governmental use, where more rapid ma-
+chine methods are not available.
+
+I). In the subsequent paragraphs, for brevity and ease in reference,
+the term placode" will be employed to designate the actual or unen-
+ciphered code groups representing the plain-text elements; the term is
+derived by telescoping the words plain and code. On the other hand, the
+term encicode“ will be employed to designate the ﬁnal product of the
+superencipherment; it is likewise derived by telescoping the words en-
+ciphered and code.
+
+I’15’ronoun0ed “play-code” and "en-sigh’-c0de."
+
+175
+
+ 
+
+ 
+

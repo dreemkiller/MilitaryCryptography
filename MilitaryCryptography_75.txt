@@ -1,0 +1,82 @@
+REF ID:A56932
+
+groups. However, because of the more limited number of characters
+available for permutations, the maximum number of Z-ﬁgure difference
+groups possible in a S-ﬁgure code is 10‘, or 10,000.
+
+Section III. ONE-PART AND TWO-PART CODES
+
+75. Arrangement of Contents of Codes
+a. In their construction or arrangement, codes are generally of two
+types:
+
+(1) One-part, or alphabetical codes. The plain-text groups are
+arranged in alphabetical order accompanied by their code groups
+in alphabetical or numerical order. Such a code serves for
+decoding as well as for encoding.
+
+(2) Two-part, or randomized codes. The plain-text groups are
+arranged in alphabetical order accompanied by their code groups
+in a nonalphabetical order. The code groups are assigned to
+the plain-text groups at random by drawing the code groups out
+of a box in which they have been thoroughly mixed, or by
+some other manner in which the element of chance operates.
+Such a list can serve only for encoding. For decoding, another
+list must be provided in which the code groups are arranged
+in alphabetical or numerical order and are accompanied by their
+meanings as given in the encoding section. For this reason a
+two-part code is often called a cross-reference code. The follow-
+ing brief extracts from typical one—part and two-part codes
+illustrate the difference between them:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Two-part code.
+One-pert cede.
+Encoding Section Decoding Section
+ABABD A GAIVY A ABABD Obstructed
+ABAC! Abett TOGTY Abnn ABACF Term
+ABAEK Abandon FEHIL Abandon ABAEK Zero
+ABAJL . . . . it BAYLT . . . . it ABAJL Iii: has not
+ABALN‘ Abendoned zYZYz Abandoned ABALN‘ To be sent by
+ABAMP _ . . . . by NYSYZ . . . -. by ABAMP Acoeding
+ABAWZ Abandoning IFWUZ Abandoning ABAWZ Building
+ABBAD Abandonment RUMGO Abandonment. ABBAD Do not attempt
+zvzyz Zero ABAHEu-Zbi'b- """"" i?’z'ir'i""28i§é6£'e€""
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+b. Between the two extremes are codes which have features of both;
+that is, complete sections may be arranged in random sequence, but
+within each section the contents are arranged in some systematic or
+logical order. This is true, however, only of some of the older codes. In
+modern types, the two-part construction is more common.
+
+69
+
+ 
+
+ 
+
+ 
+

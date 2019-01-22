@@ -1,0 +1,91 @@
+REF ID:A56932
+
+of cryptograms prepared according to the same basic system. Often the
+cryptanalyst is wholly unconcerned as to whether a literal or a numerical
+key has been used in connection with cryptographing of the messages,
+and he may frequently be unaware of the fact that a literal key has been
+used as the basis for deriving a numerical key.
+
+Section II. 'C'OLUMN'AR TRANSPOSITION METHODS
+
+27. Columnar Transposition with Completely Filled Rectangles
+
+a. One of the most common types of transposition involving the use
+of a key word or a derived numerical key is that known as keyed or
+variable-key columnar transposition. In this type the letters are usually
+written in a geometric design, most often a rectangle, by inscribing them
+in the ordinary manner, that is, in horizontal lines from left to right and
+from the top downwards, and then the letters are transcribed by
+“reading” the columns in the sequence determined by the numerical key.
+If the text does not contain a sufﬁcient number of letters to ﬁll the last
+line completely, as many nulls as are necessary to do so are added at the
+end. Figure 5 is an example of cryptographing by this method.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Keyword: L-I-B-E-R-T-Y
+Numericalkey: 4-5-1-2-5-6-7
+R E P 0 R T L
+o c A'T I o N
+0 F S E C 0 N
+D B A T '1' A L
+I 0 N C 0 M M
+A N D P 0 S T
+T 0 D A Y D N
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Note. The letters D and N in the ﬁnal two cells are nulls, inserted to complete
+the rectangle.
+
+Cryptogram :
+
+PASAN DDOTE TCPAE CFBON OROOD IATRI CTOOY
+TOOAM SDLNN LMTN
+
+Figure 5.
+
+26
+
+.. .. zmsgges' , . i‘_ ﬂaws-tuv
+
+ 
+
+' A
+i
+.9
+'J.
+a
+i
+1
+v
+1
+

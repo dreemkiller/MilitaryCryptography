@@ -1,0 +1,53 @@
+ 
+
+REF ID:A56932
+
+and in Great Britain, code books or, simply, codes. In other countries
+they are called repertories, word books, cipher dictionaries, enciphering
+and deciphering tables, etc., although the term “code" is becoming prev-
+alent throughout the world.
+
+b. There are variOUS types of codes each suited to particular types of
+corresp0ndence. Some are large books used for general business or social
+correspondence; others are intended for particular industries—for
+example, rubber, sugar, steel, and automobile—and contain highly spe-
+cialized technical vocabularies. Most large commercial ﬁrms have their
+own private codes, constructed especially for their use. This manual
+however, is concerned only with codes suitable for military communica-
+tion. While the resemblances between the ordinary commercial codes and
+the usual military codes are marked, their primary purposes are different.
+Code is used in commercial communications principally to effect economy
+in cost of communicating, secrecy being of secondary importance. In
+modern military signal communications code is used to effect secrecy,
+brevity, and speed, especially in front—line signal communications. How-
+ever, in lengthy administrative messages, the economy afforded by a
+properly constructed code is important.
+
+70. Brevity Afforded by Code Systems
+
+a. Messages cryptographed by means of a code book are secure only
+when the code book is kept secret. There are, however, code systems in
+which secrecy is not a factor. Such systems are intended for brevity or,
+in transmission by commercial telegraph, for economy. Code books
+afford a means for abbreviating or condensing the writing necessary to
+convey information. A single, comparatively short group of code char-
+acters may represent a whole word of as~many as 15 or more letters, a
+long phrase, or a complete sentence. Thus, as a rule, the text of a code
+message is much shorter than the plain text, and therefore costs less to
+send. Naturally, the condensing power of a code book varies with the ex-
+tensiveness of its vocabulary, since in a small book there can be listed
+only the most common words and only a few phrases and sentences;
+whereas, in a large book practically all the words likely to be used in tele-
+graphic communication, and many common phrases and sentences may
+be included. When a code book is used to condense text only for pur-
+poses of economy, it is called a nonsecret code. Examples of such codes
+are the ordinary commercial codes sold in book stores. A code book may
+combine the features of economy and secrecy, in which case the book
+itself must be safeguarded from the enemy as a secret code.
+
+I). In addition to money saving, code systems save time and labor in
+transmission and reception, as the number of characters handled in code
+systems is smaller than in cipher systems. The saving of time is an
+
+64
+

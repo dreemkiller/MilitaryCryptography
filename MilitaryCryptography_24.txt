@@ -1,0 +1,47 @@
+CHAPTER 2
+ELEMENTARY TRANSPOSITION SYSTEMS
+
+ 
+
+Section 1. SIMPLE MONOLITERAL TRANSPOSITION
+METHODS
+
+19. Transposition Ciphers in General
+
+Transposition ciphers are like “jig-saw puzzles” in that all the pieces
+of which the whole original is composed are present but are merely dis-
+arranged. The pieces into which the picture forming the basis of' a jig-
+saw puzzle may be divided are irregular in size and shape, but the pieces
+into which the plain text forming the basis of a transposition cipher may
+be divided must be much more regular, for the sake of practicability.
+They must be either single letters or pairs of letters, or sets of letters in
+regular groupings, or, in an exceptional case, whole words. Most trans-
+position methods however, deal with individual letters and are therefore
+termed “monoliteral methods.” The other methods are termed ”polyliteral
+methods.”
+
+20. Geometric Designs
+
+(1. Practically all monoliteral or polyliteral transposition ciphers involve
+the use of a design or geometric ﬁgure, such as a square, rectangle, tri—
+angle, trapezoid, etc., in which the letters of the plain text are ﬁrst
+inscribed or written according to a previously agreed-upon direction of
+writing and then transcribed or rewritten according to another and diﬂ‘er-
+ent, previously agreed-upon direction to form the text of the cryptogram.
+In nearly all cases the speciﬁc key consists in (1) using designs of a spe—
+ciﬁc nature and dimensions, and (2) varying the direction or manner of
+inscription or transcription, or both.
+
+b. In working with transposition ciphers or, for that matter, most
+types of ciphers, cross—section paper will be found very convenient.
+Cross-section paper with M-inch squares is most suitable. For brevity in
+reference, the individual small squares of such cross-section paper will
+hereafter be called cells.
+
+21. Route Transpositions
+
+a. Suppose the correspondents agree to use the method of monoliteral
+transposition known as route transpgsition, The message is inscribed
+
+18
+

@@ -1,0 +1,60 @@
+ 
+
+ 
+
+REF ID:A56932
+
+65. Combined Substitution-Transposifion Systems
+
+In paragraph 10b, reference was made to the possibility of combining
+within a single system both transposition and substitution methods; that
+is, of ﬁrst enciphering by a method of one type and then taking the re-
+sulting cipher text and passing it through an encipherment of the other
+type. The usual order is ﬁrst to substitute and then to transpose, but
+the reverse of this order of procedure is also possible. In some methods,
+quite complex, there may be a ﬁrst substitution, then a transposition, and
+ﬁnally a substitution again. Despite the fact that three steps are in-
+volved, certain of these systems may be practical for military use under
+special conditions where speed is not as important as security. These
+cannot be described in this manual.
+
+66. Cipher Devices and Cipher Machines
+
+a. Only a little practical experience with any of the methods described
+is necessary to convince one that on the whole they are slow, more or less
+cumbersome, and subject to errors that often delay or make impossible
+the decryptographing of messages. Furthermore, from the point of view
+of cryptographic security, when employed in regular voluminous traﬂ'ic
+they leave much to be desired. Consequently, cryptographers, both ex-
+perienced and inexperienced, have been led to attempt to devise ap-
+paratus which will not only facilitate cryptographing and decryptograph-
+ing, but will also increase the degree of cryptographic security. Small
+instruments constructed for this purpose, operated by hand, are called
+cipher devices. Scores of them have been devised, but only a few are
+sufﬁciently practicable for ﬁeld use, and still fewer are of such construc—
+tion that they produce cryptograms of unusual security. Among the
+better examples of such cryptographs is one which was for some years
+(1922—42) employed in the U. S. Army under the name of Ciphef
+Device, Type M—94. Modern security requirements made such a device
+obsolete, however, and it has been replaced by a better one, the Converter
+M-209 ( ) (TM 11—380).
+
+b. There are larger cryptographic machines which are much more
+nearly automatic in nature and can therefore be operated at a much
+greater rate of speed. These are usually equipped with typewriter key-
+boards which can be manipulated with considerable speed; the machine
+may also print the results of the enciphering or deciphering operations.
+Sometimes they are equipped with electrical transmitters and can thus
+serve not only to encipher and decipher messages but also to transmit
+them automatically. A mechanism of the latter nature is usually in the
+form of a modiﬁed printing telegraph machine, or else it consists of an
+auxiliary piece of apparatus used in conjunction with the teleprinter.
+
+bl
+
+ 
+
+ 
+
+ 
+

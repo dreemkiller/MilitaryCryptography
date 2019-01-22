@@ -1,0 +1,33 @@
+ 
+
+REF ID:A56932
+
+have to be of a high order, and where the original form of the groups
+must be retained even after encipherment. Transposition systems in
+which the order of the letters within groups is changed may also be
+employed. For example, a numerical key may indicate the transposed
+order of the letters of the code groups, so that a group such as XDFGY
+will become DFYXG.
+
+c. Substitution systems of many sorts may be employed, ranging from
+simple monoalphabetic to the most complex types of substitution with
+cipher machinery. Tables of alphabets are often used. In some systems,
+a simple transposition process may be combined with a simple substitu—
+tion process.
+
+d. A favorite method in one—part codes having both letter-code and
+ﬁgure-code groups is that in which the letter-code group standing at a
+prearranged interval before or after the letter—code group representing
+the actual word or phrase intended to be conveyed is substituted. The
+interval may remain ﬁxed within a single message, or it may vary accord—
+ing to some predetermined key. Numerical code groups make the use of
+large intervals practicable.
+
+e. In modern practice, the most common methods of enciphering
+ﬁgure-code groups are those using addition or subtraction, with a key
+book containing arbitrary groups of ﬁgures. When such methods are
+properly used, they yield a high degree of security. The highest degree
+of security is attained when such a key book is used only once.
+
+73
+

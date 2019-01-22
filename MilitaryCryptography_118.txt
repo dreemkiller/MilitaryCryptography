@@ -1,0 +1,51 @@
+REF ID:A56932
+
+forming the cipher text of the transcription process. The ﬁrst method
+will be described in c below; the second in e below.
+
+c. Taking the simplest manner of inscribing the letters, that is, from
+left to right and from the top downwards, the letters of the ﬁrst section
+of the text are inscribed in the cells disclosed by the apertures, the grille
+being in the ﬁrst position. This is shown in b of ﬁgure 47. The grille is
+then given % turn clockwise, bringing ﬁgure 2 to the top left. If the
+grille has been correctly prepared, none of the cells disclosed in the
+second grille position on the grid will be occupied by a letter. The letters
+of the second section are then inscribed, this being shown in c of ﬁgure
+47. In d and e of ﬁgure 47, the results of inscribing the third and fourth
+sections, respectively, are shown. The letters of the cryptogram are
+then taken out of the completed grid by following any prearranged route
+of transcription. The cryptogram below has been transcribed by follow-
+ing down the columns in succession from left to right.
+
+d. To decryptograph such a message, the cipher letters are inscribed
+columnwise in a grid 10 by 10 (that is, one composed of 100 cells, 10 per
+side) and then the grille applied to the square in four consecutive posi-
+tions corresponding to those used in cryptographing. The letters dis-
+closed by each placement of the grille are written down as they appear,
+section after section.
+
+e. The second manner of employing a revolving grille is merely the
+reciprocal of the ﬁrst. The procedure followed in the ﬁrst method to
+decryptograph a message is followed in the second method to crypto—
+graph a message; and the procedure followed in the ﬁrst method to
+cryptograph is followed in the second method to decryptograph.
+
+100. Grilles of Other Geometric Forms
+
+Grilles are not limited to square—shaped ﬁgures. They may be equi—
+lateral triangles, pentagons, hexagons, and so on. Any ﬁgure which can
+be pivoted upon a central point and which when revolved upon this
+pivot can be placed in a succession of homologous positions over a grid
+corresponding to the grille will serve equally well. A triangle affords
+three grille positions, a pentagon, ﬁve, and so on.
+
+101. Polyphase Transposition by Grilles
+
+One grille may be employed to inscribe the letters of the message on
+the grid, and a second, and different, grille employed to transcribe them
+from the grid to form the ﬁnal text of the cryptogram. This would con-
+stitute a real double transposition method of great complexity. Polyphase
+transposition by a series of grilles is of course possible.
+
+112
+

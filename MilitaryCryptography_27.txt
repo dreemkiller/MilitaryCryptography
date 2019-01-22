@@ -1,0 +1,83 @@
+REF ID:A56932
+
+b. It is apparent that instead of following the normal direction of
+writing, that is, from left to right and from the top downwards, the
+letters of the plain text may be inscribed according to any one of the
+routes agreed upon, and then transcribed to form the cipher text by
+taking the letters from the rectangle in the normal manner, that is,. in
+this case from left to right, and from the top downwards, or by follow-
+ing any other route of transposition.
+
+22. Example of Encipherment and Decipherment by Monolil-eral
+Route Transposition
+
+(1. Now take a special example of encipherment by monoliteral route
+transposition. Use the message ATTACK HAS BEEN POSTPONED
+UNTIL TOMORROW TWO AM, and employ a relatively cemplicated
+method. Suppose that the general system agreed upon is the one being
+described, and that the speciﬁc key consists of the following elements:
+
+(1) Using a completely ﬁlled rectangle of seven columns;
+
+(2) Inscribing the letters of the plain text within the rectangle by
+following route (F) (3) of ﬁgure 1;
+
+(3) Transcribing the thus inscribed letters (to form the cipher text)
+by following route (E) (6) of ﬁgure 1.
+
+Since the message contains a total of 40 letters, and it has been
+agreed to use a completely ﬁlled rectangle of seven columns, it is
+necessary to add two nulls to make the total numberof letters a
+multiple of seven. A rectangle of seven columns of cells and six
+lines of cells is therefore prepared. The design is then ﬁlled in as
+shown in ﬁgure 2.
+
+b. To decryptograph such a cryptogram the process is merely reversed.
+First, the total number of letters in the cipher text must be found. Since
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+S L T T W L T
+O T I' O W 0 M
+'H P P T M O A
+K A N O N 0 R
+T C S E N U R
+A T A B E E D
+
+ 
+
+Cryptogram:
+TMLAO WROWT ROMOT DUNTI LENOP
+TSEEN POBSA HACKT TA
+Figure 2
+
+21
+
+ 
+

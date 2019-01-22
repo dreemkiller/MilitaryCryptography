@@ -1,0 +1,51 @@
+phrases, and sentences of the plain—text messages. The specialized mean.
+ings of the terms code and cipher are explained in detail later.
+
+b. A cryptogram produced by means of a cipher system is said to be
+in cipher and is called a cipher message, or sometimes simply a cipher.
+Such act or operation of cryptographing is called enciphering, and the
+enciphered version of the plain text, as well as the act or process itself,
+is often referred to as the encipherment. The cryptographic clerk who
+performs the process serves as an encipherer. The corresponding terms
+applicable to the decryptographing of cipher messages are deciphering,
+decipherment, and decipherer. A clerk who serves both as an encipherer
+and decipherer of messages is called a cipher clerk.
+
+c. A cipher device is an apparatus or a simple mechanism for literal
+encipherment and decipherment, usually manually powered; a cipher
+machine is an apparatus or complex mechanism for literal encipherment
+and decipherment, usually requiring an external power source.
+
+d. A cryptogram produced by means of a code system is said to be
+in code and is called a code message, or sometimes simply a code. The
+text of the cryptogram is referred to as code text. This act or operation
+of cryptographing is called encoding, and the encoded version of the plain
+text, as well as the act or process itself is referred to as the encodement.
+The clerk who performs the process serves as an encoder. The corres-
+ponding terms applicable to the decryptographing of code messages are
+decoding, decodement, and decoder. A cryptographic clerk who serves
+both as an encoder and decoder of messages is called a code clerk.
+
+e. Sometimes, for special purposes, the code text of a cryptogram
+undergoes a further step in concealment involving an enciphering process,
+thus producing what is called a cryptogram in enciphered code, or an
+enciphered-code message. Encoded cipher, the cipher text of a crypto-
+gram which subsequently undergoes encodement, is also possible but rare.
+
+f. In U. S. Army tables of organization and other publications, cipher
+clerks and code clerks are cryptographic technicians. They are speciﬁcally
+trained to encipher, decipher, encode, and decode messages, using
+authorized means, equipment, and procedures.
+
+8. General System and Speciﬁc Key
+
+a. The total of all the basic, invariable rules followed in cryptograph—
+ing a message according to a given method, together with all the agree—
+ments, conventions or private understandings drawn up between the
+correspondents or their authorized agents or furnished them by higher
+authority, constitute the general cryptographic system.
+
+b. In the general cryptographic system usually a number, a group of
+letters selected at random, a word, a phrase, or a sentence, is used as a
+key. The element selected governs the manner in which a cipher device
+Or a cipher machine is prepared for the encipherment or decipherment

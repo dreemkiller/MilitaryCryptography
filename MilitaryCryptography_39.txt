@@ -1,0 +1,56 @@
+ 
+
+ 
+
+REF ID:A56932
+
+CHAPTER 3
+ELEMENTARY SUBSTITUTION SYSTEMS
+
+ 
+
+Section I. GENERAL
+
+35. Fundamental Nature of Substitution Methods. Cipher
+Systems and Code Systems
+
+Methods now to be described differ from those above in that elements
+or textual units composing the original plain text retain their relative
+positions, but not their identities, and are replaced by other elements or
+textual units so that the external form of the writing is cryptographic in
+nature. For this reason these methods are called substitution methods.
+They may deal with individual letters, pairs of letters, sets of letters in
+regular groups, syllables, whole words, phrases, and sentences. Substitu—
+tion methods may accordingly be subdivided into letter methods, syllable
+methods, and word methods, as in the case of transposition methods;
+but such a classiﬁcation is a rather arbitrary one and is not based on the
+nature, form, or external appearance of the cryptographic text. For
+example, a substitution method dealing with single letters of the plain text
+may not involve their replacement by other single letters. In some cases
+whole words may be used to replace single letters. Outwardly, such a
+cryptogram gives the appearance of dealing with words, but its internal
+nature is quite clear: single-letter substitution has been effected. The
+classiﬁcation indicated is, nevertheless, a useful one. When the crypto-
+graphic process involves the treatment of individual letters or pairs of
+letters, and only exceptionally the treatment of syllables or whole words,
+the method is known as a substitution cipher system; and when the
+process involves the treatment of whole words, phrases, or sentences, and
+only exceptionally the treatment of individual letters, groups of letters,
+or syllables, the method is known as a code system, because it usually
+necessitates the use of a code book.
+
+36. Nature of Alphabets
+
+a. The simplest kind of substitution cipher is that which is known in
+literature as Julius Caesar’s Cipher, but which, as a matter of fact, was a
+favorite long before his day. In this cipher each letter of the text of a
+message is replaced by the letter standing the third to the right of it in
+the ordinary alphabet; the letter A is replaced by D, the letter B by E,
+and so on. The word CAB becomes converted into F DE which is cipher.
+
+33
+
+ 
+
+ 
+

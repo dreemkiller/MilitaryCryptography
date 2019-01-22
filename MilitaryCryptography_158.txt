@@ -1,0 +1,58 @@
+ 
+
+ 
+
+REF 1D:A56932
+
+selected transposition methods, when repetitive in character, can produce
+cryptograms of very great security.
+
+130. Repetitive Monoalphabetic Substitution Systems
+
+Suppose a message undergoes a primary encipherment by means of
+a single-mixed, nonreciprocal alphabet, and the primary cipher text
+undergoes a secondary encipherment by means of the same or a
+diﬁ‘erent mixed alphabet. The resulting cryptogram is still mono-
+alphabetic in character, and presents very little, if any, augmentation
+in the degree of security (depending upon the type of alphabet em—
+ployed). Here an entirely illusory increase in security is involved and
+an ineffectual complexity is introduced; the process may indeed be
+repeated indeﬁnitely without producing the desired result. This is because
+the fundamental nature of monoalphabetic substitution has not been
+taken into consideration in the attempts at superencipherment;
+sCi—escg—M‘C; . . . , still remains monoalphabctic in character.
+
+131. Repetitive Polyalphabetic Substitution Systems
+
+a. If the primary encipherment is by means of the repeating—key
+principle, with standard alphabets, and the secondary encipherment is
+similar in character, with similar alphabets, and a key of similar length,
+the ﬁnal cryptogram presents no increase in security at all. Thus, if the
+key BCDE is used in the primary encipherment (Vigenére Method)
+and the key FGHI is used in the secondary encipherment, the ﬁnal
+result is the same as though the key GIKM had been used in a single
+encipherment.
+
+b. If mixed alphabets are used, and if those of the primary, and the
+secondary encipherment belong to the same series of secondary alphabets
+resulting from the sliding of two primary sequences against each
+other, the results are similar in character to those described in a above.
+They are identical with those that would be obtained by an equivalent
+single encipherment by the appropriate secondary alphabets.
+
+c. If the key for the secondary encipherment is of a different length
+from that for the primary encipherment, the results are, however,
+somewhat different, in that the period of the resultant cryptogram
+becomes the least common multiple of the two key lengths. For example,
+if the length of the key for the primary encipherment is 4, that for
+the secondary 6, the result is the same as though a key of 12 elements
+had been employed in a single encipherment. This can be demonstrated
+as follows, using the keys 4—1—2—3 and 5-2—6—1—4—3:
+
+41234123 4123 41234123 4123 4123..'.
+
+52614352 6143 52614352 6143 5261...
+938484751026619384847510266'9384...
+
+152
+

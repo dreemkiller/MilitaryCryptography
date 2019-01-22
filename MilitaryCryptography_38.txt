@@ -1,0 +1,51 @@
+REF ID:A56932
+
+resulting from a ﬁrst transposition and apply a second transposition to
+them; cryptograms so prepared often present a very great degree of
+security. Triple and quadruple transposition is possible but wholly
+impracticable for common use. Only a very limited number of double
+transposition methods are practicable for military use, but the degree of
+security afforded by certain of them is much greater than that afforded
+by certain much more complicated substitution methods.
+
+34: Factors Concerning Use of Transposition Systems
+
+a. The transposition methods described above provide a wide range
+of cryptographic security; in some there is very little security, in others
+there is a great deal. All transposition systems usually present important
+advantages in speed and simplicity. These advantages have led to attempts
+to increase security in some manner or other; double transposition
+schemes, rotating grilles, and other more complicated methods have con—
+sequently been developed. In only certain types are written memoranda
+or devices required. Very often the entire cryptographing process in even
+very complex methods may be easily memorized by persons of very good
+intelligence, such as secret agents. For these reasons transposition systems
+are often useful in espionage and counterespionage activities.
+
+I). But transposition ciphers for military usage present three very
+serious disadvantages. In the ﬁrst place, the methods are such that they
+do not allow any latitude for errors in handling. Often if a single letter
+is omitted or added, as not infrequently happens in telegraphic trans-
+mission, the whole message becomes difﬁcult if not impossible to decryp-
+tograph. In the second place, if two or more messages prepared in the
+same key and containing exactly the same number of letters are available
+for study, no matter how complicated the method employed, the crypto-
+grams can be solved, and the key recovered, and applied to other
+cryptograms in the same key but with different numbers of letters. In
+military cryptography it is not unusual, in cases of heavy traﬂﬁc, to have
+as many as 100 or 200 messages transmitted on the same day, all in the
+same key. Control from a central headquarters of the exact message
+length would obviously be impossible. The chances, therefore, that the
+enemy may actually intercept and ﬁnd several messages of identical
+length are not negligible. Thus, a transposition method presenting an
+extremely high degree of cryptographic security when only a few
+messages are to be cryptographed fails seriously when employed for
+heavy traﬁic. Finally, in certain cases, where the double transposition
+produces a great degree of security, it is almost inevitable that a poorly
+trained or careless cryptographic clerk will fail to perform both steps
+correctly. Not only messages prepared by one poor or careless operator,
+but all other messages, even though correctly prepared, are thus laid
+open to solution.
+
+32
+

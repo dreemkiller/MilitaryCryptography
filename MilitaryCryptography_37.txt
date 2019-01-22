@@ -1,0 +1,59 @@
+REF ID:A56932
+
+, . -...- -. --.;:: '33:”. lg gull!
+: IE: 2.»: =5: ml 3 h: maxim: Ill
+
+ally, the correspondents must have identical grilles and every. step must
+be deﬁnitely prearranged. Although it is possible to construct grilles with
+many different arrangements of perforations, the necessity for carrying
+the device on the person, and the many agreements and understandings
+necessary for its successful operation make the method hardly suitable
+for ﬁeld military use. Furthermore, practical difﬁculties connected with
+the preparation and distribution of many grilles would make it almost
+inevitable that several messages would be enciphered by the same grille.
+The degree of cryptographic security aﬂorded by them is not so great as
+may be suspected; sometimes single messages of fair length may
+be solved.
+
+32. Polyliteral and Word Transposition
+
+a. Thus far only individual letters, as units for the transposition
+process have been discussed. It is possible to use pairs of letters, sets of
+three or more letters, or entire words as units; procedures are the same
+in monoliteral and polyliteral transpositions. Sometimes more complicated
+routes may be followed in transposition; for example, a route may be a
+prearranged succession of moves made by a knight in chess. It is usually
+necessary to have at hand a printed form showing the complete route,
+and this makes these methods impractical for ﬁeld use. They may, how-
+ever, be used in special cases.
+
+b. The cipher system used by the Federal Army in the Civil War
+represents a good example of word transposition. In the earliest form
+in which this cipher was used by the Federals only one route was used,
+which consisted in writing the text in six columns, going up the sixth,
+down the ﬁrst, up the ﬁfth, down the second, up the fourth, and down
+the third. Arbitrary words were substituted for proper names, nulls were
+introduced at regular positions, and words even often misspelled for
+further obscurity. For example, the word “operation” was often spelled
+as two words: “opera,” and “shun.” Later, many additional routes were
+provided, relatively long lists of arbitrary equivalents for names, num-
+bers, dates, common military terms, etc., were added, and the whole
+system was made considerably more complicated. While the security
+afforded by this system was probably ample for those days, it would
+hardly be sufﬁcient today to permit its use even in cases where a delay
+of only a few hours is required. Furthermore, if long lists of arbitrary
+equivalents must be handled, the system presents all the disadvantages of
+a poor cipher system with but few of the advantages offered by a good
+code system.
+
+33. Single and Double Transposition Methods
+
+In single transposition methods the letters go through only one trans-
+position from plain text to cipher text. It is possible to take the letters
+
+31
+
+ 
+
+ 
+

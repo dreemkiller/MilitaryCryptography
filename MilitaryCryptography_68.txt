@@ -1,0 +1,29 @@
+ 
+
+REF ID:A56932
+
+Such apparatus can obviously be practicably employed only among the
+larger headquarters where trafﬁc is suﬂiciently heavy to warrant its use.
+
+67. Disadvantages and Limitations of Cipher Systems
+
+Except for certain electrically operated cipher machines equipped with
+a typewriter keyboard, most cryptographic methods using “manual"
+or “pencil and paper” cipher systems are unsatisfactory for military pur—
+poses. Practically all such systems can be solved by enemy cryptanalysts,
+and those suitable for use in the theater of operations offer fewer ob—
+stacles to solution than systems suitable for use in the rear areas. Cipher
+systems are not economical in time units required in electrical transmis-
+sion; the best that they can do is to produce cryptograms no longer than
+the original plain text. For use within small tactical units in the forward
+areas there are other cryptographic methods which offer advantages of
+speed, simplicity, and brevity and which, properly used, afford suﬂ’icient
+cryptographic security. These are often preferred over cipher methods in
+the forward echelons of the combat zone. These methods involve the use
+of lists of groups of letters or ﬁgures to which arbitrary meanings have
+been assigned. They are called “ﬁeld codes,” “prearranged-message
+codes,” “brevity codes,” “voice codes,” “jargon codes,” etc. Codes will
+be discussed in the succeeding sections of this manual.
+
+62
+

@@ -1,0 +1,66 @@
+ 
+
+REF ID:A56932
+
+e. A simple variation of the foregoing method which is frequently
+effective with true digraphic methods of substitution is to write 0%
+under 6‘5, and then encipher the set_s_2f juxtaposed '0—15, letters digraphi-
+cally, then the sets of juxtaposed 9202p letters. Thus, let the message be
+WILL RETURN AT ONCE; it would be written down as follows :1
+
+WLRTRAO C
+ILEUNTNE
+
+Then the following pairs would be enciphered: WLP, 1m, m,
+6a,, E, etc. The foregoing message eneiphered in this manner by
+
+means of the Playfair Square shown in ﬁgure 63, for example, yields
+the following cryptogram:
+
+Plain text: WI: RT RA 0C IL EU NT NE
+Cipher: V0 IR TN LT CQ EN AR RP
+Cryptogram: VOIRT NLTCQ HNARR P
+
+f. Naturally the transposition process may involve groups of let-
+
+ters; a simple type of disarrangement is to reverse the order of the '
+
+letters in 5-letter groups, or within 5—letter groups a transposition such
+as 3—2—1—4—5 or 2—1—5—3—4 (any of 120 different arrangements)
+is possible.
+
+g. Columnar transposition methods lend themselves especially well
+to combination with substitution methods. An excellent example will
+be considered under the next section.
+
+135. Polyliteral Substitution Combined with Transposition
+
+In paragraph lllb the essential nature of polyliteral substitution as
+contrasted with monoliteral substitution was discussed. Polyliteral
+methods make use of polypartite alphabets in which the cipher equiva-
+lents are composed of two or more parts. This being the case it is a
+natural extension of cryptographic processes to separate these parts or
+to distribute them throughout the cipher text so that the components or,
+so to speak, fractional parts of the cipher equivalents are thoroughly
+disarranged and distributed evenly or irregularly throughout the text.
+
+136. Fractionating Systems
+
+a. A simple example will ﬁrst be shown. Let the following bipartite
+cipher alphabet be drawn up by assigning numerical equivalents from
+01 to 26 in mixed sequence to the letters of the normal sequence. Thus:
+
+'In preparing the text for encipherment, the clerk must bear 'in mind that if the normal
+
+Playfair system is to be used no doublets can be enciphered. The message WE WILL LEAVE
+. would be arranged thusz.
+
+WXILXEV
+EWLXLAE
+
+155
+
+ 
+
+ 
+

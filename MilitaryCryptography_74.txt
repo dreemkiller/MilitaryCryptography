@@ -1,0 +1,55 @@
+ 
+
+REF ID:A56932
+
+to correct most errors made in transmission or writing, such tables are
+usually included in the code book and are called mutilation tables, garble
+tables, error-detector charts, etc. Before the invention of permutation
+tables, code as a system of communication was not wholly reliable. Scien-
+tiﬁcally constructed tables, however, include a feature (see b below)
+which has remedied this fault to a great extent.
+
+I). To make an error in a group of ﬁve letters is not unusual on the
+part of the average telegraph or radio operator. If a difference of only
+one letter distinguishes one code group from another in the same code,
+as ABABA and ABABE, then serious errors may be introduced in the
+meaning of a message, or the message may be made unintelligible by only
+a few transmission errors. If, however, every code group in the code
+book is distinguished from all other code groups in the same code by a
+difference of at least two letters, then there would have to be two errors
+in a single group and these two errors would have to produce a code
+group actually present in the code before a wrong meaning would be
+conveyed. This principle of making code groups within the same code
+differ from each other by a minimum of two letters is called the two—
+letter diﬁ‘erential. It is most easily incorporated in code groups by con—
+structing the permutation table to this end. The differential may be the
+absolute difference in the identities of two letters or the relative positions
+occupied by them. For example, BACOF, and BACUG differ from each
+other in the identities of the ﬁnal pair of letters; considered as a combina-
+tion of letters, the two groups present a two—letter difference. The two
+groups BACOF and BOCAF, however, differ in the relative positions
+occupied by two of their letters, but considered as a permutation of
+letters, these two groups as well as the two groups BACOF and BACUG,
+present a two—letter difference. In short, when at least two correspond-
+ing letters in a pair of code groups differ in their identities, the two code
+groups are said to present a 2—letter difference. Errors arising from the
+exchange of position of two letters, without a change in their identities,
+are referred to as errors of transposition. They are not unusual but
+fortunately, as a rule, they involve only letters which are either adjacent
+or alternate. For example, in the pair of groups BACOF and BOCAF
+there is a transposition of the alternate—letter type. In recent codes,
+attempts have been made to devise permutation tables which will eliminate
+one of the two members of every pair of groups which differ from each
+other by the mere transposition of two adjacent or alternate letters. Codes
+using groups based upon a permutation table will show the table and
+exPlain how to use it in correcting the usual mutilations of groups.
+
+c. The use of the two-letter differential reduces the possibilities for
+constructing letter-code groups from 265 (11,881,376) to 26‘ (456,976),
+Elm Considering thiaadvantages, the sacriﬁce is worthwhile.
+
+. 11: Permutation tables for the construction of ﬁgure-code groups are
+similar in nature and purpose to tables for the construction of letter—code
+
+68
+

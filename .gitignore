@@ -1,0 +1,6 @@
+*.jpg
+*.aux
+*.dvi
+*.log
+*.hocr
+.*.swp

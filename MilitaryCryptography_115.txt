@@ -1,0 +1,93 @@
+REF ID:A56932
+
+c. It is obvious that by the use of a simple grille the. letters of a
+message to be CTYPtngaPhed may be distributed within an enveloping
+message consisting mostly of “dummy” text, inserted for purposes of
+enabling the message to escape suppression in censorship. 'For example,
+suppose the grille shown in ﬁgure 43 is employed in position 1 and the
+message to be conveyed is ALL DESTROYERS OUTSIDE. The
+letters of this message are inscribed in their proper places on the grid,
+exactly as shown in ﬁgure 44. An “open” or disguising text is now to
+be composed; the latter serving as an envelope or “cover” for the letters
+of the secret text, which remain in the positions in which they fall on
+the grid. The open or disguising text, in other words, is built around or
+superimposed on the secret text. Note how this is done in ﬁgure 45, with
+an apparently innocent message reading:
+
+I HAVE WORKED VERY WELL ALL DAY, TRYING TO- GET
+EVERYTHING STRAIGHTENED UP BEFORE GOING ON MY
+NEXT TRIP SOUTH, BUT INSIDE TEN DAYS . . .
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1(5)
+
+‘IHAVEWORKEg.
+
+DVERYWELLAg
+LLDAYTRY-IN
+.GTOGETEVER
+"YTHINGSTRA
+.IGHTENEDUP
+BEFOREGOIN
+GONMYNEXTT
+G-RIPSOUTHBU
+«TINSIDETEN
+Figure 45. (1.) g
+
+d. The foregoing method naturally requires the transmission of con—
+siderably more text than is actually necessary for conveying the message
+intended. Where questions of censorship are not involved, the method
+is therefore impractical. A modiﬁcation of the method suggests itself in
+the use of a transparent sheet of paper superimposed upon a square or
+other ﬁgure in which the individual cells are irregularly numbered and
+the inscription process follows the sequence of numbers. An example is
+shown in ﬁgure 46, using the message ROCK CREEK BRIDGE WILL
+BE DESTROYED WHEN TAIL HAS CROSSED.
+
+109
+
+ 
+

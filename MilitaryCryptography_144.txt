@@ -1,0 +1,131 @@
+ 
+
+ 
+
+*1...
+
+REF ID:A56932
+
+Since the row permutations of sections 2 and 4 are independent, the
+total number of different four—alphabet matrices as regards row permu-
+tations is 252 = 625. Taking into account the column permutations,
+5 X 4 X 3 X 2 X 1 in number, it is therefore possible to have 625 X 120
+or 75,000 different, four—alphabet matrices of this nature, based upon
+the same two alphabets in sections 1 and 3. With changes in the latter,
+the number, of course, becomes very much greater.
+
+116. Two-Alphabet Matrices
+
+a. lt is possible to effect digraphic substitution with a matrix con—
+sisting of but two sections by a modiﬁcation in the method of ﬁnding
+equivalents. In the checkerboard shown in ﬁgure 60, 01,, of 0—155, is
+located in the square at the left, 0%, in the square at the right.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+M A N U F A U T O M
+C T R I G B I L E S
+01,02, B D E H K C D F G H 0290‘.
+L O P Q S K N P Q R
+V W X Y Z V W X Y Z
+Figure 60.
+
+When W], are at the opposite ends of the diagonal of the imaginary
+rectangle deﬁned by the letters, We are at the opposite ends of the
+other diagonal of the same rectangle, just as in the preceding ease. F or
+example, XI; = We; I'D—6p = EKG; Xi, = ﬁe; FED = ﬁfe.
+
+b. Reciprocity may be imparted to the two—alphabet matrix by reciprocal
+permutation of the rows of the squares, no attempt being made to effect
+any reciprocal permutation of columns. Figure 61 shows such a matrix.
+ﬁt, for example, A—W—p ="6Tc and m = We; EX}, =ﬁc and
+DLp = me, etc.
+
+c. In two—alphabet matrices in which one section is directly above the
+other, reciprocity already exists without special preparations for its
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+lMANUFOSQLP4
+
+acrarawzyvxs
+
+SBDEHKDKHBEs
+
+4L0..PQSAFUMN1
+
+5VWXYZTGIC_R2
+Figure61.
+
+138
+

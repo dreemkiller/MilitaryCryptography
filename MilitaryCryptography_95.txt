@@ -1,0 +1,44 @@
+ 
+
+ 
+
+REF ID:A56932
+
+ 
+
+Figure 25.
+
+thetriangleis the sum ofn + (n — 1) + (n — 2 + (n —— 3) +...
++ 1. For a triangle based upon a side of 9 cells, the sum is 9 + 8 + 7
++ 6 + 5 + 4 + 3 + 2 +1: 45. The letters may then be tran-
+scribed to form the cryptogram by following another route, or by follow-
+ing a derived numerical key applied to the base of the triangle. A simple
+method of deriving a key of Zn — 1 elements from a key of n elements
+or letters is exempliﬁed herewith. Let the key be DIAGONALS, a word
+of nine letters. Extend this key to Zn — 1 places by repetition, and then
+assign numerical values as usual:
+
+I! = 9; 2 n —- 1 = 17
+O N A L S D I A G O N A L
+5-13-2-11-17——6-10—3—8-16-l4——4-12
+
+This numerical key is the one that has been employed in enciphering
+the message in Figure 26.
+
+ 
+
+ 
+
+5--9--1--7-15-13--2-1L-17-6-10--3--8-16-14--4-12
+Cryptogram:
+
+RICRC OCSGE DOONI UAOOE
+SEYID RTISS DTSNR AUNTN
+PERTR
+
+Figure 26.
+
+8‘2
+
+ 
+

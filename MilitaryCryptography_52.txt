@@ -1,0 +1,53 @@
+ 
+
+REF 1D:A56932
+
+Section IV. MONOALPHABETIC SUBSTITUTION
+WITH VARIA'NTS
+
+52. Purpose of Providing Variant Values
+
+The individual letters composing ordinary intelligible plain text are
+used with varying frequencies; some, such as (in English) E, 'l‘, R, I,
+and N, are used much more often than others, such as J, K, Q, X, and Z.
+In fact, each letter has a characteristic frequency by means of which
+deﬁnite clues are afforded in the solution of simple substitution ciphers.
+This has led cryptographers to devise methods for disguising, sup—
+pressing, or eliminating the characteristic frequencies manifested by the
+letters of cryptograms produced by simple monoalphabetic substitution.
+One such method is that in which the letters of the plain component of
+the cipher alphabet are assigned two or more equivalents in the cipher
+component and they are, for this reason, called variant values. In some
+cases the letters of the plain component receive numbers of variant
+.values, or variants, in proportion to their normal frequencies; in other
+cases, all the letters receive equal numbers of variant values, determined
+by the total number available.
+
+53. Figure 'Ciphers with Variant Values
+
+a. The use of ﬁgures in pairs as substitution equivalents makes avail-
+able a total of 100 different pairs, those from 00 to 99. They may all
+be used in a complete system, or only certain ones may be selected, as
+prearranged.
+
+b. One of the most common varieties of ciphers using all the pairs of
+digits is that in which the alphabet is reduced to 25 letters (by making
+1 and J interchangeable or by eliminating a letter such as Q), and each
+letter is assigned four values which may be used at will. The assignment
+of values may be based upon a key word of four letters, each of which
+designates the starting points of a normal sequence of 25 numbers. An
+example is shown in ﬁgure 14, wherein the key word is TRIP. This
+means that in the ﬁrst set of numbers, 01 to 25, the ﬁrst number, 01, is
+assigned to the letter T; in the second set, from 26 to 50, the ﬁrst num-
+ber, 26, is assigned to the letter R; in the third set, from 51 to 75, the
+ﬁrst number, 51, is assigned to the letter I; ﬁnally, in the last set, from
+76 to 00, the ﬁrst number, 76, is assigned to the letter P.
+
+The letter Ap may be represented by any one of four equivalents, 08,
+35, 68, and 87; the letter B, by 09, 36, 69, 88; and so on. The equivalent
+used in any particular instance is selected at random, so that the word
+.CAB may be represented in cipher by any one of a total of 64 combina-
+tions, such as 10—08—09, 70—35—09, 37—08—69, etc. In the ﬁnal cryptogram
+
+4'6
+

@@ -1,0 +1,52 @@
+(3) Transmission security, that component of communication
+security which results from all measures designed to protect
+transmissions from interception and trafﬁc analysis.
+
+c. Further details on the subject of communication security will be
+found in JANAP 122(A) Joint Communications Instructions.
+
+16. Time Needed for Cryptanelysis and its Dependent Factors
+
+a. In military 'operations time is a vital element. The inﬂuence or effect
+that analysis of military cryptograms may have on the tactical situation
+depends on various time factors.
+
+b. Of these factors, the following are the most important:
+
+(1) The length of time necessary to transmit intercepted enemy
+cryptograms to solving headquarters. This factor is negligible
+only when signal communication agencies are properly and
+speciﬁcally organized to perform this function.
+
+(2). The length of time required to organize raw materials, to make
+trafﬁc analysis studies and to solve the cryptograms, and the
+time required to make copies, tabulate, and record data.
+
+(3) The nature of information disclosed by traffic analysis studies
+and solved cryptograms; whether it is of immediate or opera-
+tional importance in impending action, or whether it is of his-
+torical interest only in connection with past action.
+
+(4) The length of time necessary to transmit information to the
+organization or bureau responsible for evaluating the informa-
+tion. Only after information has been evaluated does it become
+military intelligence.
+
+(5) The length of time necessary to transmit resulting military
+intelligence to the agency or agencies responsible for tactical
+operations, and the length of time necessary for the agency to
+prepare orders for the action determined by the intelligence and
+to transmit them to the combat units concerned. The last
+sentence under (1) above applies here also.
+
+c. Of the factors mentioned in b above, the only one of direct interest
+in this manual is the length of time required to solve the cryptograms.
+This is subject to great variation, dependent upon other factors, of
+which the following are the most important:
+
+(1) The degree of cryptographic security in the system. The degree
+of security depends upon the technical soundness of the system
+itself. Technical soundness, in turn, determines the resistance
+to analysis which the system offers. Cryptographic systems vary
+widely in technical soundness, but this manual does not attempt
+to demonstrate such variation.

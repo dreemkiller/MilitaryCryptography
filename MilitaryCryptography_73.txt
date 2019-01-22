@@ -1,0 +1,84 @@
+_.-—- a- w er
+
+ 
+
+ 
+
+REF ID:A56932
+
+ 
+
+secrecy, ﬁgure groups often form the basis for the encipherment more
+readily than do letter groups.
+
+d. Prior to 1 January 1934, in practically all modern codes constructed
+by experts, letter code groups were of the artiﬁcial—word type. On that
+date new rules in international communication became effective,5 permit—
+ting the use of letter code groups without restriction in their formation,
+as class (3) in a above. It is probable that almost all of the codes pub-
+lished subsequently to the above date will contain letter code groups of
+the unrestricted type.”
+
+e. The greatest advantage possessed by letter groups over ﬁgure groups
+lies in the availability of a far greater number of permutations, or inter-
+changes, of letter groups, because there are 26 letters which may be
+permuted to form letter code groups, whereas there are only 10 digits
+which may be permuted to form ﬁgure groups. If code groups of ﬁve
+elements are used, then there are available 26"“, or 11,881,376 groups of
+ﬁve letters, and only 105, or 100,000 groups of ﬁve ﬁgures. Now since
+the number of permutations of 26 letters taken in groups of ﬁve is so
+great, only permutations conforming to special types may be selected for
+use, and there will still remain a sufﬁcient number of code groups for
+even the largest codes. Certain types of code groups are selected so that
+possible error in telegraphic transmission can be reduced to a minimum.
+If the code groups have been constructed scientiﬁcally it is possible to
+correct such errors quickly without having the message repeated.
+
+73. Length of ‘Code Groups
+
+The length of code groups used, whether the groups consist of two,
+three, four, or ﬁve elements, depends upon the size of the code. This
+applies almost exclusively to ﬁeld military or naval codes, where trans-
+mission is through a governmental agency; in commercial messages or
+in governmental communications transmitted over privately-operated
+lines, ﬁve—letter or ﬁve—ﬁgure groups are used almost exclusively because
+of the regulations adopted by the International Telegraph Conferences
+and by commercial telegraph and cable companies. As a general rule in
+the transmission of code and cipher messages, each group of ﬁve letters
+is counted as one word regardless of the number and arrangement of
+vowels; each group of ﬁve ﬁgures is counted as one word.
+
+74. Permutation Tables of Two-Letter Differential
+
+a. Code groups of modern codes are constructed by use of tables which
+permit more or less automatic and systematic construction in the form
+desired. These are called permutation tables. Because they may be used
+_“Se: Telegraph Regulations, International Telecommunication Convention, Madrid, 1932.
+
+’ For a treatise on the development of codes see "The History of Codes and Code Language, the
+
+International Telegraph Regulations pertaining thereto, and the bearing of this history on the
+Cortina Report," by Major William F. Friedman, Sig.-Res., Government Printing Oﬂice, 1928.
+
+67
+
+  
+ 
+
+..
+,.
+
+.3
+
+il
+.
+',
+
+ 
+
+._._....._.=_=;:>=a-'._' - -
+
+g
+
+ 
+

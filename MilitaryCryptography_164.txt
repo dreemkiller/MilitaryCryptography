@@ -1,0 +1,68 @@
+ 
+
+ 
+
+REF ID:A56932
+
+of course, is not an inherent necessity of the system; the decomposition
+and recomposition alphabets may be entirely different. This is shown
+in the example in paragraph 137d.
+
+137. Comparison of Foreg-oing Fractionating System with
+Certain Digraphic Systems
+
+a. The method described in paragraph 136a can be identiﬁed with
+some of the digraphic substitution systems discussed in chapter 9,
+section I.
+
+b. Take the message of paragraph 136e and let a slight modiﬁcation
+in the method of recombining 01., and 0% be made. Speciﬁcallyﬂ let
+the ﬁrst halves and the second halves of the biﬁd equivalents of the
+plain-text letters be combined in the following manner, using the biﬁd
+alphabet of paragraph 136e:
+
+Message: ONE PLANE REPORTED LOST
+
+ON EP LA NE RE PO RT ED
+41=L 54=H 41=L 15=N 23=R 44=Q 22:1‘ 33=E
+25=R 33=E 12=A 55=E 55=E 52=D 32=D 32=D
+
+LO ST
+44=Q 42:0
+12=A 52=W
+
+Cryptograml: LRHEL ANERE QDTDE DQAOW
+
+If the cryptogram given in paragraph 1362 were split in the middle into
+two sections, and the letters taken alternately, the result would be
+identical with that obtained in this subparagraph. The identiﬁcation
+referred to in a above is demonstrated in c below.
+
+1:. Note the .two alphabet matrix shown in ﬁgure 68. If the same
+message is now enciphered by its means, a cryptogram identical with
+that obtained in b above will be obtained. Thus:
+
+ 
+
+ 
+
+ 
+
+ 
+
+M A N U F l Message:
+C T R I G
+B D E H K ONE PLANE REPORTED LOST
+L 0 P Q S
+v w x Y z Substitution of pairs:
+' 0Np=LRc; EszﬂEc; LAD=LAc; NED=NEe;
+M c B L V REP=REc; etc.
+A T D 0 W
+3 1; fl 2 ﬁ Cryptogram:
+F G K S Z LRHEL ANERE etc.
+Figure 68
+
+158
+
+ 
+

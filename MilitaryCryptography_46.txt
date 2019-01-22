@@ -1,0 +1,61 @@
+REF ID:A56932
+
+Section III. TYPES OF MIXED CIPHER ALPHABETS
+45. Systematically Mixed Cipher Alphabets
+
+It will be recalled that in a mixed cipher alphabet the sequence of
+letters or characters in the cipher component does not correspond to the
+normal sequence. 'There are various methods of mixing up the letters of
+the cipher component, and those which are based upon a scheme that is
+systematic in its nature are very useful because they make possible the
+derivation of one or more mixed sequences from any easily remembered
+word or phrase, and thus do not necessitate the carrying of written
+memoranda. They are called systematically mixed cipher alphabets.
+
+4b. Key-word Mixed Alphabets
+
+a. One of the simplest types of systematically mixed cipher alphabets
+is the key-word mixed alphabet. The cipher alphabet consists of a key
+word or phrase (with repeated letters, if present, omitted after their ﬁrst
+occurrence), followed by the letters of the alphabet in their normal
+sequence (with letters already occurring in the key, of course, omitted).
+Example, with GOVERNMENT the key word:
+
+Plain: ABCDEFGHIJKLMNOPQRTSUVWXYZ
+Cipher : GOVERNMTABCDFHIJKLPQSUWXYZ
+
+1). Mixed alphabets formed by including all repeated letters of the key
+word or key phrase were common in Edgar Allan Poe’s day but are
+impractical because they make decipherment diﬂicult.
+
+Plain: ABCDEFGHI J KLMNOPQRSTUVWXYZ
+Cipher: NOWISTHETIMEFORALIIGOODM'ENT
+S Cipher: ABCDEFGHI J KLMNOPQRSTUVWXYZ
+
+Enciphering alphabet. . . .{
+
+Enciphering alphabet. . . .{
+
+Plain: P VHMSGD QKAB OEF C
+
+Deciphering alphabet. . . . I: J RWYN I
+X 1‘ Z
+U
+
+The average cipher clerk would have considerable difﬁculty in decrypto-
+graphing a cipher group such as TOOET, each letter of which has three
+or more equivalents, and from which the plain-text words (N) INTH,
+. .FT THI (S), IT THI . . . , etc., can be formed on deciphcrment.
+
+c. An example of a key-word mixed alphabet is shown in ﬁgure 9,
+where, in its enciphering form, the cipher component presmts to the
+experienced eye the skeleton of the key upon which the alphabet is
+based: WESTERN UNION TELEGRAPH COMPANY. Any easily
+remembered word, phrase, or sentence may be used. The starting point
+of the sequence, when used as a cipher component, may be indicated
+in the usual manner. For example, in the alphabet referred to, the
+
+40
+
+ 
+

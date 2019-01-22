@@ -1,0 +1,48 @@
+REF 1D:A56932
+
+of inscription is indicated by the ﬁgure 1, and the ﬁnal point, by the
+figure 2.
+
+c. In the foregoing case, the route is a succession of the moves made
+by the king in the game of chess; it forms the so-called “king’s tour”,
+in which the playing piece makes a complete or reentrant journey cover—
+ing all cells of the chessboard, each cell being traversed only once. A
+route c0mposed of a succession of moves made by the knight, or the so-
+called “knight’s tour”, is also possible, but in order to be practical a grid
+with the cells numbered in succession would have to be prepared for the
+correspondents, since millions of different reentrant knight’s tours can
+be constructed‘ on a chessboard of the usual 64 cells.
+
+a“
+
+ 
+
+Figure 54. Figure 55.
+
+108. Transposition of Groups of Letters, Syllables. and Words
+
+There is nothing in the previously described methods which precludes
+the possibility of their application to pairs of letters, sets of three or
+more letters, or even syllables and whole words. Nor, of course, is their
+use limited to operations with plain text they may be applied as second—
+ary steps after a substitutive process has been completed (see sec. I, ch.
+
+10).
+
+109. Disguised Transposition Methods
+
+a. The system often encountered in romances and mystery stories,
+wherein the message to be conveyed is inserted in a series of nonsig—
+niﬁcant words constructed with the purpose of avoiding or evading sus-
+picion, is a species of this form of “open” cryptogram involving trans—
+position. The “open” or enveloping, apparently innocent text may be
+designated as the exle-mal text; the secret or cryptographic text may be.
+designated as the internal text. A complicated example of external or
+open and internal or secret text is that shown in paragraph 98.
+
+‘Eee BalTW. W. R., Mathematical Recreations and Essays, London, 1928.
+
+122
+
+ 
+

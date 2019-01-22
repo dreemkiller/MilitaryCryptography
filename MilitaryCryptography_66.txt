@@ -1,0 +1,53 @@
+ 
+
+ 
+
+REF 1D:A56932
+
+Here it is seen that U, (R1,) = V,, which is identical with the, result
+obtained from the use of the table. There are other ways of using the
+table, however, each having a correspondingly modiﬁed method of em-
+ploying sliding strips in order to obtain identical results.
+
+Section VII. OBSERVATIONS ON CIPHER SYSTEMS
+
+64. More Complex Substitution Systems
+
+a. The substitution systems discussed above are all based on relatively
+simple methods. They can all be solved rapidly. More complicated sys-
+tems have been devised, however, and are used in certain situations.
+They are brieﬂy described in this section.
+
+b. Virtually all systems based upon the principle of a repeating key
+can be solved because of certain cyclic or periodic phenomena, which the
+use of a repeating key exhibits externally or internally in the crypto-
+grams. There are methods for preventing the external manifestation in
+the cryptograms of these phenomena, or their suppression and disguise
+if present internally. In some, the principle is to make the elements of a
+ﬁxed or invariable-length key apply to variable or irregular-length group-
+ings of the plain text so that no cyclic phenomena are exhibited by the
+cryptograms. In others, the principle is to apply irregular lengths of the
+key, or a variable-length key to regular and ﬁxed groupings of the plain
+text, with the same object in view. In still other methods, both principles
+are combined, or the key itself is of such a nature that it does not repeat
+itself. This may be brought about by constructing or establishing a non-
+repeating key, or by employing the key in a special manner. Systems in
+which the successive letters of the cipher text or successive letters of'the
+plain text after the initial letter serve as successive key-letters are also
+used with the object of avoiding or eliminating periodicity.
+
+c. In the majority of the methods described the encipherment deals
+with single letters, and is therefore monagraphit: in nature. There are,
+however, certain methods in which encipherment is by pairs of letters,
+called digraphic substitution, or by sets of three letters, called trigraphic
+substitution. Polygraphic substitution methods, as they are mlled, have
+for their object the suppression, so far as possible, of the characteristic
+frequencies of individual letters, by means of which solution may be
+reached. The methods may employ extensive tables, small squares,
+rectangles, and other designs, or sets of sliding or rotating alphabets.
+The Playfair C ipher, which was for many years a standard ﬁeld cipher in
+the British Army and was for a short time during World War I em—
+ployed by the U. S. Army, is an example of digraphic substitution.
+
+60
+

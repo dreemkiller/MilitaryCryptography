@@ -1,0 +1,86 @@
+REF ID:A56932
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+M A N U F
+C T R I G
+B D E H K
+L 0 P Q S
+V W . X Y Z
+A U T O M
+B I L E S
+C D F G H
+K N P Q R
+V W X Y 2
+Figure 62.
+
+production. In ﬁgure 62, M0,, = UA, and UAp = M0,; MA, = MA,
+and MA, = MAP. When both 01,, and 02,, happen to be in the same
+column, there is no encipherment“, a fact which constitutes an important
+disadvantage of this method. This disadvantage is only slightly less
+obvious in the preceding cases where the cipher equivalent of such a case
+of 5?”; consists merely of the plain~text letters in reversed order,
+yielding We.
+
+117. One-Alphabet Matrices; Playfair Cipher
+
+(1. Limiting the matrix to one alphabet and modifying the method of
+ﬁnding equivalents gives the basis for a well—known system called the
+Playfair Cipher, which was not invented by Lord Lyon Playfair but by
+Sir Charles Wheatstone. It was used for many years as a ﬁeld cipher
+in the British Army. For a short time, 1917—18, it was prescribed as a
+ﬁeld cipher for use in the United States Army. The modiﬁcatiOn in the
+method of ﬁnding cipher equivalents has been found useful in imparting
+a greater degree of security than that aﬂ‘ord‘ed‘ in the preceding types of‘
+
+matrix methods. Figure 63 shGWS a typical Playfair square; The usual‘
+method of encipherment can be best explained by examples given under-.-
+
+four categories :
+
+Q17): Members of the plain—text pair, 49‘}, and' 0%, are at opposite-
+ends of' the diagonal of' an imaginary- rectangl'e deﬁned by the-
+two letters; the members of the cipher- -text pair, 91 and' 623, are-
+at the opposite ends o_f_ the (_)_ther diagonal of this __imag__inary-
+
+_r__ectangle. _Examples: M0,, = ALc; MID — —UC,; LUp = QMc;
+VI, = YCc.
+
+“Actuallg, the nlainytext, digraph is selﬂenciphered, in that, 07052—0} 03¢...
+
+13.9
+

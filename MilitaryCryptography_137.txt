@@ -1,0 +1,51 @@
+ 
+
+ 
+
+use...»
+
+REF ID:A56932
+
+k. Neither table III nor table IV presents the possibilities such tables
+might afford for digraphic substitution. They may, however, be
+rearranged so as to give results that will approach more closely to the
+desired ideal as to nonrelationship between cipher equivalents of plain—
+text pairs having an identical letter in common. Note that in table V,
+which is based upon the same primary alphabets as table III and table IV,
+the cipher equivalents are the same as in the latter tables, but they have
+been so distributed as to eliminate the undesirable and externally obvious
+relationship referred to. (In any table of this nature there can be only
+676 different pairs of equivalents, since the table presents merely the
+permutations of the 26 letters taken two at a time. It is the distribution of
+the pairs which is important.)
+
+I. Table V still shows symmetry in its construction, and a suspicion
+of its existence formed during the preliminary stages of cryptanalysis
+would aid materially in hastening ﬁnal solution.
+
+m. The foregoing tables have all been digraphic in nature, but a
+kind of false trigraphic substitution may also be accomplished by-means
+of such tables, as illustrated in the accompanying table VI, which is the
+same as table V with the addition of one more alphabet at the top of
+the table.
+
+11. In using this table, 01,, is located in alphabet I, and its equivalent,
+0“,, taken from alphabet II; 02,, is located in alphabet III, and its equiv-
+alent, 0%, taken from alphabet IV; 0% is the letter lying at the intersec-
+tion of the row indicated by 93,, in alphabet I and the column determined
+by 02,. Thus, FIRE LINES would be enciphered NNZ IEQ KOV. It is
+obvious, however, that only the encipherment of 93, is polyalphabetic in
+character; 01,, and 92,, are enciphered purely monoalphabetically. Various
+other agreements may be made with respect to the alphabets in which
+
+the plain—text letter will be sought in such a table, but the basic crypto-
+graphic principles are the same as in the case described.
+
+_0. Digraphic tables employing numerical equivalents instead of letter
+equivalents are, of course, possible but in this case the number of equiv—
+alents required, 676, means that combinations of three ﬁgures must be
+
+used.
+
+131
+

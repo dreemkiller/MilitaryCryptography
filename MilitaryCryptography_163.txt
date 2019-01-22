@@ -1,0 +1,60 @@
+REF ID:A56932
+
+d. Polyﬁd cipher alphabets may be systematically-mixed alphabets
+based upon keywords and keyphrases. For example, note how the
+
+following biﬁd alphabet is derived from the keyphrase XYLO-
+PHONIC BEDLAM:
+
+XYLOP IC
+11121314152 2 23242 3 3 3
+
+MFGKQRSTUVWZ
+34 35 41 42 43 44 45 51 52 53 54 55
+
+HN BEDA
+12 5123
+
+The same principle may be applied to triﬁd alphabets, employing the
+permutations of the three digits 1, 2, and 3, taken in groups of three.
+e. Note the following bifid alphabet and the example of its use in
+enciphering a message:
+ABCDEFGHI—JKLM
+12 31 21 32 33 15 25 34 24 35 41 11
+
+NOPQRSTUVWXYZ
+13 42 43 44 23 45 22 14 51 52 53 54 55
+
+Message: ONE PLANE REPORTED LOST
+_ 9‘": 413 44113 23442233 4442
+Cipher 202,: 233 31233 33323232 1252
+
+The biﬁd elements, 0%, and 9%, are now recombined horizontally in
+pairs and the pairs are reconverted into letter equivalents of the basic
+alphabet which, for the sake of convenience, is here arranged in the
+form of a deciphering alphabet:
+
+1112131415212223 2425313233
+MANUFCTR IGBDE
+5 5
+
+3435414243444
+HKLOPQ SVWXYZ
+
+Cryptogram: LHLNR QTEQO REAEE DDDAW
+
+f. It will be noted that there are four basic steps involved in the
+foregoing cncipherment: (1) A process of decomposition, substitutive
+in character, in which each 0,, is replaced by a bipartite 0,, composed of
+two parts, 01,, and 02,, according to a biﬁd alphabet; (2) a process of
+separation, transpositive in character, in which each 01,, isseparated
+from the 0% with which it was originally associated; (3) a process of !
+recombination, also transpositive in character, in which each 01,, is *
+combined with a 0% with which it was not originally associated; and
+ﬁnally (4) a process of recomposition, substitutive in character, in
+which each new 01., 03c combination is given a letter value according to
+a biﬁd alphabet. In the foregoing example (e above), the alphabet for
+the recomposition was the same as that for the decomposition; this,
+
+157
+

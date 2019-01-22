@@ -1,0 +1,53 @@
+sage containing a secret or hidden meaning, prepared with the intention
+of escaping suppression by censors in war time, the sentence “Son born
+today" may mean “Three transports left today.” Messages of this type
+are in encrypted text and are said to be in open code. Although occa-
+sionally useful in espionage and counter-espionage, secret communication
+systems of this sort are impractical for ﬁeld military use, and will not
+be dealt with further in this manual.
+
+d. The term “correspondents” is used in this manual to designate per-
+sons who exchange messages with each other. Between the originator
+and the addressee there may be persons who actually write and handle
+the messages, who convert the plain texts into cryptograms, or who
+reconvert the cryptograms into plain texts. The originator and the
+addressee may also do this work but in the U. S. Army such work is
+usually done by special personnel who act as agents of the correspondents.
+
+e. The term “enemy” is used in this manual to designate all persons
+who obtain messages or copies of messages not intended for them.
+
+6. Cryptography, Cryptographing. and Decryptographing
+
+a. Cryptography is that branch of cryptology which treats of various
+means and methods for rendering plain text unintelligible and recon-
+verting unintelligible text into plain text or the application thereof.
+
+b. To cryptograph3 (encrypt) is to convert a plain-text message into
+a cryptogram by following certain rules agreed upon in advance by
+correspondents, or furnished them or their agents by higher authority.
+The process of cryptographing a message produces a cryptogram.
+
+c. To decryptogroph (decrypt) is to reconvert a cryptogram into the
+equivalent plain-text message by a direct reversal of the cryptographing
+process; that is, by applying to the cryptogram the key used in crypto-
+graphing the plain text.
+
+(1. A person skilled in the art of cryptographing and decryptographing,
+or one who has a part in making a cryptographic system is called a
+cryptographer; a clerk who cryptographs and decryptographs, or who
+assists in such work, is called a cryptographic clerk.
+
+7. Codes, Ciphersl and Enciphered Code
+
+a. Cryptographing and decryptographing are accomplished by means
+collectively designated as code: and ciphers. Such means are used for
+either or both of two purposes: (1) secrecy, and (2) economy or brevity.
+Secrecy usually is far more important in military cryptography than
+economy or brevity. In ciphers or cipher systems cryptograms are pro-
+duced by applying the cryptographic treatment to individual letters of
+the plain—text messages, whereas in codes or code systems cryptograms
+are produced by applying the cryptographic treatment to entire words,
+
+3Compare the terms "cryptography," "cryptogram," and "cryptograph" with the terms
+“telegraphy,” "telegram," and "telegraph."

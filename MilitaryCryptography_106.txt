@@ -1,0 +1,97 @@
+REF ID:A56932
+
+transposition, form the basis of a second, or T—2 transposition. If the
+process is continued, there may be T—3, T—4 . . . transpositions, and
+each may involve the use of a geometric ﬁgure or design. For con—
+venience, the design involved in accomplishing the T—1 transposition
+may be designated as the D—1 design; that involved in accomplishing
+the T—2 transposition as the D—2 design, etc. However, it may as well
+be stated at this point, that so far as military cryptography is concerned,
+methods which involve more than D—2 and T—2 elements are entirely
+impractical and often those which involve no more than D—2 and T—2
+elements are also impracticable for such use.
+
+93. True and False Polyphase Transpositions
+
+a. It is possible to perform two or more transpositions with the
+letters of a text and yet the ﬁnal cryptogram will be no more difﬁcult
+to solve than if only a single transposition had been effected. The equiva-
+lent of this in the case of substitution ciphers is to encipher a mono-
+alphabetic cryptogram by means of a second single alphabet; the ﬁnal
+result is still a monoalphabetic substitution cipher. Likewise, if a mes-
+sage had been enciphered by a simple form of route transposition
+and a second and similar or approximately similar form of simple
+route transposition is again applied to the text of the ﬁrst transposition,
+the ﬁnal text is still that of a monophase transposition cipher. Again,
+two transpositions may be accomplished without really affecting a more
+thorough scrambling of the letters composing the original text. Examples
+will serve to clarify the differences between false and true polyphase
+transposition.
+
+b. Note the following simple columnar transposition cipher pre-
+pared according to the method described in paragraph 27 :
+
+Message: DELIVER ALL AMMUNITION TO 4TH DIVISION
+DUMP-
+
+Keyword : SCHEDULE = i:
+
+q
+
+SCHEDUL
+-1-5-5-2-8-6-
+
+Enciphering rectangle :
+
+I—l
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+vac-arcs:
+HWHI‘H
+
+oao>rcn
+23:23:49:
+Dua=<m
+:Hocmm
+a<wzwa>
+‘UHOHbIDh
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Cryptogram (T—l):
+
+ELI'RI VMTDD IMNHN A I
+DL'PUS EUOIU IO P LAOTO mm
+
+Figure 38.
+1 00
+
+ 
+

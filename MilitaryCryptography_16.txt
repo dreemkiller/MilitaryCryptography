@@ -1,0 +1,47 @@
+manually copied or automatically recorded by special apparatus suited
+for the purpose. Correspondents have no way of knowing whether or not
+radio transmissions are being copied by the enemy, since the unauthorized
+copying does not interfere in the slightest degree with signals being
+transmitted. Interception of wire trafﬁc is much more difficult than of
+radio, mainly because the equipment must be located very near the wire
+line, or connected directly to it. The act of listening-in and copying or
+recording electrically-transmitted messages by persons other than the cor-
+respondents or their authorized agents is called interception. The pur-
+pose of interception is to obtain copies of messages transmitted and, by
+studying them, to obtain information. In time of war, it must be assumed
+that the enemy will intercept all messages transmitted by any signal
+communication agency susceptible of interception. -
+
+b. it is also possible to determine, with a fair degree of accuracy, the
+direction of a radio transmitter from a given location and, by establishing
+the direction from two or more locations, it is possible to determine the
+geographical location of the transmitter. The science which deals with
+the means and methods of determining the direction in which a radio
+transmitter lies is called radio direction ﬁnding; the method of deter-
+mining the geographical location of a radio transmitter, by the use of
+two or more direction-ﬁnding installations, is called radio position
+ﬁnding.
+
+c. Messages may be transmitted by signals with special apparatus
+which distort, disguise, or completely hide the signals themselves, so that
+the processes of interception and recording the signals are very difficult,
+and intercept personnel may not even be aware Of the existence of such
+signals. All such methods of transmitting messages fall in the class
+designated in this manual as system of secret signaling. Signaling by
+means of so-called “black light,” that is, invisible or infra-red light
+waves, falls into this category. Methods of disguising or distorting
+voice or picture transmissions (par. 2c) require more or less highly-
+specialized apparatus for the interception of the signals and their inter—
+pretation or recording in recognizable form. As a rule, the signals of
+practically all systems of secret signaling can be intercepted and recorded
+in a form suitable to making the signals understood by one of the senses,
+usually visual or auditory. Ordinarily, this requires special apparatus
+but can sometimes be done without the speciﬁc apparatus used in forming
+or sending the signals, or the “key” used in their distortion, or disguise.
+
+14. Trafﬁc Analysis and Crypi'analysis
+
+a. A great deal of information of military value can be obtained by
+studying signal communications without solving the crytographed mes-
+sages constituting the trafﬁc. The procedure and the methods used have
+yielded results of sufﬁcient importance to warrant the application of 3

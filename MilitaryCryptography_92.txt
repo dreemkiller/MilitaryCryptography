@@ -1,0 +1,47 @@
+REF ID:A56932
+
+(14) Filing messages. Never tile cryptographic messages and their
+equivalent plain text together. Work sheets must be destroyed
+by burning.
+
+(15) Check for accuracy. Cryptographed messages should be
+checked for accuracy by decryptographing the message before
+transmission. Whenever practicable, this should be done by a
+cryptographer other than the one who originally cryptographed
+the message.
+
+(16) Safeguarding material. Observe all rules of physical security
+established to safeguard the cryptographic material and message
+translations. Utmost care should be taken to prevent the loss
+or unauthorized sight of the codes or lists of cipher keys in
+use. It is possible to photograph an entire code in two or three
+hours. Mere continued possession of the cryptographic material
+is, therefore, no absolute guaranty that it has not been compro-
+mised by photography or some other method of reproduction.
+The only absolute assurance of its not having been compro-
+mised is that it has never left the possession of the person into
+whose care it has been entrusted or the safe in which it is kept
+when not in use. Even if knowledge that a code or cipher has
+been compromised follows immediately after such compromise,
+the amount of time and the diﬂiculties involved in notifying all
+concerned and distributing new cryptographic material are so
+great that serious damage is caused by the delay and interrup-
+tion in communication, not to speak of the danger resulting
+from the enemy’s reading the most recent messages in the com-
+promised system.
+
+(17) Reporting compromise. Finally, it must be realized that the
+compromise or capture of cryptographic material is a most
+serious matter. If there is any reason to suspect that such
+material or related documents have been compromised, higher
+authority should be notiﬁed by the fastest means possible. Not
+only is such material available to the enemy for reading current
+and old messages, but also the cryptanalytic data afforded
+thereby become most useful in working on similar systems to
+replace the compromised one. The failure to notify higher
+authority promptly, if compromise is suspected, may jeopardize
+the lives of thousands of soldiers and is therefore more serious
+than permitting compromise to take place, if it could have been
+avoided. Regulations for reporting compromise should be care-
+fully observed at all times.
+

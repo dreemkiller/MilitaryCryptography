@@ -1,0 +1,122 @@
+ 
+
+REF ID:A56932
+
+called logotypes or ligatures, so in cryptography, when combinationsof
+two or more letters are to be treated as a unit in a cryptographic process,
+they may also be called ligatures and can be conveniently indicated as
+being so by placing a bar across the top of the combination. Thus, C—Op
+represents the digraph C0 of the plain text. It will also be convenient to
+use the Greek letter 0 to represent a letter of the alphabet, without indi—
+cating its identity. Thus, instead of the circumlocution “any letter of the
+plain text”, the symbol 0,, will be used; and for the expression “any
+letter of the cipher text”, the symbol 9,, will be used. The symbol 0—0,, then
+means “any plain-text digraph”; the symbol We “any cipher—text dia-
+graph.” To refer speciﬁcally to the lst, 2d, 3d . . . member of a ligature,
+the exponent l, 2, 3 . . . will be used. Thus, 02,, of REMD is the letter E;
+03, MW, is 2.
+TABLE 1
+(Showing only a partially ﬁlled table)
+Final Letter (92,)
+
+ABCDEFGHIJK ...XYZ
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+A EADJFH A
+B B
+C ND C
+A D BF D
+1': E E
+3
+31" AA F
+.2
+Es: : . :
+E N BC CY BAFE N
+AC AJ . . . BE
+Y DE AF . . . AD
+Z AE BD . . . AK
+ABCDEFGHIJK X_YZ
+
+113. Polygraphic Substitution by Means of Tables
+
+. a. The most simple method of effecting polygraphic substitution
+Involves the use of tables similar to that shown in table I. This table
+merely presents equivalents for digraphs and is to be employed upon
+the coordinate system, 01,, of 71—0—21. being sought in the column at the left
+or ﬁght, 92,, in the row at the top or bottom. The cipher pair, We, is
+
+126
+
+ 
+

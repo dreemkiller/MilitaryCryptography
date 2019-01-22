@@ -1,0 +1,56 @@
+ 
+
+ 
+
+REF ID:A56932
+
+CHAPTER 11
+CIPHER DEVICES AND CIPHER MACHINES
+
+ 
+
+Section I. CIPHER DEVICES
+141. General
+
+The cipher systems previously described by no means exhaust the
+category of complex systems, but it is impossible to describe them all.
+Furthermore, each one presents innumerable possibilities for modiﬁcation
+in minor respects and for combination with other methods. In the
+paragraphs to follow, the principles upon which certain of the more
+simple cipher devices have been based are described.
+
+142. Whea’rstone Cipher1°
+
+a. The device is a little more than four inches in diameter, and
+consists of a dial with two hands, as shown in ﬁgure 71. The dial is
+composed of two independent circles of letters. In the outer circle the
+letters progress clockwise in normal alphabetic sequence, but there
+is an extra character between the Z and the A, making a total of-
+27 characters. Some of the spaces also have digits inscribed. in them,
+for enciphering numbers. In the inner circle the letters are arranged
+in mixed alphabetic sequence and are inscribed either on a surface
+which permits of erasure, or on a. detachable cardboard circle which
+can be removed and replaced by another circle bearing a different
+sequence. In ﬁgure 71 this inner sequence is a systematically mixed
+sequence derived from the keyword FRANCE, as follows:
+
+125456
+
+mﬁw'zl
+l-JL'IUW
+can»
+40:32
+S'UHO
+NDHL‘J
+
+YZ
+FBKSYRDLTZAGMUNHOVCIPWEJQX
+
+1..Credit: for the invention of the device and system described in this paragraph belongs not
+to Sir Charles Wheatstone, as has until recently been thought, but to an American, Decius
+Wadsworth, who in 1817 constructed a device identical in principle with that described on
+pp. 342—347 of The Scientiﬁc Papers of Sir Charles Wheatrtoue. Published by the Physical
+Society of London in 1879. The Wheatstone device used a 27-elernent outer alphabet (26 letters
+
+164
+

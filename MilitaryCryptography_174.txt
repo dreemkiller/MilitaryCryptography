@@ -1,0 +1,54 @@
+ 
+
+REF 1D:A56932
+
+b. It is possible to incorporate modiﬁcations of the basic idea of the
+Jeffersonian principle in using strip systems. For instance, there may
+be a daily .selection of strips from a set consisting of a much larger
+number; or there may be different sets of strips for messages in'the
+various security classiﬁcations; or different sets of strips may be issued
+to different groups of holders, etc.
+
+Section II. CIPHER MACHINES
+
+146. Importance of Cipher Machines in Modern Cryptographic
+Communication
+
+The remarks made in paragraph 2 regarding the present trends in the
+art, are believed to be sufﬁcient to give a clear idea of the importance of
+a knowledge of the uses and limitations of cipher machines as adjuncts
+to modern cryptographic communications. However, in this text only
+observations of a general character can be made, leaving for a future text
+an exposition of detailed principles involved in the construction and
+operation of a few typical cipher machines. More and more attention is
+today being devoted to this phase of cryptography and to a large extent
+cipher machines have replaced code systems even in lower headquarters,
+except for small, special-purpose codes.
+
+147. Transposition-Cipher Machines
+
+These are rarely encountered; the ﬁles of United States patents' dis—
+close but two examples and so’ far as is known no actual machines have
+been constructed conforming to the speciﬁcations covered therein. It may
+be said that substitution methods lend themselves so much more readily
+to automatic encipherment than do transposition methods that the pos-
+sibilities for the construction of cipher machines for effecting transposi—
+tions are almost completely overlooked. Basically it would seem that a
+machine for effecting transposition would have to include some means for
+“storing up” the letters until all the plain text has been “fed into the
+machine,” whereupon the transposing process is begun and the letters
+are ﬁnally brought out in what externally appears to be a randomized
+order. It is conceivable that a machine might be devised in which the dis—
+arrangement of the letters is a function merely of the number of letters
+comprising the message; daily changes in the randomizing machinery
+could be provided for by resetting the elements controlling the. process.
+
+148. Substitution-Cipher Machines
+
+(1. The substitution principle lends itself very readily to the construction
+of cipher machines for effecting it. The cipher devices described in the
+
+168
+
+ 
+

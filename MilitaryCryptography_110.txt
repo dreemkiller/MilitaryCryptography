@@ -1,0 +1,101 @@
+REF ID:A56932
+
+The ﬁrst, Or D—l, rectangle is inscribed in the usual manner of simple
+numerical key columnar transposition. It is shown as D—l in the accom-
+panying ﬁgure. . The letters of T—l transposition are then inscribed
+in the second, or D—Z, rectangle in the normal manner of writing, that
+is, frorn left to right and from the top downwards. This is shown in
+D—Z of ﬁgure 42a for the ﬁrst two columns of D—l (in numerical key
+order.) after transfer of their letters into D—Z. The letters of the
+remaining columns of D—1 are transferred in the same manner into
+D—Z, yielding the following rectangle:
+
+4—7—12-3—11 — 8—- 1—13— 5- 10 — 9—2—6
+N'NgDGOPNOTUT
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+UHMIMW
+mrar'zr'm
+I‘D-12>5UO
+'U'UOIT‘WH
+OF‘CHE'TJZ
+
+ 
+
+I c: :> m in Q > c: .:>
+'11 o o a m :21 z
+ta tn ta H :x: H :>.
+m” o m o < m c:
+o g o 5:: [=1 0 r'
+*u so :1: '21 u: z}: -<
+a o o a c: an 2-1
+-a H U a z v—a I351
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Figure 421).
+
+For the T—Z text- the letters are transcribed from the D—2 rectangle,
+reading down the'columns in key-number order, and grouping the letters
+in ﬁves. The Cryptogram is as follows:
+
+PTRUT OGTTI RLOPP DUSVO SOSAU AOREA
+CORSH EEDNF WTULC NNEST QOFOY KFFHR
+PUORA NTLTE LNLES GLOER OMONA IHIES
+ENETN MDIT
+
+e. In paragraph 29 a variation of the simple columnar key method
+of transposition was described. If the process therein indicated is
+repeated, double transposition is effected. The following example will
+serve to illustrate the method, using the same message and key as were
+used in the paragraph 29:
+
+Message: REQUEST IMMEDIATE REENFORCEMENTS
+Keyword: P R 0 D U C T
+Derived numerical key: 4-5-3-2-7-1-6
+
+:104
+
+ 
+

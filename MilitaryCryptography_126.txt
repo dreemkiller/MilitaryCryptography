@@ -1,0 +1,55 @@
+REF ID:A56932
+
+number of columns, 16 X 6 = 96. If four letters are inscribed in each
+rectangle, the capacity of the grille in terms of letters is 384. The grid in
+this case would, after completion, present 24 columns of letters, to which
+a numerical key for a second transposition can be applied in transcrip-
+tion to produce the ﬁnal text of the cryptogram.
+
+106. Indeﬁnite or Continuous Grilles
+
+a. In his Manual of Cryptography, Sacco illustrates a type of grille
+which he has devised and which has elements of practical importance.
+An example of such a grille is shown in ﬁgure 53. This grille contains 20
+columns of cells, and each column contains 5 apertures distributed at
+random in the column. There are therefore 100 apertures in all, and
+this is the maximum number of letters which may be enciphered in one
+position of the grille. The plain text is inscribed vertically, from left to
+right, using only as many columns as may be necessary to inscribe the
+complete message. A 25-letter message would require but 5 columns. To
+form the cryptogram the letters are transcribed horizontally from the
+rows, taking the letters from left to right as they appear in the apertures.
+If the total number of letters is not a multiple of 5, suﬂicient nulls are
+added to make it so. In decryptographing, the total number of letters is
+divided by 5, this giving the number of columns employed. The cipher
+text is inscribed from left to right and top downwards in the apertures
+in the rows of the indicated number of columns and the plain text then
+reappears in the apertures in the columns, reading downward and from
+left to right. (It is, of course, not essential that nulls be added in the
+encipherment to make the length of the cryptogram an exact multiple of
+5, for the matter can readily be handled even if this is not done. In de-
+cipherment the total number of letters divided by 5 will give the number
+of complete columns; the remainder left over from the division will give
+the number of cells occupied by letters in the last column on the right.)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1' 31!! V
+Jr. Limb.
+
+ 
+
+Figure 53a.
+
+120
+

@@ -1,0 +1,50 @@
+special term to this ﬁeld of study; namely, traffic analysis‘, which is the
+study of signal communications and intercepted or monitored trafﬁc for
+the purpose of gathering military information without recourse to crypt—
+analysis.
+
+b. In general terms, trafﬁc analysis is the careful inspection and study
+of signal communications for the purpose of penetrating camouﬂage
+superimposed upon the communication network for purposes of security.
+Speciﬁcally, trafﬁc analysis reconstructs radio communication networks
+by: (1) noting volume, direction, and routing of messages; (2) corre—
+lating transmission frequencies and schedules used among and within the
+various networks; (3) determining directions in which transmitters lie.
+by means of radio direction ﬁnding; (4) locating transmitters geo—
+graphically, by radio position ﬁnding; (5) developing the system of
+assigning and changing radio call signs; (6) studying all items that
+constitute “conversations” or “chat” exchanged among operators on
+radio channel.
+
+c. From a correlation of general and speciﬁc information derived from
+these procedures, trafﬁc analysis is able not only to ascertain the geo-
+graphic location and disposition of troops and military units (technically
+called "order of battle”) and important troop movements, but also to
+predict with a fair degree of reliability the areas and extent of imme-
+diately pending or future activities. Trafﬁc analysis procedures are fol-
+lowed to obtain information of value concerning the enemy, and to
+determine what information concerning our own forces is made avail-
+able to the enemy through our own signal communications.
+
+d. These very important results are obtained without actually'reading
+the texts of the intercepted messages; the solution and translation of
+messages are the functions of cryptanalysis and not trafﬁc analysis.
+However, the cryptanalyst is frequently able to make good use of bits
+of information disclosed by trafﬁc analysis such as faults noted in mes-
+sage routing and errors in cryptography causing messages to be duplicated
+or canceled. Cryptanalysis can provide important information for trafﬁc
+analysis, since the solution of messages often yields data on impending
+changes in signal communication plans, operating frequencies and sched-
+
+ules, etc. It also yields data'on speciﬁc channels, networks, or circuits
+
+which are most productive of intelligence, so that effective control and
+direction of intercept agencies for maximum results can be achieved.
+e. In addition to (1) trafﬁc analysis and (2) cryptanalysis as means of
+obtaining information relating to communications, further data may be
+obtained (3) by the use of secret agents for espionage, (4) by the cap—
+ture and interrogation of prisoners, (5) by the capture of headquarters
+or. command posts with records more or less intact, and (6) by treason
+or carelessness on the part of personnel who handle communications. Of
+
+4Which may be abbreviated tranalysis.

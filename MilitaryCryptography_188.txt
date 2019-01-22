@@ -1,0 +1,57 @@
+ 
+
+ 
+
+ 
+
+REF ID:A56932
+
+'b. It is important to note that such a key as the foregoing must be
+of a length that does not contain a factor in commbn with the length of
+the code; groups involved in the encipherment, for if it does contain a
+common factor the period will be abbreviated. For example, in the fore-
+going case, since the repeating key contains 9 digits and the code groups
+4 digits, the length of the enciphering period is 9 groups, that is, two
+identical placode groups must be at least 9 groups apart before they will
+produce identical encicode groups. But if the keying sequence were 10
+digits in length this phenomenon of cyclic repetition could happen if the
+identical placode groups were but 5 groups apart, since the common
+factor 2 cuts the potential keying length in half; and if the keying
+sequence were 12 digits in length the period would be but 3 groups. In
+this connection see also paragraph 131 c.
+
+162. 'Nonrepeai'ing Additives and Subtractors
+
+a. When special tables are employed as the source of the adders or
+subtractors for superenciphering code, a much more secure system is
+provided. The tables may be contained in a book or document called a
+keybook, an additive book, or a subtractor book. On each page of such a
+book groups of numbers are regularly disposed in rows and columns on
+the page. By applying identifying symbols called indicators to the pages,
+as well as to the rows and the columns on each page of the keybook, it is
+possible to provide for the safe superenciphcrment of a large volume of
+traffic. All correspondents must, of course, be provided with the same
+basic code book and the same keybook. In employing the keybook the
+indicators tell the recipient of a message what groups were used; that is,
+where to begin in the decipherment of the encicode. A page from a
+typical keybook of this sort is shown in ﬁgure 72.
+
+b. It should be noted that whether the arbitrary numerical groups in
+the keybook are employed as adder: or as subtractor: has nothing to do
+with the nature of the groups themselves: the latter may be used either
+way, provided consistency is observed and the correspondents agree as to
+whether the groups will be employed throughout the messages in the
+additive manner (in encipherment) illustrated in Example A (a) in
+paragraph 160e, or in the subtractor manner illustrated in Example C
+(a), in paragraph 160g. In ﬁgure 72 are shown two sets of 100 4-digit
+groups, disposed in numbered blocks each containing 10 columns and
+10 rows of groups. To designate a group as the initial one to be employed
+in encipherment, or decipherment, it is merely necessary to give the
+block number, the row number and the column number of the group. For
+example, 0116 is the indicator for the group 8790. It is usual to take the
+successive groups in the normal order of reading, that is, from left to
+right and from the top downwards, although any other order of reading
+may be agreed upon between correspondents. The book from which this
+
+182
+

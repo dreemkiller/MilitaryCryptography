@@ -1,0 +1,53 @@
+REF ID:A56932
+
+although it was independently invented many years later (1891) by a
+French cryptographer, Commandant Bazeries, and still later (1914)
+by Captain Parker Hitt, U. S. Army (now Colonel, U. S. Army, Ret..).
+Because it was ﬁrst described in print (1901) by Bazeries, the principle
+upon which the cipher system is based is usually referred to in the
+literature as the Bazeries principle; for the sake of historical accuracy,
+however, it is herein called the Jeffersonian principle.
+
+b. The basis of this principle is the use of a set of 20 (or more, if
+desired) mixed alphabets arranged in a sequence that can readily be
+changed; these can be used in the encipherment of a whole set of 20
+letters with one and the same displacement of the alphabets. Suc-.
+cessive encipherments are accomplished with different displacements
+of the alphabets.
+
+6. Whereas Jefferson contemplated a device using a total of 36 dif-
+ferent alphabets mounted on revolvable disks, the one Bazeries described
+used only 20 alphabets mounted in the same manner.
+
+144. The Obsolete U. 5. Army Cipher Device. Type M—94
+
+a. This cipher device is based upon the Jeﬁersonian principle, using
+25 mixed alphabets on small aluminum disks. It was widely employed
+in the U. S. military service and to a more limited extent in other
+U. S. services until 1942, when it was superseded by better devices.
+
+b. In using the device, the 25 disks were ﬁrst arranged according to
+the key for the day (the disks bearing the identifying numbers 1—25,
+and also the letters B—Z), and then the ﬁrst twenty-ﬁve letters of the
+plain text were set up along a guide rule. The cipher text consisted
+of any one of the other rows, which would be' taken off in ﬁve groups
+of ﬁve letters each. This process continued until the entire message was
+enciphered. To decryptograph, it was merely necessary for the deci-
+phering clerk to set up along the guide rule of the device (properly
+arranged according to the daily key) the ﬁrst twenty-ﬁve letters of
+the cipher text, and then by inspection ﬁnd the one and only .one
+row of letters that constituted plain text, which process would be
+repeated until the entire message was deciphered.
+
+145. Strip Cipher Systems
+
+a. A modiﬁcation of the Jeffersonian principle which has found merit
+in practical cryptography is the strip cipher system. This is nothing
+more than a series of printed, random-alphabet strips to take the place
+of the disks of the cylindrical devices. These strips, bearing identifying
+numbers, slide freely in a strip board which may be made of metal,
+wood, or plastic. The strips are simpler to produce and more economical
+to replace than metal disks.
+
+167
+

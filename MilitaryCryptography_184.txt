@@ -1,0 +1,55 @@
+ 
+
+REF ID:A56932
+
+being given their letter-code equivalents. Some of these methods
+are explained below.
+
+159. Arithmetical Methods
+
+These are the most important of the various methods of superencipher—
+ing code, and must be dealt with in somewhat greater detail than the
+foregoing methods. There are several different types of treatment,
+each of which will be brieﬂy discussed in the subsequent subparagraphs.
+
+160. Single or Fixed Additives
+
+a. If the code groups are numerical, the addition of an arbitrarily
+selected number to each code group in the code message constitutes a
+simple form of superencipherment. It may be varied by prearrangement
+between correspondents, simply by changing the ﬁxed number as fre-
+quently as may be deemed necessary, or by some easily arranged system
+of change. The group of digits composing the number which is added to
+the placode values is commonly termed an additive group, or, mone
+often, an additive, or SOmetimes simply an adder. In deeipherment, the
+additive is merely removed from the received encicode groups by sub-
+tractiOn, leaving the placode groups, which can then be decoded by refer-
+ence to the code book. Often the date or some number derivable from the
+date is employed as the additive but usually the number is simply an
+arbitrarily composed group of digits. Because the same number is em—
+ployed throughout the encipherment of the entire code message, such
+an additive is called a ﬁxed additive.
+
+b. Methods such as the foregoing are particularly weak crypto-
+graphically if the basic code book and the code groups embody limita-
+tions in construction. For example, should it be employed in connection
+with a code having only 3,000 groups numbered consecutively from 0000
+to 2999, then the initial digits of the groups are limited to the three
+digits 0, 1, and 2; the application of a ﬁxed additive can therefore pro—
+duce only three different digits as the initial digits of the encicode text.
+This phenomenon would, of course, soon lead to the determination of
+the initial digits of the placode groups.
+
+c. One rather simple scheme involving the use of ﬁxed additives in
+the case of codes having alphabetical as well as numerical code groups
+is to apply the ﬁxed additive to the numerical code groups representing
+the plain-text words or phrases and then take the alphabetical code
+groups corresponding to the sums as the ﬁnal encicode groups. In codes
+of this type the additives may be rather large numbers and the process
+of ﬁnding the alphabetical code groups corresponding to the sums is very
+easy. But in codes wherein only alphabetical code groups are listed, that
+is, no ﬁgure-code or numerical groups are also given, the additives
+employed must naturally be rather small numbers. it would be extremely
+
+178
+

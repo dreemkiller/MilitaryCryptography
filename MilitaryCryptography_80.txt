@@ -1,0 +1,70 @@
+ 
+
+REF ID:A56932
+
+CHAPTER 5
+
+COMPARISON OF CODE AND CIPHER SYSTEMS
+
+ 
+
+79. Advantages and Disadvantages of Each Type of System
+
+a. From the viewpoint of purely military cryptography, a comparison
+of the advantages and disadvantages of each method can be made only
+
+between
+
+systems suitable for each of the following three general
+
+categories :
+
+(1)
+
+(2)
+
+(3)
+
+High—security, or “high—grade,” systems for cryptographic
+intercommunication among the largest military units and the
+highest echelons of command.
+
+Medium-security, or “medium—grade,” systems for crypto-
+graphic intercommunication among the intermediate units and
+echelons of command.
+
+Low-security, or “low-grade,” systems for cryptographic inter-
+communication among the small units and the lowest echelons
+of command.
+
+I). The principal factors to be taken into account in comparing code
+and cipher methods in cryptographic communication are reliability,
+security, rapidity, ﬂexibility, and economy.
+
+(1)
+
+(2)
+
+74
+
+Reliability. Reliable cipher machines made possible by modern
+engineering and cryptographic techniques satisfy all or a
+majority of these factors to a great degree, and such machines
+are now used in the U. S. Army for these high—grade systems.
+Although the machines are complex, their reliability can be
+assured by having properly trained personnel to operate and
+maintain them. Accuracy is also one of the elements of
+reliability and a good cipher machine can yield a higher degree
+of accuracy or completeness of text in cryptographic communi-
+cation than can a code system. A mistake in one or two code
+groups may obscure, alter, or render unintelligible the meaning
+of a whole message, but in cipher systems, often wrong
+letters may be corrected, or missing letters may be supplied,
+by the context. It must be remembered, however, that in some
+cipher systems a single error of a fundamental type, such as
+using the wrong key or the wrong “setting,” may prevent the
+deciphering of the message.
+
+Security. If reliability were the only or the most important
+factor, code would be preferable to cipher for all echelons of
+

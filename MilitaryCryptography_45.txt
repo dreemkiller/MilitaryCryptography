@@ -1,0 +1,60 @@
+ 
+
+ 
+
+REF ID:A56932
+
+AB CDEFGH I J KLMNOPQRSTUVWXY ZAB CDEFGHI J KLMNOPQRSTUVWXYZ
+AB CDEFGHI J KLMNOPQRSTUVWXYZ
+
+d. A reciprocal alphabet is an inverse alphabet, since it may serve i
+either as an enciphering or deciphering alphabet.
+
+44. Procedure in Enciphermenf and Decipherment
+
+a. When a message is enciphered monoalphabetically, that is, by
+means of a single cipher alphabet, letters of the text are replaced by the
+equivalents in the cipher alphabet selected by prearrangement. Example:
+
+Message: THREE MACHINE GUNS CAPTURED.
+Enciphering Alphabet: Reversed Standard, AI) = D.,.
+Plain : ABCDEFGHI J KLMNOPQRSTUVWXYZ
+Cipher : DCBA ZYXWVUT SRQPO‘NMLKJIHGFE
+Letter-for-letter encipherment:
+THREE MACHINE GUNS CAPTURED
+KWMZZ RDBWVQZ XJQL BDOKJMZA
+
+The cipher text is then grouped in ﬁves and the indicator letter D“
+inserted as the initial letter of the ﬁrst group (or any other prearranged
+
+group) .
+
+Cryptogram:
+DKWMZ ZRDBW VQZXJ QLBD-O KJMZA
+
+Figure 10.
+
+b. The procedure in decipherment is merely the reverse of that in
+encipherment. The initial letter of the message, D, indicates A, = Dc in
+the cipher alphabet. The deciphering alphabet is therefore as follows:
+
+Cipher : AB CDEFGHI J KLMN OPQRSTUVWXY Z
+Plain : DCBA ZYXWVUT SRQPONMLKJ IHGFE
+
+The message deciphers thus:
+Cipher: (D) KWMZ ZRDBW VQZXJ QLBDO KJMZA
+Plain: THRE EMACH INEGU NSGAP TURED E
+
+The deciphering clerk rewrites the text in word lengths:
+THREE MACHINE GUNS CAPTURED
+
+c. When a mixed alphabet is used, the enciphering and deciphering
+processes are the same as those described under a and b above. For
+speed in cryptographing, the cipher alphabet is prepared in the form of
+an enciphering alphabet, and for speed in decryptographing, in the form
+of a deciphering alphabet.
+
+'If this or any such similar convention has been agreed upon by the correspondents.
+
+39
+

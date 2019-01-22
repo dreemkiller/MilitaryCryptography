@@ -1,0 +1,47 @@
+ 
+
+ 
+
+ 
+
+ 
+
+REF ID:A56932
+
+Section VI. CIPHER DISKS AND SQUARE TABLES
+61. Cipher Disks
+
+a. In the foregoing section it was noted that the separate alphabets
+employed in the encipherment are produced by the use of only two strips
+of paper bearing the normal alphabet. Such strips are often referred to
+as sliding alphabets, because they can be shifted or slid against each other
+in any one of 26 points of contact or coincidence. Exactly the same
+results, so far as cipher equivalents are concerned, can be obtained by the
+use of other devices. First, there are the so-called cipher wheels or cipher
+disks in which an alphabet is written on the periphery of a rotating disk,
+the circumference of which is divided into 26 equal segments, and this
+disk is made to revolve concentrically upon a similar but slightly larger
+ﬁxed disk. Figure 18 shows the now obsolete U. S. Army Cipher Disk,
+which is of this simple type. Here the alphabetic sequences are printed
+on glossy celluloid, are permanent, and admit of no variatiom The
+use of unglazed celluloid upon which blank segments appear would
+permit of writing letters and erasing them as often as desirable. Thus,
+quick and easy change of alphabets would be possible.
+
+ 
+
+To encipher a message, the key letter or the ﬁrst letter of the
+key word or phrase is set opposite “a.” Let us assume it
+to be "E." The cipher letters to be written are those
+opposite the text letter when “a" on the circle is set
+opposite "E” on the card. For example, “send powder"
+would be written "MARBPQIBAN." To use a key word
+or phrase, each letter is used in turn to encipher one letter
+only. When the last letter of the key word is used, repeat
+until all letters of the message are enciphered. Numbers
+when enciphered with the disk must be spelled out.
+
+Figure 18.
+
+ 
+

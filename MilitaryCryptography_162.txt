@@ -1,0 +1,62 @@
+REF ID:A56932
+
+EF HIJ
+3051140915110
+RSTUVWXYZ
+
+03 18 19 20 08 21 07 04 22 23 24 25 26
+
+ABCD G KLM
+021106121 0 671
+NOPQ
+
+Each letter is represented by a combination of two digits; in preparing
+the message for cryptographing, the two digits comprising the cipher
+equivalent of a letter are written one below the other, thus:
+
+Plain text: ONE PLANE REPORTED LOST
+. 801...: 101 11001 01110011 1120
+
+Cipher
+202...: 833 97233 83988732 7817
+
+By recombining the single digits in pairs, reading from horizontal
+lines, and writing down the pairs in unchanged numerical form, one
+obtains the following:
+
+10 11 10 01 01 11 00 11 11 20
+83 39 72 33 83 98 87 32 78 17
+
+b. The foregoing cipher text can be transmitted in 5—ﬁgure groups.
+or it can be reconverted into letters by one means or another, but
+some difﬁculties are encountered in the latter case because every one
+of 100 different pairs of digits has to be provided for, thus necessitating
+a 2-letter substitution, which would make the cipher text twice as long
+as the plain text.
+
+c. In the methods to follow presently, these difﬁculties are avoided
+by a simple modiﬁcation. This modiﬁcation consists in the employment
+of true polyﬁa' cipher alphabets, that is, polypartite alphabets in which
+the plain component is the normal sequence and the cipher component
+consists of a sequence of equivalents composed of all the permutations
+of 2, 3, 4, . . . symbols taken in deﬁnite groups. For example, a
+biﬁa’ alphabet8 composed of permutations of ﬁve digits taken two at a
+time can be constructed, yielding a set of 25 equivalents for a 25—letter
+alphabet (I and J being usually considered as one letter). A triﬁd
+alphabet of 27 equivalents can be constructed from all the permutations
+of the digits 1, 2, 3, taken three at a time; an extra character must,
+however, be added to represent the 27th element of the alphabet. It
+is convenient to represent the parts of a biﬁd equivalent by the symbols
+91., and 6%, the parts of a triﬁd equivalent, by the symbols 01c, 02c
+and 03c.
+
+5 Such an alphabet should be clearly differentiated from a biliteral alphabet. In the latter. two
+and only two elements are employed, in groups of ﬁves, yielding 25 or 32 permutations. The
+Biliteral Cipher of Sir Francis Bacon and the Baudot Alphabet of modern printing telegraph
+systems are based upon alphabets that are typical examples of biliteral alphabets. The desig-
+nation dt'arnpht'c alphabet will he applied to one in which the cipher equivalents are composed
+of any number of symbols, n, taken simply in groups of two, these symbols not being permuted
+in systematic fashion to produce a complete set of 2" equivalents.
+
+156
+

@@ -1,0 +1,58 @@
+ 
+
+_. Wr-ETJ-ifr—JILILLaw. . ..
+
+REF 1D:A56932
+
+alphabet key is A, = In. Two or more correspondents using the pre-
+arranged key, WESTERN UNION TELEGRAPH COMPANY,
+would obtain the same disarranged sequence; when this sequence is to
+form the cipher component of a cipher alphabet, the prearranged key
+letter A1, = Jo would result in giving each correspondent exactly the
+same cipher alphabet. The key words or phrases need not consist of any
+deﬁnite number of letters, but it is advisable to use for keys such words
+or phrases as will most thoroughly disarrange the normal sequence. (See,
+in this connection, par. 26.) A key-word mixed alphabet will manifest
+the key word or parts of it only when the alphabet is in the form of
+an enciphering alphabet. Note that alphabet (b) of ﬁgure 9 no longer
+gives any external evidence of having been derived from the phrase
+WESTERN UNION TELEGRAPH COMPANY.
+
+47. Transposition-mixed Alphabets
+
+a. It is possible to disarrange the sequence even more thoroughly by
+applying a simple method of transposition to the key—word sequence
+as if it were a message. An example is illustrated in ﬁgure 11.
+
+Key word:
+
+TELPHONY
+
+(a) Simple columnar transposition:
+TELPHONY
+ABCDFGIJ
+KMQRSUVW
+XZ
+
+Mixed sequence :
+TAKXEBMZLCQPDRHFSOGUNIVYJ W
+
+(b) Numerical key, columnar transposition:
+
+7-1-5-6-2-5-4-8
+TELPHONY
+ABCDFGIJ
+KMQRSUVW
+XZ
+
+Mixed sequence :
+EBMZHFSLCQN IVO GUPDRTAKXYJ W
+
+Figure 11.
+
+b. The last two systematically mixed cipher alphabets are transposi-
+tion-mixed alphabets. Almost any of the methods of transposition
+described in sections IV and V of this chapter may be applied to them.
+
+41
+

@@ -1,0 +1,52 @@
+ 
+
+REF ID:A56932
+
+1). Such a grille can assume 4 positions, two obverse and two reverse.
+Arrangements must be made in advance as to the sequence in which the
+various positions will be employed. That is why the grille shown in ﬁgure
+53a has the position-designating letter “A” in the upper left-hand corner
+and the letter “B” (upside down) in the lower right—hand corner. On the
+obverse side of the grille would be the position—designating letters “C"
+and I‘D.”
+
+c. Figure 53b shows how a message is enciphered.
+
+Message:
+All RECEIVING HEAVY MACHINE GUN FIRE FROM HILL SIX TWO ZERO.
+
+ 
+
+ 
+
+ 
+
+ 
+
+Figure 53b.
+
+Cryptogram:
+EGIIX FNNEA YTHFL RIRMO IOLWE MERVA ERMAH EGSOA ICUEC NVHIZ.
+
+(The letters E and A in the 10th column are nulls. Columns 11 to 20 are not
+used at all, the irregular right-hand edge of the grille merely indicating that this
+portion of the grille remains vacant.)
+
+Section V. MISCELLANEOUS TRANSPOSITION SYSTEMS
+
+107. Complex Route Transposition
+
+a. In ﬁgure 54 a route for inscribing letters within a rectangle is
+indicated by a sequence of numbers. The initial point may be at any of
+the four corners of the rectangle, or it may be at any other point, as pre—
+arranged. The letters may be inscribed to form the rectangle by following
+the route indicated and then transcribed from the rectangle to form the
+cryptogram by following another route; or the letters may be inscribed
+according to one route and transcribed accordingly to the numerical
+route indicated.
+
+b. A variation of the foregoing is that illustrated in ﬁgure 55, wherein
+the inscription follows the route shown by the arrows. The initial point
+
+121
+

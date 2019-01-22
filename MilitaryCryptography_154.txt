@@ -1,0 +1,55 @@
+REF 1D:A56932
+
+124. Interrupted or Variable-Key Systems
+
+In certain of the foregoing systems it was noted that periodicity is
+entirely avoided by the use of a key which is so long that it does not
+repeat itself ; often such a system is referred to as operating in connection
+with an indeﬁnite, inﬁnite, or unlimited key as contrasted with one that
+operates in connection with a deﬁnite, ﬁnite, or limited key. But
+periodicity may also be avoided by special manipulation of a limited key.
+Several such methods are explained below.
+
+125. Suppressing Periodicity by Encipherment of Variable-Length
+Grouping: of the Plain Text
+
+a. A keyword, though limited in length, may nevertheless be applied to
+variable or invariable—length sections of the plain text. When, for
+example, each letter of the key serves to encipher a single letter of the
+plain text, the encipherment is said to be invariable or ﬁxed in this
+respect. The same is true even if a single letter of the key serves to
+encipher regular sets of letters of the plain text; for example, each letter
+of the key may serve to encipher 2, 3, 4 . . . . letters of the text. In these
+cases periodicity would be manifested externally by the cryptograms,
+providing there is a sufﬁcient amount of text to be examined. But if
+each letter of the key serves to encipher irregular or variable-length
+groupings of the plain text, then periodicity cannot appear except under
+rather remote contingencies. Suppose, for example, that so simple a
+scheme as letting each letter of the key serve to encipher a complete word
+of the text is used; since words are of irregular lengths and there is little
+or no regularity whatever in the sequence of words with respect only to
+their lengths, periodicity cannot appear. An example of encipherment will
+be useful.
+
+b. In the following example the simple cipher disk (direct sequence
+sliding against reversed sequence) is used, with the key word DEBARK,
+to encipher the following message, according to the scheme described
+above. Study it carefully.
+
+Key: D E B A R K
+Plain text: COLLECT ALL STRAGGLERS STOP SEND THEM
+Cipher: BPSSZBK ETT JIKBVVQXKJ IHML ZNEO RDGY
+Key: D E B
+
+Plain text: FORWARD AT ONCE
+
+Cipher: YPMHDMA EL NOZX
+
+Cryptogram: BPSSZ BKETT J IKBV VQXKJ IHMLZ NEORD
+GYYPM HDMAE LNOZX
+
+c. Instead of enciphering according to natural word lengths, the irregu-
+lar groupings of the text may be regulated by other agreements. For
+
+148
+

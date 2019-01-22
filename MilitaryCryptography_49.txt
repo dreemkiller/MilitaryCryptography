@@ -1,0 +1,57 @@
+REF ID:A56932
+
+positions of a few of them. Their chief disadvantage is that they must be
+reduced to writing, since they cannot readily be remembered, nor can
+they be reproduced at will from an easily remembered key word.
+
+50. Number of Single Alphabets Available from a Basic 'Alphabel'
+
+It is obvious that the cipher component of a cipher alphabet may be
+shifted or slid against the plain component at 26 points of contact so as
+to produce a series of different enciphering alphabets. For example, the
+mixed sequences given under (b) of ﬁgure 11, when used as a cipher
+component, yields the following two of a series of 26 cipher alphabets:
+
+Enciphering Alphabets
+
+(1) Plain: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+Cipher : EBMZHFSLCQN IVOGUPDRTAKXYJ W
+
+( 2) Plain : ABCDEFGHI J KLMN OPQRSTUVWXYZ
+Cipher : WEBMZHFSLCQN IVO GUPDRTAKXY J
+
+The message DAILY REPORT NOT RECEIVED YET would be
+enciphered by the ﬁrst alphabet as:
+
+Plain: DAILY REPOR TNOTR ECEIV EDYEII
+Cipher: ZECIJ DHUGD TOGTD HMHCK HZJHT
+
+and by the second alphabet as:
+
+Plain: DAILY REPOR TNOTR ECEIV EDYET
+Cipher: MWLNY PZGOP RVORP ZBZLA ZMYZR
+
+Externally the two cryptograms seem different except in length. The two
+enciphering alphabets present the same sequence in the cipher compo-
+nent, but this entirely disappears in the corresponding deciphering
+alphabets, which are as follows:
+
+Deciphering Alphabets
+
+l Cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+( ) Plain: UBIRAFOELYVHCKNQJSGTPMZWXD
+
+.2 Cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+( ) Plain: VCJSBGPFMZWIDLORKTHUQNAXYE
+
+It is possible to write the same message in 25 different external forms,
+each using a different cipher alphabet of a series derivable from a
+basic sequence. The basic sequence or alphabet in such a case is often
+called a primary sequence or a primary alphabet; derived alphabets
+are called secondary alphabets. In producing secondary alphabets the
+basic sequence must be juxtaposed and slid against itself, or against
+the normal sequence, or against another mixed sequence. In all cases
+secondary alphabets form a series of alphabets that are interrelated and
+
+43
+

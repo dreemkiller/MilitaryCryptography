@@ -1,0 +1,81 @@
+ 
+
+REF ID:A56932
+
+that either directly or indirectly manifest relationships which are im-
+portant from a cryptanalytic point of view. It should be clear now that
+by means of a single, prearranged, secret word it is possible for two
+correspondents to send a whole set of messages all in different mixed
+alphabet, or to use a different alphabet for each of 26 consecutive days.
+
+51. Miscellaneous Types of Cipher Alphabets
+
+a. The cipher alphabets shown thus far have used only letters, but
+alphabets in which the cipher component consists of ﬁgures, or groups
+of ﬁgures, are not uncommon in military cryptography. Cipher alphabets
+using signs and symbols are not suitable for military cryptography be-
+cause they can neither be telegraphed nor telephoned with any degree
+of accuracy, speed, or facility. Since there are but ten digits it is obvious
+that, in order to represent a camplete alphabet in ﬁgure ciphers, oom-
+binations of at least two digits are necessary. The simplest kind of such
+an alphabet is that in which A, = 01, B, = 02, . . . Z, = 26.
+
+ 
+
+ 
+
+ 
+
+1 2 3.4 5 6 7 8 9 0
+1 A B 0 D E F G H I J
+2 K 1. II N O P Q R S '1'
+3 U V l x Y Z . , : :
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Figure 12.
+
+b. Instead of a simple alphabet of the preceding type, it is possible
+to use a simple diagram of the type shown in ﬁgure 12. Here the digits
+at the side and top of the rectangle are used to designate, according to
+the coordinate system, the cell occupied by each letter and punctuation
+mark within the rectangle. When used for such purposes, the ﬁgures (or
+letters) constituting coordinate elements are referred to as raw and
+column indicators. It is usually necessary to agree beforehand upon
+which indicator will be given as the ﬁrst half of the equivalent for a
+letter, the row indicator or the column indicator, in order to avoid
+ambiguity or error. In all of the systems to be described here, the row
+indicator will always form the ﬁrst half of an equivalent. Accordingly
+in ﬁgure 12, the letter A, = 11, B, = 12, and so forth.
+
+c. A variation of the foregoing diagram is exempliﬁed in ﬁgure 13.
+Here, letters of the alphabet are inserted in the 25 cells of a large square,
+I and I being written together in one cell. Then a key word of ﬁve let-
+ters is applied to the top of the large square and the same or a differ-
+ent key word is applied to the side of the square to form column and row
+indicators. In ﬁgure 13, for example, Sp = TI; W: = EH; etc.
+
+44
+

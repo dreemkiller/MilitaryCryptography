@@ -1,0 +1,56 @@
+REF 1D:A56932
+
+from columns to form the cryptogram, the results are the same as though
+a perforated grille had been employed. Thus:
+
+ 
+
+A I
+
+EIGRIIOLDARDDLTY
+Cryptogram:
+
+EWCRA EOLDA RDDAT Y
+Figure 506.
+
+d. It is obvious that a numerical key'. may be applied to effect a
+columnar transposition in the foregoing method, giving additional
+security. I
+
+e. The method is applicable to grilles of other shapes, such as tri-
+angles, pentagons, hexagons, octagons, etc.
+
+f. In ﬁgure 50c it is noted that there are many cells that might be
+occupied by letters but are not. It is obvious that these may be ﬁlled with
+nulls so that the grid is completely ﬁlled with letters; Long messages may
+be enciphered by the superposition of several diagrams of the same
+dimensions as ﬁgure 50c.
+
+105. Rectangular or "Post Card" Grilles
+
+a. The grille shown in ﬁgure 51 differs from the ordinary revolving
+grille in that (1) the apertures are rectangular in shape, and are greater
+in width, thus permitting of inscribing several letters in the cells dis—
+closed on the grid by each perforation of the grille; and (2) the grille
+itself admits of but two positions with its obverse side up and two with
+its reverse side up. In ﬁgure 51 the apertures are numbered in succes—
+sion from top to bottom in four series, each applying to one position of
+the grille; the numbers in parentheses apply to the apertures when the
+grille is reversed; the numbers at the corners apply to the four positions
+in which the grille may be placed upon the grid.
+
+17. One of the ways in which such a grille may be used is to write the
+ﬁrst letter of the text at the extreme left of the cell disclosed by aperture
+1, the second letter, at the extreme left of the cell disclosed by aperture 2,
+and so on. The grille is retained in the same position and the 17th letter
+is written immediately to the right of the lst, the 18th immediately to the
+right of the 2d, and so on. Depending upon the width of the aperture,
+and thus of the cells disclosed on the grid, 2, 3, 4 . . . letters may' be
+inserted in these cells. When all the cells have been ﬁlled, the grille may
+then be placed in the second position, then the third, and ﬁnally, the
+fourth.
+
+117
+
+ 
+

@@ -1,0 +1,64 @@
+ 
+
+REF ID:A56932
+
+c. When a strict alphabetical arrangement is used in the sequence of
+the phrases, the code is said to be a strictly alphabetical code; when the
+phrases are listed under separate headings based upon the principal word
+or idea in the whole expression, the code is said to be a caption code. The
+following extracts will serve to illustrate the two types:
+
+Caption code Strictly alphabetical
+
+Assistance Assistance
+
+Give assistance Assistance for
+
+Require assistance Assistance from
+
+No assistance required Assistance has been sent
+
+Assistance has been sent Assistance to
+
+Assistance for Assistant
+
+Assistance from Assisted
+
+AssistanCe to .................... . ..........
+Assistant Give
+Assisted Give assistance
+
+etc. ......... . .....................
+
+No
+
+Require
+Require assistance
+
+(1. More precise and economical encoding is possible with a caption
+code than with an alphabetical code. With the caption code it is easier
+to assemble an extended variety of expressions and shades of meaning
+under speciﬁc headings than with the alphabetical code. On the other
+hand, the use of a caption code involves more time and labor in encoding,
+especially by untrained or unskilled personnel, than the use of an alpha-
+betical code. Where the phraseology of communication is standardized or
+stereotypic, the most common expressions may be listed in an alphabetical
+code as readily as in a caption code. In both types of codes there may be
+tabulated material, such as tables of numbers, dates, equipment, geo-
+graphical or personal designations, either fomiing isolated sections in
+the code or inserted in the vocabulary under appropriate headings.
+
+e. Two-part codes are used by many governments for their secret
+diplomatic, military, and naval communications because the advantages
+they offer over one-part codes are greater than their disadvantages. The
+disadvantages are: a two-part code is harder to handle than a one—part
+code because it is at least twice as large in content, since each code group
+and each plain—text element must appear twice; the cost of printing is
+approximately double; the amount of labor in compiling a two-part code
+is nearly four times greater because of the necessity for preparing the
+accurate cross—reference arrangement which is its basic principle.
+
+70
+
+ 
+

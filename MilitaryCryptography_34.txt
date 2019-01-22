@@ -1,0 +1,57 @@
+ 
+
+REF ID:A56932
+
+bers, the rectangle shown in (a) of ﬁgure 6 is prepared and then the
+columns (of cells) are ﬁlled in numerical order. An early stage in the
+decryptographing is represented in (b) of ﬁgure 6. It is only after the
+process has been ﬁnished that the complete message reappears, as shown
+in (c) of ﬁgure 6.
+
+c. The method indicated above may vary considerably by changing
+(1) the key word, (2) the route followed in inscribing the letters of the
+plain text, and (3) the route followed in transcribing them to form the
+cipher text. A change in key daily, or oftener, is possible; or, by drawing
+up a whole list of daily keys for a given period, automatic change in key
+can be provided for without indicating in the cryptograms the applicable
+key. It is also possible to prepare a long list of suitable keys and to
+designate each key by an indicator inserted in the cryptogram in a pre-
+arranged position. Indicators may be words, numbers, groups of letters,
+or single letters. For example, each key in a list of 500 may be indicated
+by a single pair of letters inserted at the beginning, at the end, or at any
+prearranged position of the cryptogram. This procedure has a disadvan—
+tage, however: if an error occurs at the particular position of the crypto-
+gram containing the indicator, the decryptographing is made difﬁcult if
+not impossible. For this reason indicators, if used, are often inserted
+in at least two positions in the cryptogram, usually at or near the
+beginning and end.
+
+d. The letters of the plain text may be inscribed in the rectangle
+according to any one of the routes indicated in ﬁgure 1. If the tran-
+scribing process is accomplished by reading whole columns or whole
+rows, according to a prearranged plan which follows a route perpendicu-
+lar to the inscribing route (except in the case of spiral inscription), the
+decryptographing process is simple. Only certain of the simpler combina-
+tions of inscription and transcription are 'suitable for military use, the
+most practicable being those illustrated in ﬁgures 5 and 6.
+
+28. Columnar Transposition with lncompletely Filled Red-angles
+
+a. The degree of cryptographic security of columnar transposition is
+much increased if the rectangle is not completely ﬁlled. It is impossible
+to go into the reasons for this increased security without demonstrating
+solutions; sufﬁce it to say that the solution will be more difﬁcult than
+would be suspected if one or more cells are vacant in the last row of the
+rectangle. An example of cryptographing and decryptographing is shown
+in ﬁgure 7. _
+
+b. To decryptograph such a cryptogram one must ﬁrst count the
+number of letters in the text and then outline on cross-section paper a
+rectangle which will exactly contain the message, crossing off the cells
+which must remain vacant. In the foregoing example, the text contains
+30 letters and, since the key contains 7 letters, the outlined rectangle is as
+
+28
+
+ 
+

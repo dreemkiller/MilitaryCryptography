@@ -1,0 +1,57 @@
+REF ID:A56932
+
+b. The correspondents agree beforehand upon several diagonals which
+run from left to right, and from right to left and which intersect,
+thus cutting up the design quite thoroughly. In ﬁgure 29 let these selected
+diagonals be those indicated by the numbers from 1 to 6, inclusive,
+the odd ones indicating diagonals running from left to right. In the
+transcription, the letters along the indicated diagonals are ﬁrst set down
+in groups of ﬁve, proceeding in key—number order. Correspondents must
+also agree beforehand as to whether a letter which lies at the intersection
+of two diagonals will be taken both times it is encountered or taken
+only once and, if so, whether on its ﬁrst or second appearance. After
+all these letters have been written down, one then proceeds with the
+remaining letters in the usual columnar manner, omitting the letters
+which have already been taken. The cryptographing process will become
+clear upon the study of the example in ﬁgure 29.
+
+89. Interrupted Keyword Transposition
+
+a. This method of transposition is a development of a more simple
+method wherein the transposition follows a numerical key. The latter
+must ﬁrst be described. A keyword or keyphrase of fair length is selected
+and a numerical key derived from it. Let this key be the phrase UNI-
+FORMITY OF METHOD.
+
+Keyphrase: UNIFORMITYOFME TH OD
+Numerical key: 17-10-6-3-11-14-8-7-15-18-12-4-9-2-16-5-13-1
+The plain text is then written out in horizontal lines corresponding
+to the length of the key; then transposition is effected within each row,
+according to the sequence of numbers applicable, as shown in ﬁgure 30.
+
+Message: ADMINISTRATIVE ORDERS MUST BE COMPLETED AND
+READY TO ACCOMPANY FIELD ORDERS NOT LATER
+THAN 5:00 RM. THIS DATE.
+
+Enciphering diagram :
+
+ 
+
+I”, 17-10-6-3-11-14--871-5 18-12-4--92-16-5-15-1
+A DMI N IST R A TIVE on DE
+R suu s TBE c o MPLE TE DA
+N DRE A DYT o A ccou PA NY
+F IEL D 0RD E R sno'r LA TE
+R THA N FIV E r MTHI SD Ar
+E
+
+Cryptogram:
+EEIIR MTSVD NTDIR OAAAE UPEME BLSSM
+DTG'I'R OYMEC ARTYO DACND OPNAE TLNAE
+DROID STOEL FRTIA TDHVI HTNMA FESRP
+E
+
+Figure 30.
+
+9.2
+

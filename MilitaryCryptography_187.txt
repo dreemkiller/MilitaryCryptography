@@ -1,0 +1,66 @@
+REF ID:A56932
+
+(c) Note that m. the endpherment process the keying group serves as the mmuend,
+the placode as the submihend whereupon the reminder becomes the encicode,
+in the dedpherment process the keying group again serves as thé minuend
+the encicode as the subtrahen'd, whereupon the remainder becomes the placode.
+
+(4) Explanation. The explanation involvesa consideration of the
+nature of the processes themselves when looked .at from the
+point of view of simple algebra. Note the following, where the
+symble x denotes placode, y denotes the --ﬁxed_ group, .and 2
+denotes encicode:
+
+In example A (a)..'.................' .............. I a+y=z
+Transposing ..... - ................ '. ............................. 1-:2—31
+That is ........ ............... ' ......................... ' 2—y=x
+
+It is seen here that y must be subtracted from 2 in order to recover x
+
+and 1n order that it may be a positive quantity. Thus, this method involves
+both addition and subtraction. '
+
+But in example C (a) ........................................ 5—5::
+
+. . Transposing .................................................. y—zzx,
+
+which is exactly what is done in Example C (b). Hence it is seen that
+
+in the case of this second method only subtraction is involved, in both
+processes.‘ -
+
+h. The method illustrated in Example C is becoming more common,
+because of its simplicity and ease- in manipulation. It is termed the sub-
+tractor method and the numerical groups employed as keying groups are
+called subtractors. 111 paragraph l62 more will be said about this method.
+
+161. Repeating or Recurring-Key Additives and Subtractor's.
+
+a._ In the foregoing examples the number. which was added or sub-
+tracted in eneipherment was always the same but this need not,- of course,
+be true; It- is possible to employ a sequence of numbers for addition or
+subtraction, the sequence being agreed upon in advance or it may be
+easily derivable from a key phrase, etc. Thus, suppose the placode
+message is the same as in the'prcvious examples and that the' repeating
+key is 432809721 and that this key is employed according to the sub-
+tractor method explained in paragraph 1609 (3). Note the following:
+
+(a) Encipherment:
+
+ 
+
+(1) Repeating key .................... 4:528 0972 1452. 8097 214:5
+
+(2) Placode .......................... 5517 3082 9015 6710 9541
+
+(3) Encicode ......................... mm
+(b) Decipherment: -
+
+(1) Repeating key .................... 4528 0972 1432 8097 2143
+
+(2) Encicode ......................... ,9811 7990 2427 2387 3602
+
+(3) Placode........................_..5—5177 3082 9015 6-710 9541
+
+181
+

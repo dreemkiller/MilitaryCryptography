@@ -1,0 +1,65 @@
+ 
+
+REF ID:A56932
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+MANUF AUTOM
+CTRIG BILES
+BDEHK CDFGH
+LOPQS KNPQR
+VWXYZ VWXYZ
+ABCKV MCBLV
+'UIDNW ATDOW
+TLFPX NREPX
+OEGQY UIHQY
+MSHRZ FGKSZ
+Figure69.
+
+f. If the successive letters of the cryptogram of b above are en-
+ciphered monoalphabetically by means of the following alphabet, the
+results again coincide with those obtained in d and e above.
+
+Alphabet
+
+CltABCDEFGHI-JKLMNOPQRSTUVWXYZ
+ngUCBDFMSGII HKATNPQLRIOVWXYZ
+
+First cryptogram: LRHEL ANERE QDTDE DQAOW
+Final cryptogram: KLGFK UTFLF QDIDF DQUNW
+
+138. Fractionating Systems as Forms of Combined Substitution
+and Transposition
+
+In studying the various types of substitution discussed in chapter 9,
+section II, it was not apparent, and no hint was given, that these
+systems combine both substitution and transposition methods into a
+single method. But the analysis presented in paragraph 137 shows
+clearly that there is a kind of transposition involved in digraphiq
+methods involving the use of matrices.
+
+139. Fractionation and Recombination within Regular or Variable
+Groupings of Fractional Elements
+
+0. This method is an extension or modiﬁcation of that illustrated
+in paragraph 1362. Let the text be written out in groups of 3, 4, 5,
+. . . letters, as prearranged between the correspondents. Suppose group-
+ings of ﬁve letters are agreed upon; a biﬁd alphabet (that in par. 136e)
+is used for substitution; thus:
+
+Message: ONEPL ANERE FORTE DLOST
+41544 11525 44225 54442
+25551 25555 52525 21252
+
+160
+

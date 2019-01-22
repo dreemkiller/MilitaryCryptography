@@ -1,0 +1,55 @@
+REF 1D:A56932
+
+PART TWO
+ADVANCED MILITARY CRYPTOGRAPHY
+
+CHAPTER 8
+TRANSPOSITION SYSTEMS
+
+ 
+
+Section I. MONOPHASE TR‘ANSPOSITIOIN SYSTEMS
+
+85. Transp05ition Systems Employing Geometric Designs
+
+in part one brief mention was made of the use of geometric designs
+and ﬁgures other than rectangles in producing transposition ciphers. It
+was stated that triangles, trapezoids, and polygons of various symmetrical
+shapes can be employed. Figures of these types form connecting links
+between the methods that use simple rectangular designs and the more
+complicated methods that use ﬁgures in which transposition takes place
+along diagonals.
+
+86. Trapezoidal Designs
+
+(1-. A trapezoid or, more accurately, a truncated triangle, of pre—
+arranged dimensions as regards the number of cells (which in this case
+are rhombs into which it is to be partitioned, is constructed. There will
+be left on one side of the design a series of small triangles which are not
+to be used for inscribing letters, and are therefore crossed off in the
+design, as shown in ﬁgure 24. Only two agreements are necessary in
+order .to fix the dimensions of the design: a keyword or keyphrase to
+determine the number of cells at the base of the design, and an under-
+standing as to the height of the design expressed in number of cells. The
+successive horizontal rows of cells will decrease by one in number from
+bottom to top of the design. In ﬁgure 24, the keyphrase NO CANDY
+FOR ISSUE is used as a basis for deriving a numerical key of 15 ele—
+ments, and it is assumed that by prearrangement it was agreed that the
+height of the design should be eight cells. Therefore, the bottom row
+has 15 cells, the next one upwards, 14, the next, 13, and so on, to the
+last, with 8 cells. The inscription may follow any route agreed upon; in
+the example, it follows the normal manner of writing. The transcription
+follows the numerical key order, yielding this cryptogram:
+
+87
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+

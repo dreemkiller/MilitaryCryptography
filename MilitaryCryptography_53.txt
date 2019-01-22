@@ -1,0 +1,55 @@
+REF ID : M5932
+the ﬁgures may be run together in groups of ﬁve. The cipher group
+10080, on deCIPheﬂﬂg, would be split up into 10-08—0.
+
+A—08 35 68 87 I—J—16 43 51 95 5—25 27 50 79
+3—09366988 K—17445296 T—01286180
+C—10 37 7O 89 L—18 45 53 97 . . U—oz 29 62 81
+D—ll 38 71 90 M——19 46 54 98 V—03 30 63 82
+
+.—12 39 72 91 N—ZO 47 55 99 _ w_o'4 31 64 83
+F—13 40 73 92 0—21 48 56 00 _ x_o5 32 55 84
+G—14 41 74 93 P—22 49 57 76 Y—06.33 55 85
+H—IS 42 75 94 9—23 50 58 77 2—07 34 57 86
+
+R—24 26 59 78
+Figure 14.
+
+c. In this case, within each set of 25 the numbers progress serially,
+each set being treated as a ring or circle. It is of course possible to mix
+the sequence to destroy this serial progression, thus giving four mixed
+alphabets which can be used at random.
+
+d. Another variation is to assign each letter a set of numbers in ac-
+cordance with its relative frequency in ordinary English, so that each of
+the most frequently used letters such as E, T, R, I, and N will have
+perhaps seven or eight different equivalents, whereas letters of low fre—
+quency such as J, K, Q, X, and Z will each have but one equivalent.
+
+54. Use of Reciangles to Provide Variant Values
+
+0. Instead of drawing up alphabets as in ﬁgure 14, it is possible to use
+the diagram shown in ﬁgure 12, but with several variant digits as row
+indicators instead of a single digit for each row. For example, the row
+indicators may be of the following arrangements:
+
+14—7 1—2—3 1—2—3 5—4—3
+2—5—8 4--5-6 8—9—4 6—9—2
+3—4—9 7—8—9 7—6—5 7—8—1, etc.
+
+Thus, if the. ﬁrst arrangement is used, A, would have the equivalents ll,
+61, 71; B,,, 12, 62, 72; etc. The word RUN might be represented by
+any one of 27 different combinations, such as 28—31—24, 28—91—54, etc.
+
+b. A variation of the foregoing system is that in which, by use of a
+diagram of the type shown in ﬁgure 13, a number of different letters are
+applied to each row and column, or Z-ﬁgure numbers may be used for
+this purpose. In this case a series of as many as 50 pairs of digits may be
+used as row indicators, and another series of 50 pairs as the column
+indicators.
+
+c. The use of variants lends itself to application in a pseudo-code sys—
+tem such as described in paragraph Sle. It presents many possibilities for
+
+47
+

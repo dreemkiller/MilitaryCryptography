@@ -1,0 +1,60 @@
+ 
+
+REF ID:A56932
+
+24. Special Cases of Route Transposition
+
+a. The oldest and simplest transposition method known, that called re-
+versed writing, is a special case of one of the routes shown in ﬁgure 1.
+Here the text is written in the opposite direction from the normal; for
+example, BRIDGE DESTROYED is written EGDIRB DEYORTSED.
+The variability of the scheme, that is, the speciﬁc key, consists of the fact
+that the reversal may be applied to groups of ﬁxed length, to whole
+words, to sentences, or to the whole text. The security of simple reversed
+writing may be somewhat increased by disguising the original word
+lengths, by which is meant a destruction of the normal, or natural word
+limits by combining a part of one word with a part of the next to form
+either false words or groups of regular length.
+
+b. Some examples of reversed writing follow. Let the message be:
+BRIDGE DESTROYED AT ELEVEN PM.
+
+( l) Reversing only the words and retaining original word lengths:
+Cipher: EGDIRB DEYORTSED TA NEVELE MP
+(2) Reversing only the words and regrouping into false word
+lengths:
+Cipher: EG DIRB DEYOR'I‘ SEDTA NEVE LEMI>
+(3): Reversing the whole text and regrouping into ﬁves:
+Cipher: MPNEV ELETA DEYOR TSEDE GDIRB
+(4) Reversing the whole text, regrouping into ﬁves, and inserting
+a null in every ﬁfth position:
+Cipher: MPNER VELEO TADEB YORTH SEDEA GDIRB
+
+c. A second very simple type of transposition, that known as vertical
+
+writing, is a special case of another of the routes shown in ﬁgure 1.
+
+The message BRIDGE DESTROYED is written in two vertical BS
+columns, and the cipher text is taken from the horizontal pairs RT
+
+thus formed. The message becomes: IR
+DO
+BSRTI RDOGY EEDDE GY
+EE
+DD
+E
+‘ Figure 3.
+
+When the plain text is inscribed in pairs of letters in vertical BR
+writing and then the cipher text is taken by transcribing the ID
+columns, a_ slightly different result is obtained. Using the plain GE
+
+text message BRIDGE DESTROYED, the cipher becomes: DE
+ST
+BIGDS RYDRD EETOE R0
+YE
+D
+Figure 4.
+
+23
+

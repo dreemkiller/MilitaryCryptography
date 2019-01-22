@@ -1,0 +1,79 @@
+ 
+
+REF ID:A56932
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+M A N U I"
+C T R I G
+B D E H K
+L O P Q S
+V W x Y Z
+Figure 63.
+
+(Z) 01,, and 02,, are in the same row; the letter immediately to the
+right of 01,, forms 0‘.., the letter immediately to the right of 0”,,
+forms 9%. “1th either 01,, or 0“,, is at the extreme right of the
+row, the ﬁrst letter in the row becomes its 0c. Examples:
+m, = Kﬁc; M6,. = K159; XE. = NEG; ﬁp = We.
+
+(3) 01,, and 0", are in the same column; the letter immediately below
+0‘, form 01..., the letter immediately below 0”,, forms 02“. When
+either 01,. or 0', is at the bottom of the column, the top let_ter
+in that column becomes_ its 0“. Examples: E = CBe;
+W, = 71752:; W, = X1", ; 6—17,. = ﬁ..
+
+(4) 0‘, and 02,, are identical; they are to be separated by inserting
+a null, usually the letter X or Q. For example, the word
+BATTLES would be enciphered thus:
+
+BA T-X TL ES
+DM RW CO KP
+b. The l’layfair square is automatically reciprocal so far as encipher-
+ments of type ( 1) above are concerned; but this is not true of encipher-
+ments of type (2) or (3).
+
+118. Rectangular Designs
+
+a. It is not essential that matrices for digraphic substitution be in the
+shape of perfect squares; rectangular designs will serve equally well,
+with little or no modiﬁcation in procedure. Tn four-alphabet 'and two-
+alphabet rectangles reciprocity can be produced by following the method
+indicated in paragraph 115.
+
+b. In ﬁgures 64 and 65 are shown two examples of such rectangles,
+together with illustrations of cncipherments. Since the English alphabet
+consists of 26 letters, a number which can only form an impracticable
+rectangle 2 by 13, and since the addition of any symbols such as the
+digits 1, 2, 3 . . . to augment the number of elements to 27, 28, 30, 32,
+35, or 36 characters would result in producing cryptograms containing
+intermixtures of letters and ﬁgures, the only practicable scheme is to
+reduce the alphabet to 24 letters as shown in the ﬁgures, where I serves
+also for J and U also for V,
+
+1.49
+
+ 
+

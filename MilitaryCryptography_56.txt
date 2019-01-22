@@ -1,0 +1,65 @@
+REF ID:A56932
+
+57. Example of Polyalphabeﬁc Substitution
+
+a. A simple example may be used to illustrate what is meant by true
+polyalphabetic substitution. Suppose that two correspondents agree upon
+a numerical key, for example, 74030274, each digit of which means
+that the plain-text letter to which the digit applies as a key number is to
+be replaced by the letter that stands a corresponding number of places to
+the right of it in the normal alphabet. For example, if R is to be en-
+ciphered by key number 7, it is to be replaced by Y. The numerical key is
+written under the letters of the plain—text letter for letter, and is repeated
+until the whole text is covered. Let the message be REENFORCE—
+MEN TS BEING RU SIIED. The encipherment of a message is shown
+in ﬁgure 15. For convenience in counting forward (to the right) to ﬁnd
+cipher equivalents, a normal alphabet is given at the top of the ﬁgure.
+
+Normal alphabet: AB CDEFGHI J KLMN OPQRSTUVWXYZ
+Plain: REENFORCEMENTS BEING RUSHED
+
+Key: 74030274740502 74740 302747
+Cipher: YIEQFQYGLQEQTU IIPRG UUUOIK
+
+The text is then transmitted in ﬁve-letter groups.
+Cryptogram: YIEQF QYGLQ EQTUI IPRGU UUOIK
+
+Figure 15.
+
+b. To decipher such a cryptogram, the clerk writes the numerical key
+over the cipher letters and then counts backward (to the left) in the
+normal alphabet as many places as indicated by the key number standing
+over each letter. Thus:
+
+Normal alphabet: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+
+Key: 74030 27474 03027 47405 02747
+
+Cipher: YIEQF QYGLQ EQTUI IPRGU UUOIK
+
+Plain: REENF ORCEM ENTSB EINGR USHED
+
+Message: REENFORCEMENTS BEING RUSHED
+Figure 16.
+
+58. Systematizing the Work
+
+The work of encipherment may be materially shortened by systematiz-
+ing the procedure. Instead of having to write the key over and over again
+in order to cover the text completely, the text may be written in sets of
+
+letters corresponding in length to the length of
+4 .
+7 4 0 3 0 2 7 the key. Thus the text may be written underneath
+
+R E E N F 0 R C . . .
+a Single appearance of the key in successwe short
+E M E N 1‘ S B E . . . .
+horizontal lines, leavmg space between the 111165
+I N G R U S H E . . . .
+D for the insertlon of Cipher equivalents, as shown
+
+Figure ”a. in ﬁgure 17a. Instead of enc1pher1ng the .letters
+
+ 
+

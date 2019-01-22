@@ -1,0 +1,51 @@
+REF ID:A56932
+
+preceding-section, as well as the simpler varieties making use merely of
+two or more superimposed, concentric disks are in the nature of. hand-
+operated substitution-cipher mechanisms that are difﬁcult to use, cannot
+be employed for rapid or automatic cryptographic manipulations, and
+are “quite markedly susceptible to errors in their operation. For a long
+time these defects have been recognized and many men have striven to
+produce and to perfect devices more automatic in their functioning.
+However, the would-be inventors have not, as a rule, realized the com-
+plexity of the problems confronting them; nor have they approached
+these problems with the necessary and thorough knowledge of 'both
+theoretical and practical cryptography, with its many limitations, and
+theoretical as well as practical cryptanalysis, with its wide possibilities
+for the exercise of human ingenuity. However, when the problem of
+developing and producing a good cipher machine is attacked by a com—
+petent cryptographic and cryptanalytic engineering staff, highly efﬁcient
+cipher machines can be developed. At this writing some very excellent
+machines are now in actual use for practical secret communications.
+
+1). It is obvious that automatic devices of this nature should be equipped
+with a keyboard of some kind, resembling or duplicating that of an
+ordinary typewriter. Furthermore, for rapid manipulation these machines
+must be actuated by mechanisms affording speed in operatiOn, such as
+electric or spring motors, compressed air, electromagnets, etc.
+
+149. Machines Attording Only M-onoalphabetic Substitution
+
+Little need be said of those machines in which the ordinary keys of the
+keyboard are merely covered with removable caps bearing other letters
+or characters. They yield only the simplest type of substitution cipher
+known and have little to recommend them. Even when the mechanism is
+such that a whole series of alphabets can be brought into play, if the
+encipherment is monoalphabetic for a succession of 20 or-more letters
+before the- alphabet changes, the degree of cryptographic security is
+relatively low, especially if the various alphabets are interrelated as a
+result of their derivation from a limited number of primary components.
+
+150. Machines Attording Polyalphabetic Substitution
+
+a. In recent years there have been placed upon the commercial market
+several cipher machines of more than ordinary interest, but they. cannot
+be described here in detail. In some of them the number of secondary
+alphabets is quite limited, but the method‘ of their employment, or rather
+the manner in which the mechanism operates to bring the cipher alpha-
+bets into play is so ingenious that the solution of cryptograms prepared
+by means of the machine is exceedingly diﬁ'ieult. This point should -be
+clearly recognized and understood: other things being equal, the manner
+
+1.6?
+

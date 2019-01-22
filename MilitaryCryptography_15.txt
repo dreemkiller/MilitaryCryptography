@@ -1,0 +1,46 @@
+versa. Such combined transposition-substitution methods do not form a
+third category of methods. They are occasionally encountered in military
+cryptography, but the types of combinations that are sufﬁciently simple to
+,be practicable for ﬁeld use are very restricted.
+
+11. Letter, Syllable, and Word Methods
+
+Under each of the two principal classes of cryptograms as outlined in
+the preceding paragraph, a further classiﬁcation can be made with respect
+to the nature of the textual elements or units with which the crypto-
+graphic process deals. These textual units are (1) individual letters, or
+groups of letters in regular sets, and (2) complete words. Methods which
+deal with the ﬁrst type of units are called letter methods, including, when
+such is the case, syllable methods; those which deal with the second type
+of units are called word methods.
+
+12. Cipher Systems and Code Systems
+
+It is necessary to indicate that the classiﬁcation into letter, syllable,
+and word methods is more or less arbitrary or artiﬁcial in nature, and is
+established for purpose of convenience only. No sharp line of demarca-
+tion can be drawn in every case, for occasionally a given system may
+combine methods of treating single letters, groups of letters, syllables,
+whole words, phrases and sentences. When in a single system the
+cryptographic treatment is applied to textual units of regular length,
+usually single letters or pairs, and is only exceptionally applied to textual
+units of irregular length, the system is called a cipher system. Likewise,
+when in asingle system the cryptographic treatment is applied to textual
+unit-s of irregular length, usually whole words, phrases, and sentences,
+and is only exceptionally applied to single letters, pairs, or groups of
+letters and syllables, the method is called a code system because it
+generally involves the use of a code book. i
+
+ 
+
+Section IV. SECURITY AND TIME ELEMENTS
+IN ‘CRYPTOGRAPHIC SYSTEMS
+
+13. Interception, Radio Direction Finding, and Radio Position
+Finding
+
+a. Messages transmitted by electrical means can be heard and copied
+by persons who are not the correspondents or their authorized agents.
+Messages transmitted by radio can be manually copied or automatically
+recorded by suitably adjusted radio apparatus located within range of the
+transmitter. Some messages transmitted over wire lines can likewise be

@@ -1,0 +1,78 @@
+ 
+
+Fun“- ¢.__ ..
+
+ 
+
+REF ID:A56932
+
+The letters of the cipher text are taken from the diagram according
+to any prearranged route, the most simple being to transcribe the lines
+of letters in groups of ﬁves, thus:
+
+EASEO MCTID MARCO TRMNO IECDO ITBEN
+NOSRP SESNO MOANU TNTMN OFOPD FMEAT
+TESWY OSLST NROBB LHOIW TECMN AEFAR
+LNIRC BROME SCFLU HGOOP TDODO OBAEW
+
+b. The foregoing method when employed in its most simple form
+does not yield cryptograms of even a moderate degree of security;
+but if the method of inscription and transcription is varied and made
+more. complex, the degree of security may be increased quite notice-
+ably. It is possible to use longer permutations, based on sets of 6,
+7, 8, or 9 digits, but in every case the successive permutations must
+be prearranged as regards both their exact composition and their order
+or arrangement in the diagram. '
+
+91. Transposition Method Using Special Figures
+
+0. The method now to be described is useful only in special cases
+where the correspondence is restricted to brief communications between
+a very limited number of persons. It is necessary to agree in advance on
+certain particulars, as will be seen. Let the message to be enciphered
+be the following:
+
+FOUR TRANSPORTS WILL BE COMPLETED BY END
+OF APRIL AND SIX MORE BY END OF JULY.
+
+Note the following ﬁgures and enciphcrment:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+o n r s 1. o
+/”- N /" I l I i -
+r u T——A s o r w r. n c u
+
+L/ 4 l l i
+
+n / n n 1 r. r
+
+I n n P A 1
+L——J—r n-———-r n+0 A——R n+1! 3+1:
+
+1: r 1 n u
+
+r 1'
+c n r n 0—-l-—-J’ 1.___..._
+
+n n ' u
+Cryptogram:
+
+ORPSL OFUTA SOTWL BCMRN RIEPE BDPAI
+LTDYN OARLN SXEEF IDMRE FYOEY NOJLB
+DU
+
+Figure 34.
+
+97
+

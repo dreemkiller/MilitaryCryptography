@@ -1,0 +1,122 @@
+ 
+
+REF ID:A56932
+
+retain them as long as possible; the longer they remain in this work the
+less likely they are to repeat the errors with which the work abounds and
+:the more likely they are to render highly efﬁcient service.
+
+9. Errors in transmission and reception are frequently made, especially
+in transmission by radio, because of interference, atmospheric disturb—
+:ances, and the like. Cryptographic clerks should be familiar with the
+Morse and Bandot alphabets and the most common errors of wire and
+:radio transmission methods, so as to be able to refer an error to its
+probable origin or to ﬁnd clues for the correction of badly garbled groups
+\when all other means fail. The following tables will be found useful:
+
+Most common errors in Morse transmission
+
+ 
+
+ 
+
+ 
+
+: International Morse nl hnbet (used in radio. cables, American Morse alphabet (used in the
+i_ and outsl e United States) United States. except {or radio)
+lLetters Letters
+; and Alphabet Frequenterrors and Alphabet Frequenterron
+Ilnzures ﬁgure:
+
+A .... im,t,et A ._ l,t,et
+
+B u—ooo d,ts B —ooe , ,
+
+C —e—o- f,k,-,T,nn C I. o 5,1,‘ie
+
+D —o- b,s,_,ti D —09 b,tl
+
+E u t,a,1 E o
+
+F uc—o q,r,in F o—o r,q,en
+
+G —_. m,n,o,q,me G _._. n,c,me
+
+II nee. B,V,b,se H I... S,p,l,y,e5
+
+I .. a,n,s I .. 3,0,9
+
+J .._...._ w,o,eo,am J _.—. c,k,ko
+
+K —n-— a,n,d,0,ta K —o— ',n,
+
+L o—ol x,l', 'e L — In
+
+M _._ a,n, ,t M __ n,a,tt
+
+N _. i,m,t,te N —. o,§,te
+
+O ___ g,k,m,w,xnt 0 . . n,1,ee
+
+P u—u—o J,W,g,l,r,an P on... ,5
+
+a __.._ g,k,o,x,z,mn g .._. f,g,u,'ln
+
+.—. a,n,f,g,s,,l,w . .. s,l,e
+
+8 one h,d,i,r,u,v s n.- 1111'.
+
+T _ a,e,n T _. ,e,n
+
+U ..—. a,s,v,it U H. v,a w,it.
+
+V Ion—— h’u’x,st V loo— “,3
+
+W .._.. a,m,o,r,'u,et W ...._. f,a,u,m,at
+
+K _II— d,V,u,k,y,tu X 0—.- 1, . ,
+
+Y _.__ x,w,k,c,nm Y .. .. ,Ii
+
+Z _—.. b,d,g,q,mi Z H. . h,c,se
+
+l .—.——_ 0,2 l .'..——. p
+
+2 .I_—— 1’3 2 .U—II 3
+
+3 III-—— 2,4 3 Ion—o 4
+
+4 I..l_ 3'5 4 .0... 3
+
+5 .0... 4’6 5 -—-
+
+6 —-0-. 5,7 6 unto-l p
+
+7 ——... 6,8 7 _.—-.
+
+8 _—-.I 7’9 8 _Il'.
+
+9 —_——. 8,0 9 _.._ x
+
+0 ————— 9 0 — L
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+81
+
+ 
+

@@ -1,0 +1,50 @@
+REF ID:A56932
+
+important of the three, for if the keying sequence or parts of it are used
+but once or a very limited number of times, say 2 or 3, its recovery by
+eryptanalytic processes is difﬁcult or impossible and therefore even if the
+sequence' is systematic in its construction this fact might not become
+known. However, as a rule the additives or subtractors are merely digits
+selected by a purely random means, such as drawing them out of a box,
+or equivalent means. The length of the sequence is guided only by the
+amount of trafﬁc to be superenciphered; for a voluminous trafﬁc, key—
+books containing thousands of 'groups are necessary, even with a good
+indicator system, and even then the books must be changed at frequent
+intervals.
+
+6. Arithmetical methods are favored above most other methods of
+superencipherment because of their simplicity and relatively better speed
+of operation than in the case of alphabetical methods. The speed factor
+is, of course, attributable to the fact thatpractically everybody can add
+(or subtract) rapidly and accurately when single digits are involved, and
+although very similar processes could'be applied in cryptographic proc-
+esses involving letters of. the alphabet, the operations of addition or
+subtraction would proceed very much more slowly because early training
+does not devote any time to arithmetical processes involving letters. For
+example, every child learns that “8 plus 5 equals 13” but none learns that
+“H plus E equals M.”
+
+(1. However, these arithmetical methods have two serious disad—
+vantages. First, there is the disadvantage that the ﬁnal encieode text is
+composed of numbers. The latter are not only more subject to errors in
+telegraphic handling than are letters, but also it is more difﬁcult to correct
+garbled groups when ﬁgures are involved than when letters are involved.
+These disadvantages are, it must be admitted, more serious in American
+practice, whenemphasis in training is laid upon the telegraphic trans-
+mission of letters and not ﬁgures, than they are in other practices; they
+may not hold in regard to countries where the emphasis in training is in
+the other direction, ﬁgures being preferred to letters. Second, the physical
+procedures involved in the preparation, reproduction, distribution, and
+accounting of the necessary keybooks of adders or subtractors are tedious,
+costly, and time consuming. Where provision must be made for
+voluminous intercommunication among many units and for relatively long
+periods of time, these matters constitute a difﬁcult if not impossible
+problem for the compiling agency. "
+
+* U. 5. GOVERNMENT PRINTING OFFICE: 1950-874180
+
+—|l-E-H-R-l-B-l-E-B-
+186
+
+ 
+

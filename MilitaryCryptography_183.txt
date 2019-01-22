@@ -1,0 +1,55 @@
+REF ID : A5 6 93 2
+158. Substitution Methods
+
+a. GENERAL. All of the methods of substitution applicable in the case
+of cipher systems are available for use in superenciphering code.
+
+b. MONOALPHABETIC METHODS. It is, of course, easy to draw up one
+or more single-mixed alphabets. When the code book is in possession of
+the enemy 'cryptanalysts and the original or placode groups are therefore
+at hand, this method does not yield any security, for reasons not neces-
+sary here to indicate. Even when the actual code book is not known, but
+it is known that it is one of a set of commerical codes having groups of
+the Z—letter diﬁerence type, the reconstruction of the cipher alphabets is
+not difﬁcult.
+
+c. POLYALPHABETIC METHODS.
+
+(1) A very simple polyalphabetic method is to have 5 alphabets
+which are used in succession; or there may be a series of sets
+of 5 alphabets, the individual set to be used being determined
+by indicators inserted in the message itself.
+
+(2) Any sort of polyalphabetic method may be used. For example,
+the repeating—key method, the running or continuous—key
+method, the interrupted—key method, etc., can be applied.
+Digraphic methods may also be used; also, combinations of
+digraphic and monographic methods are frequent.
+
+(3)i Tables of various sorts are often employed. For example, using
+a table applicable to code groups of 5 ﬁgures, a table giving
+pronounceable combinations of letters for the combinations of
+digits may result in converting a group such as 75152 into the
+letter group KOBAL. Tables for substituting combinations of
+letters into other combinations of letters are, of course, equally
+feasible. The substitution may be strictly digraphic, combining
+two S—lettcr or 5-ﬁgure groups into a series of 10 digraphs; or
+it may be a combination of trigraphic and digraphic substitu-
+tion, each 5-character group being split up into a 3—character
+and a 2-character combination. Other combinations are, of
+course, also possible.
+
+(4) In all the foregoing methods the chief objection is that the
+advantage of the 2—letter differential feature is more or less
+dissipated by the encipherment, but this is true of every sub-
+stitutive method that is superimposed on code.
+
+(5) The disadvantage referred to in the preceding subparagraph is
+absent in those cases in which the encipherment operates merely
+to substitute other code groups of the same book for the mes-
+sage code groups. The most common methods of this type
+make use of the ﬁgure-code groups, the latter being manipulated
+in various ways to change them and the resulting groups then
+
+177
+

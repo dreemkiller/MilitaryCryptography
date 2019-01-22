@@ -1,0 +1,55 @@
+REF ID:A56932
+
+d. It is clear also that in order to write a polysyllabic language with
+facility it is necessary to establish and to maintain by common agreement
+or convention, equivalency between two sets of elements, ﬁrst, a set of
+elementary sounds and, second, a set of elementary symbols to repre—
+sent the sounds. When this is done the result is what is called an alphabet,
+a word derived from the names of the ﬁrst two letters of the Greek
+alphabet, “alpha” and “beta.”
+
+e. Theoretically, in an ideal alphabet each symbol or letter would
+denote only one elementary sound, and each elementary sound would
+invariably be represented by the same symbol. But such an alphabet
+would be far too difficult for the average person to use. It has been
+conservatively estimated that a minimum of 100 characters would be
+necessary for English alone. Attempts toward producing and introducing
+into usage a practical, scientiﬁc alphabet have been made, one being that
+of the Simpliﬁed Spelling Board in 1928, which advocated a revised
+alphabet of 42 characters. Were such an alphabet adopted into current
+usage, in books, letters, telegrams, etc., the ﬂexibility of cryptographic
+systems would be inﬁnitely extended and the difﬁculties set in the path
+of the enemy cryptanalysts vastly increased. The chances for its adoption
+in the near future are, h0wever, quite small. Because of the continually
+changing nature of every living language, it is doubtful whether an
+original perfect alphabet could, over any long period of time, remain
+so and serve to indicate with great precision the exact sounds which it
+was originally designed to represent.
+
+37. Normal Alphabets and Cipher Alphabets
+
+a. In the study of cryptography the dual nature of the alphabet be—
+comes apparent. It consists of two parts or components, (1) an arbi-
+trarily arranged sequence of symbols.
+
+b. The normal alphabet for any language is one in which these two
+components are the ordinary sequences that have been deﬁnitely ﬁxed by
+long usage or convention. The dual nature of our normal or everyday
+alphabet is often lost sight of. When we write A, B, C, . . . we really
+mean:
+
+Sequence of sounds: “Ay” “Bee” “See”
+Sequence of symbols: A B C
+
+Normal alphabets of different languages vary considerably in the number
+of characters composing them and the arrangement or sequence of the
+characters. The English, Dutch, and German alphabets each have 26,
+the French 25, the Italian 21, Spanish 27 (including the digraphs ch and
+ll), Russian 31. The Japanese language has a syllabary consisting of
+72 syllabic sounds, to express which 48 characters are employed.
+
+0. A cipher alphabet or a substitution alphabet, as it is sometimes
+called, is one in which the elementary speech-sounds are represented by
+
+35
+

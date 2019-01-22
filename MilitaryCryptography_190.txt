@@ -1,0 +1,52 @@
+REF ID:A56932
+
+example was taken consisted of 50 pages each containing 200 groups,
+making 10,000 in all. The groups themselves, of course, consist merely
+of digits selected at random when the keybook is in preparation.
+
+c. Referring back to the method illustrated in Example B in paragraph
+160g (2), in which addition is employed in both encipherment and de-
+cipherment, it was noted that in decipherment the complement of the
+additive employed in encipherment must be used in order to recover the
+placode. This principle serves as the basis for preparing keybooks in
+which half the contents are additives, the other half, their complements.
+By proper manipulation of indicators it is possible to use any given page
+of the arbitrary groups for encipherment, whereupon a speciﬁc page
+(containing the complements) must be used for decipherment. This
+method obviously requires considerable care in preparing the keybooks,
+so as to insure that complementary pages are present and are properly
+indicated; it also involves much more care to insure that the groups on
+complementary pages are accurate, although there are mechanical
+methods of preparing series of complements of this type.
+
+d. If a keybook for an additive or a subtractor system is used once
+and only once, security of an absolute order is imparted to the messages
+even if the basic code book is known to and possessed by the enemy. It is
+not even necessary to use indicators except where a question may arise
+as to the serial order of one of two or more messages arriving at about
+the same time. In such a case the system is referred to as a one-time
+system and the keybook is called a one-time pad because the pages are
+usually fastened securely in the form of a tablet or pad and are destroyed
+as soon as it is certain that the recipient of a message has properly
+deciphered and decoded it. The disadvantages of such a system are two
+in number, both very serious. In the ﬁrst place the production and dis—
+tribution of the pads present very difﬁcult problems in composition,
+printing, assembly of sheets, etc. For voluminous correspondence many
+pads are necessary and the mere question of the production, timely dis-
+tribution, and proper safekeeping of the pads is a serious one. In the
+second place, a system such as this is suitable for only two correspondents
+and even in this case there usually must be two pads, one for incoming,
+the other for outgoing messages, otherwise it will occasionally or fre-
+quently happen that both correspondents will use the same series of
+additives or subtractors.
+
+e. The foregoing difﬁculties make it desirable to modify the system
+so that while its security may not be absolute it can be employed by a
+larger number of correspondents, cutting down on the number of pads
+required and permitting of intercommunication among all correspondents.
+For such use, indicators are absolutely essential in order .to facilitate
+the prompt decipherment of messages received from several different
+correspondents.
+
+184
+

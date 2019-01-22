@@ -1,0 +1,52 @@
+REF ID:A56932
+
+within a rectangle in the usu-al manner of writing, that is, from left to
+right and in consecutive lines from top to bottom. If one or more cells
+are vacant at the end, nulls or dummy letters—letters having no signiﬁ-
+cance—are inserted as “ﬁllers” to complete the rectangle. Then, to form
+the cipher text, the letters in the design are taken out of the design and
+rewritten or transcribed by following or tracing one of many different
+routes. It is possible for each route to have a diﬂ’erent starting point, and
+normally it is one of the four corners of the rectangle. A few typical
+routes are illustrated in ﬁgure 1 where, for the sake of ease in following
+the route, the plain—text message is assumed to be merely the sequence
+of letters A B C X.
+
+(A) Simple horizontal :
+
+(1) (2) (3) (4)
+ABCDEF FEDCBA sruvwx xwvurs
+GHIJKL LKJIHG MNOPQR RQPONM
+MNOPQR RQPONM GHIJKL LKJIHG
+sruvwx xwvurs ABCDEF FEDCBA
+
+(B) Simple vertical:
+
+(1) (2) (3) (4)
+AEIMQU UQMIEA DHLPTX XTPLHD
+BFJNRV VRNJFB CGKOSW wsoxec
+CGKOSW wsoxec BFJNRV VRNJFB
+DHLPTX XTPLHD AEIMQU UQMIEA
+
+(C) Alternate horizontal :
+
+(1) (2) (3) (4)
+ABCDEF FEDCBA xwvurs stuvwx
+LKJIHG GHIJKL MNOPQR RQPONM
+MNOPQR RQPONM LKJIHG GHIJKL
+xwvurs sruvwx ABCDEF FEDCBA
+
+(D) Alternate vertical:
+
+(1) (2) (3) (4)
+AHIPQX XQPIHA DELMTU UTMLED
+BGJORW WROJGB CFKNSV VSNKFC
+CFKNSV VSNKFC BGJORW WROJGB
+DELMTU UTMLED AHIPQX XQPIHA
+
+Figure 1
+
+19
+
+ 
+

@@ -1,0 +1,61 @@
+ 
+
+1n
+
+REF ID:A56932
+
+_ is no necessity for. recalling "old editions” and substituting
+
+“new editions,” as is the case with code books. Therefore, the
+labor costs incident to the necessity for repeated preparation,
+printing, and distribution of code books, together with the labor
+costs incident to the necessity for repeated accounting opera-
+tions, correspondence exchanges relative to issue, receipt, etc.,
+in the end overbalance the higher initial cost of cipher machines.
+In this connection it should be stated that merely the cost of
+printing an edition of 200 copies of a large Z—part code is well
+over $25,000. This does not include the cost of the labor in—
+volved in the compilation of the code, nor of that involved in
+preparing, printing, .and binding cipher tables for superen—
+cipherment, etc.
+
+(4) The security of a cryptographic system involving the use of a
+
+properly designed cipher device or cipher machine is not wholly
+dissipated by the capture or compromise of the machine or
+device itself, as is the case with a code book.
+
+(5) On the other hand, it must be admitted that, as a general rule,
+
+the solution of a very few cryptograms by long and laborious
+cryptanalysis makes it possible, in the case of a cipher machine,
+to decryptograph more or less readily many or all other crypto-
+grams enciphered by the same machine with the same (or in
+certain cases) different “settings,” keys, or elements; whereas
+in the case of a large 2-part code the solution of a few code
+messages can hardly be accomplished at all, and practical
+analysis of the code must await the accumulation of a large
+amount of trafﬁc. Even should the plain text of one or two
+code messages be obtained by theft or capture, this would not
+permit the prompt decoding of subsequent messages in the same
+code; whereas this may be possible in the case of cipher
+messages.
+
+(6) Again, cipher machines are, as a rule, complicated and delicate
+
+mechanisms. They require considerable technical skill for their
+proper operation by cryptographic clerks, skill which may not
+always be possessed by such personnel. What is perhaps more
+important, complicated cipher machines require the skill and
+services of special personnel for their proper maintenance and
+repair. They usually require electric current for operation,
+which may not always be available.
+
+(7) If the cipher machine employed is at all complicated to set up
+
+for enciphering and deciphering, errors are easy .to make and
+sometimes call for costly or laborious exchanges of service
+messages relative to their correction. However, this may be a
+doubtful point because complex superenciphered code is just
+as subject to errors as is a complex cipher machine.
+

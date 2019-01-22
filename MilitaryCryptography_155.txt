@@ -1,0 +1,68 @@
+ 
+
+Nam-«r: .—-..
+
+ 
+
+ 
+
+REF 1D:A56932
+
+example, suppose that it is agreed that every keyletter will encipher a
+
+number of letters corresponding to the numerical value of the keyletter
+in the normal alphabet. The foregoing example then becomes as follows:
+
+Key: D E B A R
+
+Plain text: COLL ECTAL LS T RAGGLERSSTOPSENDTH
+Cipher: BPSS ACLET QJ H ARLLGNAZZYDCZNEOYK
+Key: K D
+
+Plain text: EMFORWARDAT ONCE
+
+Cipher: GYFWTOKTHKR PQBZ
+
+Cryptogram: BPSSA CLETQ JHARL LGNAZ ZYDCZ NEOYK
+GYFWT OKTHK RPQBZ
+
+d. The foregoing example employed reversed standard alphabets, but
+mixed alphabets of all types may readily be used.
+
+e. If the keyword is short, and the message long, periodicity may creep
+in despite the irregular groupings in the encipherment. Sufﬁcient evidence
+may even be obtained to lead to a disclosure of the length of the key. But
+if the key consists of a long word, or of a complete phrase or sentence,
+the text would have to be very long in order that sufﬁcient evidences of
+periodicity be found to make possible the determinaton of the length of
+the key.
+
+126. Suppressing Periodicity by Enciphermen’r by Variable-Length
+Greupings of the Key
+
+0. In paragraph 125b periodicity was suppressed by enciphering
+variable—length groupings of the text; in this paragraph it will be shown
+how periodicity may be suppressed by enciphering by variable—length
+groupings of the key. The method consists in interrupting the key.
+
+b. Given a keyword, it can become a variable-length key by inter—
+rupting it according to some prearranged plan, so that it becomes
+equivalent to a series of keys of different lengths. Thus, the single key-
+word UNPREPAREDNESS may be expanded to a sequence of irregu-
+lar lengths, such as UN PREP/UNP/UN PREPAR/UN PR/UN PRE-
+PARE/UNPREPAREDN/U/UNPRE, etc. Various schemes for indi-
+cating or determining the interruptions may be adopted. For example,
+suppose it may be agreed that the interruption will take place immedi-
+ately after and every time that the letter R occurs 'in the plain text. The
+key would then be interrupted as shown in the following example:
+
+Key: UNPUN UNPRE PARED UNPRE UNPRU NP . . .
+Plain text: OURFR ONTLI NESAR ENOWR EPORT ED . . .
+
+c. It is possible to apply an interrupted key to variable-length group-
+ings of the plain text. In illustrating this method, an indicator, the letter
+
+149
+
+ 
+

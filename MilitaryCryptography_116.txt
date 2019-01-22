@@ -1,0 +1,114 @@
+REF ID:A56932
+
+ 
+
+21.3944 715
+372941 1114531
+184310 24 20 28 14
+12 84248 43338
+354730 462617
+191332224036 9
+
+OI
+N
+0|
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Sugar»;
+cognac:
+FHHFHO
+crummy-a
+ICON”!!!
+coat/awn:
+>mxmm°
+>WH‘MH
+ﬁHr‘n‘H
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Figure 46.
+
+The transcription may now follow any prearranged route. The normal
+method of reading would produce the cryptogram beginning WCTEH
+OEERI, etc. It is obvious that the correspondents must possess designs
+with identically numbered cells.8
+
+99. Revolving Grilles
+
+a. In this type of grille (see ﬁg. 47a) the apertures are also formed
+by perforating a sheet of cross-section paper according to prearrange-
+ment, but these apertures are so distributed that when the grille is
+turned four times successively through angles of 90° and set in four
+grille positions on the grid, all the cells on the grid are disclosed in turn.
+(The preparation of such grilles is discussed in par. 103.) If letters are
+inserted in the cells so disclosed, then after a complete revolution of the
+grille every one of the cells of the grid will contain a letter and thus the
+grid will be completely ﬁlled. For this reason such a grille is also called
+a self—ﬁlling, or an automatic-completion grille. The secrecy of messages
+enciphered by its means is dependent upon the distribution or position of
+the apertures, the sequence of grille positions on the grid, that is, whether
+in the order 1, 2, 3, 4 clockwise; or 1, 3, 4, 2 etc.), and the route followed
+in inscribing and transcribing the letters in the cells of the grid. For each
+position of the grille, one-fourth the total number of letters of the text
+is inscribed; hence it is convenient to refer to “sections” of the text, it
+being understood that each section consists of one-fourth the total num-
+ber of letters.
+
+b. There are two possible procedures so far as the inscription-trans-
+scription sequence is concerned. (1) The letters of the plain text may be
+inscribed in the cells of the grid through the apertures disclosed by the
+grille and then, when the grid has been completely ﬁlled, the grille
+removed, and the letters transcribed from the grid according to a pre-
+arranged route; or, (2) the letters of the plain text may ﬁrst be inscribed
+in the cells of the grid according to a prearranged route and then the
+grille applied to the completely-ﬁlled grid to give the sequence of letters
+
+'The system employed by the French Army in 1886 was of the nature here described.
+
+110
+

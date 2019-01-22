@@ -1,0 +1,52 @@
+REF ID:A56932
+
+within the small combat units. If properly used, it yields crypto-
+grams of considerable security. It is a complicated device; it
+has no keyboard, and is slow in operation. Despite its reduced
+size and weight, this device is not convenient for use in front-
+line areas, nor is it suitable for use in voice communication by
+small radio—telephone equipments such as the “walky—talky” or
+"handy-talky” sets.
+
+(2) Manual or hand-operated cipher systems are also unsuitable for
+such purposes. The processes of enciphering and deciphering by
+means of such systems require very close mental attention to
+avoid errors; the more secure methods are hopelessly slow and
+the faster ones are not secure, in comparison with the security
+that a small, frequently-changed two-part code yields.
+
+(3) Practical experience indicates that in messages of very small
+tactical units, in certain types of air-to-air or air-to—ground
+communications, and in certain forms of messages where the
+subject matter is highly stereotypic, as in weather reports and
+ﬁre-control observations, code is often preferred over cipher.
+In all these cases, speed must give way to security; size and
+weight of equipment are important factors; simplicity of
+operation undcr battle conditions is vital, which eliminates
+methods requiring much training and concentrated attention.
+Also, if code is properly prepared, one or two code groups may
+express a command or a report that would require many groups
+of cipher text. Small codes meet the requirements in all these
+respects, and for this reason, code is still used to some extent
+in the U. S. Army, especially in the forward areas.
+
+80. Fundamental Assumption of Military Cryptography
+
+It has been seen that every good cryptographic system combines two
+more or less separate .and distinct elements: a basic or unchangeable
+method or process, which is termed the general system; and a speciﬁc or
+variable factor which controls the steps under the general system and is
+termed the speciﬁc key. The secrecy of any military cryptographic system
+must be entirely dependent upon the speciﬁc key because it must be
+assumed that the enemy is in full possession of all the details concerning
+the general system. This assumption is warranted by the whole history
+of military cryptography and is based upon the two following considera-
+tions which all experienced cryptanalysts regard as valid. In the ﬁrst
+place, in military cryptography there are more proliﬁc sources from which
+to obtain information concerning cryptographic methods than there are
+in the isolated methods used by private individuals. In fact, by one
+means or another, the enemy can sooner or later come into possession of
+full information regarding the general cryptographic system. In the
+
+77
+

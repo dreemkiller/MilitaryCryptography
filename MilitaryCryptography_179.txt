@@ -1,0 +1,37 @@
+ 
+
+REF 1D:A56932
+
+(8) As regards administrative communications, cipher cannot com—
+
+pete with code from the point of view of condensation or
+abbreviation. A cipher message is always at least as long as the
+original plain-text message, whereas a code message prepared
+by means of a large code Specially compiled to give a high
+degree of condensation is usually much shorter than the equiv-
+alent original plain—text message. This arises, of course, from
+the fact that in well-constructed code books single groups of
+4 or 5 characters may repreSent long phrases or even whole
+sentences.
+
+(9) As a rule, cipher devices or machines cannot readily be oper-
+
+ated under all sorts of weather conditions. In very damp or in
+rainy climates, machinery failures are quite common, and it is
+difﬁcult to keep delicate machines in regular service. Moreover,
+in hot, humid climates no machines can long survive the dis-
+astrous corrosive effects of moisture, vegetable growths, etc.,
+whereas printed matter is hardly affected by these elements.
+Finally, under ﬁeld conditions, while a code book can be
+manipulated outdoors in all sorts of weather, in rain, sleet, or
+snow, in high altitudes where the temperature is very low, or
+in the tropics where it is very hot and humid, a cipher machine,
+especially if electrical, often cannot be operated with success
+for more than a few minutes or, at most, a few hours.
+
+173
+
+ 
+
+ 
+

@@ -1,0 +1,53 @@
+REF ID:A56932
+
+can turn out 10 to 15 times as much work as one operating a
+code system; furthermore, codes must be prepared, printed,
+and distributed. These steps take much time and labor and are
+often performed under considerable difﬁculty. A continuously
+operative code compilation section must be maintained to replace
+codes as fast as they become compromised by continued use, or
+by capture. The handling of the manuscript and proofs in print-
+ing entails the necessity of ever watchful secrecy; and ﬁnally,
+the prompt and thorough distribution of codes to all who must
+use them is sometimes very difﬁcult, especially where the dis—
+tribution must be made over an extensive territory. Therefore,
+for high—echelon cryptographing communications, ciphers are
+more economical than codes, but the economy factor is least
+important.
+
+c. It is clear that high-grade systems should include all or as many as
+possible of the ﬁve factors listed in b above; moreover, the advantages
+afforded by good cipher machines make cipher systems more desirable
+than code systems for the high-grade cryptographic systems required by
+high-echelon cryptographic intercommunication. In addition, secondary
+or “back—up" systems must be provided so that in case of machine or
+power failure, there will be available some means for cryptographic com-
+munication. Finally, emergency systems must be provided for crypto—
+graphic communication when neither apparatus nor codebooks can be
+employed.
+
+(1. Medium-grade cryptographic systems for intercommunication
+among intermediate echelon commands must meet almost the same severe
+requirements as systems for intercommunication among high—echelon
+commands. Here again, cipher machines are preferable to code. The
+machines may not be so large or complex, but if the same basic crypto—
+graphic system is employed by both the high—grade and the medium—grade
+machine, many advantages are noted. The problems of manufacture,
+maintenance, instruction of personnel in the operation of the system,
+distribution of keying data, etc., are simpler if they are basically the
+same for both types of machines. Moreover, it is possible for a message
+from an intermediate command to be deciphered by a high—echelon com-
+mand, and vice versa, without using a second cryptographic system. For
+these reasons, cipher machines are widely used in the U. S. Army for
+medium-grade cryptographic communication and, in addition, certain
+manual systems requiring simple types of apparatus are also used. These
+may serve also as the secondary or “back—up” systems required for the
+high-echelon cryptographic communications.
+
+e. (1) Even in the so—called “low-grade” systems, cipher machines are
+serving the purposes for which ﬁeld codes were formerly sup—
+plied. Converter M—209—( ) is a small, mechanical cipher
+machine widely used in the U. S. Army for communications
+
+76
+

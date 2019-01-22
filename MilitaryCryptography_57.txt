@@ -1,0 +1,66 @@
+ 
+
+ 
+
+REF ID:A56932
+
+by individual, repeated countings, two strips of paper bearing normal
+alphabets may be juxtaposed in the proper relative positions to encipher
+a whole column of letters at one setting of the strips. Thus, for the ﬁrst
+column, with the key number 7, the strips are juxtaposed so that the ﬁrst
+letter in the column, viz., R (which is to be represented by the seventh
+letter to the right of it, and is therefore to be enciphered by Y of the
+lower strip) is directly above Y, as follows:
+
+Plain :
+AB CDEFGHI JKIMNOPQRS TUVWXYZABCDEFGHI J KLMNOPQRSTUVWXYZ
+Cipher: - ABCDEFGHIJKLMNOPQRSTUVWXYZ
+
+The equivalents for the rest of the letters of the ﬁrst column may now
+be rewritten down in their proper places, reference being made to the
+alphabet strips to see what the cipher letters should be: E, = Le;
+
+I, = Pg; D, = K... For the second column the two alphabet strips are
+in these relative positions:
+
+Plain :
+ABCDEFGHI J'KIMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZ
+Cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+
+The cipher equivalents for the second column are: E, = Ia; M, = Qc;
+N, = R". The process is continued in this manner until all the columns
+have been enciphered, as shown in ﬁgure 17b.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+74030274
+REENFORG
+YIEQFQYG
+EMENTSBE
+LQEQTUII
+INGRUSHE
+PRGUUUOI
+D
+
+K
+
+Figure17b.
+
+The cipher text is then transcribed in groups of ﬁve- letters, reading
+the successive lines in the normal manner, that is, from left to right and
+from the top downwards, yielding the groups YIEQF, QYGLQ, etc. It is
+
+ 
+

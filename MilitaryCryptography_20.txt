@@ -1,0 +1,49 @@
+ 
+(2) The adequacy and technical soundness of regulations drawn up
+by designers of the cryptographic system for the guidance of
+cryptographic technicians who are its actual users.
+
+(3) The extent to which cryptographic technicians follow these
+regulations and procedures. Security of a good cryptographic
+system can be almost completely destroyed by a few crypto-
+graphic technicians who fail to observe the regulations, are
+careless in their observance, in sheer ignorance commit serious
+violations of cryptographic security, or adopt bad technical
+habits. As a result, these technicians jeopardize not only their
+own lives but the lives of thousands of their comrades.
+
+(4) The volume of cryptographic text available for study. As a
+rule, the greater the volume of text, the more easily and
+speedily it can be solved. A single cryptogram in a given sys—
+tem may present an almost hopeless task for the cryptanalyst,
+but if many cryptograms of the same system or in the same or
+closely related speciﬁc keys are available for study, the solution
+may be reached in a very short time.
+
+(5) The number, skill, and efﬁciency of organization and coopera—
+tion of signal intelligence units assigned to the work. Crypt--
+analytic headquarters are organized in units of ascending size,
+ranging from a few persons in the forward echelons to many
+persons in the rear echelons. Such organization avoids duplica—
+tion of effort and, especially in forward areas where spot intel—
+ligence is most useful, makes possible the quick interpretation
+of cryptograms in already solved systems. In all these units,
+proper organization of highly skilled workers is essential for
+efﬁcient operation.
+
+(6) The amount and character of information and intelligence avail—
+able to the cryptanalytic headquarters. Isolated cryptograms ex-
+changed between a restricted, small group of correspondents,
+about whom and whose business no information is available,
+may resist the efforts of even a highly organized, skilled crypt-
+analytic ofﬁce indeﬁnitely. If, however, a certain amount of
+such information is obtained, the situation may be entirely
+changed. In military operations usually a great deal of collateral
+information is available, from sources indicated in paragraph
+146. As a rule, a fair amount of more or less deﬁnite informa-
+tion concerning speciﬁc cryptograms is at hand, such as proper
+names of persons and places, and events in the immediate past
+or future. Although the exchange of information between intel-
+ligence and cryptanalytic staffs is very important, the collection
+of information derived from an intensive study of already
+solved trafﬁc is equally as important because it yields extremely

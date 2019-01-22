@@ -1,0 +1,76 @@
+ 
+
+ 
+
+REF ID:A56932
+
+i-AImas-m-m-«m-u- .«sﬁmnni I l
+
+b. The cipher alphabetsproduced by the cipher disk shown in the
+ﬁgure are merely reversed standard alphabets, the same as are produced
+by the use of sliding strips of paper, and by the use of certain; tables
+which are discussed below. The method of employing the disk needs no
+discussion. It may serve in monoalphabetic or polyalphabetic substitution
+with a key word or key number.
+
+62. Square Tables
+
+0. Tables known in the literature of cryptography under various
+names, such as “Vigenére Table", "Square Table”, "Quadricular Table”,
+”Pythagorean Table”, “Cipher Square”, “Cipher Chart", etc., are often
+employed in polyalphabetic substitution. All the results produced by their
+use can be duplicated by the employment of sliding alphabets or revolv-
+ing disks. The modern form of the Vigenére Table is shown in ﬁgure 19.
+Such a table may be used in various ways, diﬂ‘ering from one another in
+minor details. The most common method is to consider the top line of
+the table as containing the plain-text letters, the ﬁrst column at the left
+as containing the key letters. Then each successive horizontal line con-
+
+I’Iain—Tn! Letter
+
+3
+I“
+E
+z
+0
+
+ 
+
+puuua<camunmo=:ruhumnunuouu
+upuuua<=amwpmozgrahnmnumuon
+anhnnnI<camupmoziruhnmnwnuu
+uaupﬁnuu<=auwpmoznrnhnznmam
+nanupunusccamwavozsrxhnmnwu
+unuow>nuua<=amwnvoz=rnuu=na
+annuan>unxa<camwnmoz:v:hnm=
+:nqmunu>unaa<camw9mozsr=hnH
+H:“MMUOUDNHN‘468me1OZIFNGh
+an:numunu>nuua<camwpmozsra
+ﬁanznmnunwbunui<camwouoz:r
+ozzrnunznqmunu>nnxa<camwovw
+mbznrnhuanmuambuaxa<camw0a_
+ovozerhnmnmmuau>unua<camwx
+apnozsrauumnunuompuuua<camm
+«wowoznrnhncnwmunu>unxa<cﬂa
+amwpmozlrahnmnmnuowpnnua<ca
+camupmoz:ruhumnunuau>nuua<<
+<camwowozxruunmnmnunu>uuuaa
+I<camap~oznruhH=nunuou>NnuH
+ui<cduuawoznraunznununu>ngn
+uua<=amanwozIrahuzanmuawpnu
+
+ 
+
+NH”‘<CHW”DWDB:PKQH=QMHUOUD>
+FNGHGQWNUOUDNNNI<GI-IUIWD'UOZ:
+EFHQHIQHNUOUFNﬁﬂi<cﬂmﬂpﬁoz
+III."SEHIQWMUOWFNHNI<GHMNDWO
+
+ 
+
+NHNIﬂeﬁuleDWOIII‘HhI-Ilﬂ'ﬂHUQU>
+
+ﬂ
+
+Figure 19. The Vigenén able.
+

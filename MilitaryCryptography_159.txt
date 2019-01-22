@@ -1,0 +1,55 @@
+ 
+
+REF ID:A56932
+
+d. The degree of cryptographic security is, without doubt, increased
+by such a method. If the key lengths are properly selected, that is,
+if they present no common multiple less than their product, the method
+may give cryptograms of great security. For example, two keys that
+are 17 and 16 characters in length would give a cryptogram that is
+equivalent in period to that of a cryptogram enciphered once by a key
+1.7 X 16, or 272 elements in length. The fundamental principle of an
+excellent, though complicated, printing telegraph cipher system is this
+very principle.
+
+Section II. COMBINED SYSTEMS
+
+132. Combined Monoalphabetic and Polyalpha-betic Substitution
+Systems
+
+a. If a message undergoes a primary encipherment by the repeating-
+key method, using standard alphabets, and the primary cipher text then
+undergoes a secondary encipherment by means of a single-mixed alpha—
+bet, the degree of cryptographic security is increased to the same extent
+that it would be if the original message had undergone the same primary
+encipherment with secondary alphabets resulting from the sliding of.
+a mixed primary sequence against the normal sequence. This increase
+in security is not very great.
+
+6. The same is true if the primary encipherment is monoalphabetic
+and the secondary encipherment is polyalphabetic by the method
+described.
+
+1:. In general, this also applies to other types of polyalphabetic and
+monoalphabetic combinations. The increase in security is not very
+great, and is, indeed, much less than the uninitiated suspect.
+
+133. Combined Substitution-Tmnsposition in General
+
+Combinations of substitution and transposition methods can take many
+(liﬁerent forms, and only a few examples can be illustrated herein. It
+is possible of course, to apply substitution ﬁrst, then transposition, or
+transposition ﬁrst, then substitution. The most commonly encountered
+systems, however, are of the former type, that is sCl—éth. Further—
+'more, it can be stated that as a rule practicable systems in which both
+processes are combined use methods that are relatively simple in them-
+selves, but are so selected as to produce cryptograms of great security
+as a result of the combination. To give a very rough analogy, in
+certain combinations the effect is much more than equivalent to the
+simple addition of complexities of the order X and Y, giving X+Y;
+it is more of the order X Y, or even X’Y”.
+
+153
+
+ 
+

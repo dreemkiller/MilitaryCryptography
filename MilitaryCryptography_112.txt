@@ -1,0 +1,53 @@
+REF ID:A56932
+
+c. In the example of cryptographing given in paragraph 95b, the
+D—1 and D—Z rectangles are identical in dimensions, and identical
+numerical keys are applied to effect the T—l and T—2 transpositions.
+It is obvious, however, that it is not necessary to maintain these identi—
+ties; D—1 and D—2 rectangles of different dimensions may readily be
+employed, and even if it is agreed to have the dimensions identical, the
+numerical keys for the two transpositions may be different. Furthermore,
+it is possible to add other variable elements. (1) The direction or manner
+of inscribing the letters in the D—1 rectangle may be varied; (2) the
+direction of reading off or taking the letters out of the D—1 rectangle
+in effecting the T—l transposition, that is, in transferring them into the
+D—2 rectangle, may be varied; (3) the direction of inscribing these
+letters in the D—2 rectangle may be varied; ( 4) the direction of reading
+off or taking the letters out of the D—2 rectangle in effecting the T—Z
+transposition may be varied.
+
+d. The solution of cryptograms enciphered upon the double transposi-
+tion principle is often made possible by the presence of certain plain—text
+combinations, such as QU and CH (in German). For this reason, care-
+ful cryptographers substitute a single letter for such combinations, as
+decided upon by preagreement. For example, in one case the letter Q
+was invariably .used as a substitute for the compound CH, with good
+effect.
+
+Section IV. GRILLES AND OTHER TYPES 'OF MATRICES
+
+97. Type of Cryptographic Grilles
+
+Broadly speaking, cryptographic grilles2 are sheets of paper, card-
+board, or thin metal in which perforations have been made for the
+uncovering of spaces in which letters (or groups of letters, syllables,
+entire words) may be written on another sheet of paper upon which the
+grille is superimposed. This latter sheet, usually made also of cross-
+section paper, will hereafter be designated for purposes of brevity in
+reference as the grille grid, or grid. Its external dimensions are the
+same as those of the grille. Grilles are of several types depending upon
+their construction and manner of employment. They will be treated here
+under the titles of (1) simple grilles, (2) revolving grilles, (3) non-
+perforated grilles, and (4) “post card” grilles.
+
+98. Simple Grilles
+
+a. These consist usually of a square in which holes or apertures have
+been cut in prearranged positions. When the grille is superimposed upon
+3Also often called “stencils." The general term matrix (plural, matrices) is very useful in
+
+referring to a geometric ﬁgure or diagram used for transposition purposes. Other terms in
+common use are cage, frame, bar, etc.
+
+106
+

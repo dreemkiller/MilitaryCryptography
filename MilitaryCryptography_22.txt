@@ -1,0 +1,46 @@
+regulations. Maximum security at all times should be the goal, but in
+messages exchanged among the higher headquarters some speed may be
+sacriﬁced to meet greater security requirements, while in messages ex-
+changed among the lower headquarters security must often- give .way'to
+greater speed requirements. For this reason various cryptographic sys-
+tems must be available to meet varying types of situations. As to ﬂexi-
+bility,'a cryptographic system speciﬁcally adapted for a particular usage
+cannot serve as an all-purpose system. A codebook designed for front-
+line use can hardly serve the needs of a high headquarters! in the rear;
+nor can a cryptographic system designed for use by a high headquarters
+serve the needs of a small combat unit. As to economy, the simpler-‘th‘e
+operations involved, the shorter will be the texts produced, the amount
+of time required to produce the cryptographic material, use it, and trans-
+mit the messages; and the greater will be the economy.
+
+(1. Speciﬁc requirements which should be met by a cryptographic sys-
+tem for general military use are set forth below.
+
+(1) Cryptograms must be in a form suitable for transmission by
+standard telegraphic equipment and methods. This requirement
+generally eliminates all systems except those which produce
+cryptograms composed of characters readily transmitted by a
+telegraphic system employing either the Morse or the'itele—
+printer alphabet. Cryptographic systems using Arabic numerals
+are not so desirable as those using letters because-the-Mofse
+signals for numbers are longer, except when,_"cut”-numbers
+are used, and are more difﬁcult for the average American tele-
+graph or radio operator to handle. Systems which produce
+cryptograms composed of mixtures of letters and ﬁgures, or
+of letters, ﬁgures, and punctuation signs, and which must be
+transmitted by' Morse telegraphy are unsuited for practical
+usage. However, where Such intermixtures are produced auto-
+matically by the cryptographic mechanism and. are transmitted,
+received, and deciphered automatically, as certain teleprinter
+enciphering systems, their use is permissible. In order to be
+Suitable for economical Morse telegraphic transmission, the
+cryptographic text must be capable of being arranged in regular
+sets of characters for these reasons: ﬁrst, it promotes accuracy
+in telegraphic transmission (since an operator knows he must
+receive a definite number of characters in each group, no more
+and no less) ;' and secondly, cryptanalysis is usually made more
+difﬁcult when the length of the words,.phrases, and sentences
+of the plain text is not apparent. The usual grouping is in sets
+of ﬁve characters, although occasionally other groupings may
+be made in special circumstances. Such grouping is not necessary
+in teleprinter encipherment systems.

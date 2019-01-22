@@ -1,0 +1,75 @@
+REF ID:A56932
+
+(2)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+warts
+'IABGDE
+"rear-ax
+(1)1LINOP
+runs-re
+nvwxrz
+Figure]3.
+
+The message RAIDERS HAVE GONE is enciphered thus:
+
+Plain: RAIDERSHAVEGO'N'E
+Cipher: THWWHT WT WE TH TI HI WWEWWEHH IT IIWE
+
+The cryptogram is then transmitted in groups of ﬁve letters:
+Cryptogram: THWWH TWTWE THTIH IWWEW WEHHI THWE
+
+(I. In these two systems just described,
+
+(I) The letters of the alphabet within the square or rectangle may
+be ﬁxed in a mixed sequence, either systematically or random-
+mixed sequences being possible.
+
+(2) The column and row indicators may be the same, or different;
+when letters are used they may form a key word or they may
+not; the key words, if formed, may be identical or nonidentical.
+
+e. When letters are used as column and row indicators, they may be
+selected so as to result in producing cipher text that resembles “made-up
+words,” that is, words composed of regular alternations of vowels and
+consonants. For example, if in ﬁgure 13 the row indicators consisted of
+the vowels A E I O U in this sequence from the top down, and the
+column indicators consisted of the consonants B C D F G in this
+sequence from left to right, the word RAIDS would be enciphered as
+OCABE FAFOD, which very closely resembles code of the type for-
+merly called artiﬁcial code language. Such a system may be called a
+false, or pseudo-code system.’l
+
+'Prior to 1934, International Telegraph Regulations required code words of ﬁve letters to
+contain It least one vowel and code words of ten letters to contain at least three vowels. The
+Madrid Conference held in 1932 amended these regulations to permit the use of code groups
+containing any combination of letters. These unrestricted eude groups were authorized for use
+after I Tannery 10.14.
+
+45
+
+ 
+

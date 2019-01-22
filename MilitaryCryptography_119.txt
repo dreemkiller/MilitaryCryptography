@@ -1,0 +1,114 @@
+ 
+
+REF ID:A56932
+
+102. Increasing the Security of Revolving Grilles
+
+a. The total number of letters which a grille will exactly encipher is
+termed its capacity. If the number of letters of a message is always equal
+to the total capacity of the grille, this information is of great aid in solu-
+tion by the enemy. For example, a message of 64 letters indicates a grille
+8 by 8 with 16 apertures; one of 144 letters, a grille 12 by 12 with 36
+apertures, and so on. There are, however, methods of employing a
+grille so that it will serve to encipher messages the lengths of which are
+greater or less than the capacity of the grille.
+
+b. When the total number of letters is less than the capacity of the
+grille, no modiﬁcation in method of use is necessary. Encipherment of
+such a message comes to a close when the last plain-text letter has been
+inscribed. In decryptographing such a message, the recipient must strike
+out, on the grid upon which he is to inscribe the cipher text, a number of
+cells corresponding to the difference between the number of letters of
+the text as received and the total capacity of the grille. The location of
+the cells to be thus eliminated must be prearranged, and it is best usually
+to strike them off from the ﬁnal positions of the grid.
+
+1529 1301933 57
+
+1.2 2 164346 6207/
+
+I / /
+Zj/ﬂV/ZZ 17 u. 31 13 21 '47 34 Z;
+/, I /, x 3 32 1.5 7 35 '8 /
+QZ/éﬂf/ﬂ 25 38 11 39 22 36 9 7/
+% - /// so 12 26 51 48 10 23 V/
+a 27 52 40 28 ’21; 49 37 7/
+13 1.1 1!. @V/A/ /////7/
+
+b
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+b
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Figure 48.
+
+c. When the total number of letters is equal to or greater than the
+capacity of the grille, a grid of greater capacity than that of the grille
+can be prepared, on which the grille may be positioned several times,
+thus forming a large or composite grid composed by the juxtaposition
+of the several small grids. If there are a few cells in excess of the actual
+number required, these may be struck off from the large grid at pre-
+arranged points, for example, from the last column and row, as shown
+in b of ﬁgure 48. The grille is then placed in its ﬁrst position in turn on
+each of the component grids, then in its second position, and so on. An
+example will serve to illustrate. A message of ﬁfty-two letters is to be
+
+113
+

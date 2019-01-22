@@ -1,0 +1,52 @@
+REF ID:A56932
+
+d. Biﬁd and triﬁd alphabets may be combined within a single sys-
+tem with appropriate groupings, but such combinations may be con—
+sidered as rather impracticable for military usage.
+
+140. Fractionation Combined with Columnar Transposition
+
+a. An excellent system of combined substitution-transposition that
+has stood the test of practical, war-time usage is that now to be
+described. Let a 36—character bipartite alphabet square be drawn up,
+and a message enciphered, as follows:
+
+ 
+
+M O N T H S
+W
+I l ii 3 g 3 II] “94 (Key for internal alphabet: HAIL COLUM-
+N B 2 p Y N D BIA HAPPY LAND. Digits are inserted imme-
+T 4 E 5 F 6 G diately after each letter from A to J, A being
+E 7 J g K Q R followed by l, B, 2, etc.)
+R S T V W X Z
+Message:
+ADVANCE PROGRESSING SATISFACTORILY OVER 400 PRIS-
+ONERS AND 5-75 MM GUNS CAPTURED. SECOND OBJECTIVE
+REACHED AT 5:15 P. M.
+Substitution :
+ADVANCEPROGRESS
+WN NS RN WN NH IO TO NN ES IT TS ES T0 RM RM
+INGSATISFACTORI
+WHNHTSRMWNROWHRMTTWNIORO ITESWH
+LYOVER4¢¢PRISON
+IMNT ITRNTOES TMENENNNESWHRMITNH
+ERSAN-D575MMGUNS
+TOESRMWNNHNS TNEMTN IS IS TS IHNHRM
+CAPTUREDSECONDO
+IO WN NN R0 IH ES T0 NS RM T0 I0 IT NH NS IT
+BJECTIVEREACHED
+NMEO T0 IOROWHRNTO ES TOWNIOWMTONS
+A T 5 1 5 P M
+
+WN R0 TN WT TN NN IS
+
+The C1 text is now inscribed in a rectangle of predetermined dimen-
+sions. Transposition rectangle (columnar, based on key HAIL COLUM-
+BIA HAPPY LAND) (see ﬁgure 70).
+
+b. One of the important advantages of this type of cipher is that
+it affords accuracy in transmission since the text is composed of a
+
+162
+

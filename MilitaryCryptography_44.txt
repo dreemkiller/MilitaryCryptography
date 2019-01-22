@@ -1,0 +1,64 @@
+l
+
+ 
+  
+ 
+ 
+   
+
+REF ID:A56932
+
+(2) Reversed standard, in which the cipher component is also the
+normal sequence but runs in the opposite direction from the
+normal. Example:
+
+—))
+Plain: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+Cipher : QPONMLKJIHGFEDCBAZYXWVUTSR
+.(__
+
+Here the cipher component can be applied to the plain com-
+ponent at any of 26 points of coincidence, each yielding a
+different cipher alphabet. There is in this case, therefore, a
+series of 26 (reversed standard) cipher alphabets.
+
+b. It is often convenient to refer to or designate one of a series of
+cipher alphabets without ambiguity or circumlocution. The usual method
+is to indicate the particular alphabet to which reference is made by citing
+a pair of equivalents in that alphabet. For example, the reversed alphabet
+above, one of a series of 26 related alphabets, may be designated as that
+in which Ln = Fc or Wp = Uc. But the most common basis of refer-
+ence is the letter which represents the ﬁrst or initial letter of the plain
+component, usually A,. Thus, the key for the cipher alphabet just
+referred to, as well as that preceding it, is A, = Qc, and it is said that the
+key letter for the cipher alphabet is Qc.
+
+43. Reciprocal Alphabets
+
+a. The cipher alphabet in paragraph 42a (2) is also a reciprocal
+alphabet; that is, the equivalents show reciprocity and are reversible or
+reciprocal in pairs. For example, in the alphabet referred to, Ap = Qc
+and 9,. =Ac ; B, = PC and Pp = Be, etc. The reciprocity exists through-
+out the alphabet and is a result of the method by which it was formed.
+
+b. A series of related reciprocal alphabets may be derived by juxtapos—
+ing at all possible points of coincidence two components which are identi»
+cal but progress in opposite directions. This holds regardless of whether
+the components are composed of an even or an odd number of elements.
+The reciprocal alphabet (par. 42a (2)) is one of such a series of 26
+alphabets. -
+
+C. A single or isolated reciprocal alphabet may be produced in one of
+two ways:
+
+(1) By constructing a complete reciprocal alphabet by arbitrary or
+random assignments of values in pairs. That is, if A, is made
+Kc, then K,, is made Ac; if B, is made Re, then R, is made Be,
+and so on. If the two components thus constructed are slid
+against each other no additional reciprocal alphabets will be
+produced.
+
+(2) By juxtaposing a sequence comprising an even number of
+elements against the same sequence shifted exactly half way to
+the right (or left), as seen below;
+

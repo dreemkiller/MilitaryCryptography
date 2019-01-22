@@ -1,0 +1,129 @@
+ 
+
+ 
+
+REF ID:A56932
+
+shown in ﬁgure 8 of (a). From the complete rectangle 7 X S = 35 cells,
+5 cells must remain vacant at the end.
+
+6. The cipher text is then inserted in key—number order, the result of
+inserting the ﬁrst two groups of the text being shown in (b), ﬁgure 8.
+It is only after the process has been ﬁnished that the complete message
+
+becomes apparent.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Message:
+REQUEST IMMEDIATE REENFORCEMENTS
+Keyword: P-R—O—D—U-C-T
+Numericalkey: 4-5-5-2—7-1—6
+R E Q U E S T
+I M M E D I A '
+T E R E E N F
+0 R C E M E N
+T S
+Cryptogram:
+SINEU EEEQM RCRIT OTEME RSTAF' NEDEM
+Figure 7.
+Cryptogram:
+
+SINEU EEEQM RCRIT OTEME RSTAF NEDEM
+4-5-3-2-7—1—6 '4—5-5—2—7—1—6
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Q u s
+M E I
+E N
+E E
+(a) (b)
+
+Figure 8.
+29
+
+ 
+

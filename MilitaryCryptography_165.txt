@@ -1,0 +1,61 @@
+ 
+
+REF ID:A56932
+
+d. In the example in paragraph 136e, the same biﬁd alphabet was
+used for the recomposition as for the decomposition. Instead of cen-
+verting the combined 91c 0% elements into letters by means of the
+original biﬁd alphabet, suppose a second biﬁd alphabet speciﬁcally
+drawn up for this recomposition is at band (see par. 136f). Thus:
+
+11=A 21=B 51=C 41=K 51=V
+12=U 22=I 32:1) 42=N 52=W
+13=T 23=L 53=F 43=P 53=X
+14:0 24=E 34=G 44=Q 54=Y
+15=M 25=S 35=H 45=R 55:2
+
+The encipherment of the message is then as follows:
+Message: ONE PLANE REPORTED LOST.
+
+ 
+
+Alphabet for decomposition Alphabet for ”composition
+A: 12 N=15 11=A 54=G
+3:31 0:42 12=U 35=H
+C=21 P=43 15=T 41=K
+D=32 Q=44 14:0 42=N
+13:33 R_=25 15=M 45:?
+F=15 S=45 21:3 44:9,
+G=25 T=22 22=I-J 45=R
+H=34 U=14 23=L 51=V
+
+I-J=24 V=51 24=E 52=W
+
+K=55 W=52 25=S 53=X
+
+'L=41 X=55 31:0 54=Y
+
+M=11 Y=54 32=D 55:2
+Z=55 35=F
+
+Encipherment :
+
+ON EP LA NE RE P0 RT . ED
+41=K 34=G 41=K 13=T 23=L 44=Q 22=I 33=F
+23=L 35=F 12=U 53=F 33=F 52=D 32=D 32=D
+
+L0 ST
+44:0, 42==N
+a ' 12=U 52=W
+Cryptogram:KLGFK UTFLF QDIDF DQUNW
+e. Now encipher the same plain-text message by means of the four-
+alphabet matrix shown in ﬁgure 69. The results are as follows:
+Message: ONE PLANE REPORTED LOST.
+ﬁlain text: 0N EP LA NE RE P0 RT ED L0 ST
+Cipher pairs: KL GF KU TF LF QD ID FD QU NW
+Cryptogram: KLGFK UTFLF QDIDF DQUNW
+
+The results are identical with those obtained in d above.
+
+159
+

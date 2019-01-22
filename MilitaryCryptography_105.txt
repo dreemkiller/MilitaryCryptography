@@ -1,0 +1,53 @@
+1-"
+
+REF ID:A56932
+
+OOEDRTOYRWPNNLE
+
+rpazuncnrsmrixnnsn'r
+
+FNROPSBJ’IXEL
+
+OAODADEFRIYULMN!
+
+Cryptogram:
+OOEDR TOYRW PNNLE FPBEU RCBTS
+
+MEAIL DSLTF NROPS BJIXE LOAOD
+ADEF‘R IYULM NY
+
+Figure 37.
+
+f. From the foregoing examples, it is obvious that many other ﬁgures
+may be used for effective transpositions of this kind, such as stars
+of varying numbers of points, polygons of various symmetrical shapes,
+etc. It is merely necessary to agree upon the ﬁgures, the number of
+ﬁgures per line, the starting points of the inscription and transcription
+processes.
+
+9. The method lends itself readily to combination with simple
+monoalphabetic substitution, yielding cryptograms of a rather high
+degree of security.
+
+Section II. POLYPHASE TR'A-NSPOSITION SYSTEMS
+
+92. Polyphase Transposition Methods in General
+
+a. In paragraph 33, brief mention was made of transposition systems
+in which two or more processes of rearrangement are involved. It was
+stated that only a very limited number of such transposition methods
+are practicable for military use, but that the degree of security afforded
+by them is considerably greater than that afforded by certain much
+more complicated substitution methods. The methods referred to are
+those which involve two or more successive transpositions, and merely
+for purposes of brevity in reference they will here be called polyphase
+transposition methods to distinguish them from the single monophase
+methods thus far described.
+
+b. It is obvious that a polyphase transposition method may involve
+2, 3, . . . successive transpositions of the letters of the plain text.
+To describe these methods in general terms, one may indicate that
+the letters resulting from a ﬁrst transposition, designated as the T—l
+
+99
+

@@ -1,0 +1,51 @@
+ 
+
+w—~ w""'1' ".‘"“" '
+
+ 
+
+ 
+
+REF ID:A56932
+
+1). Little need be said of the method based upon constructing external
+text the letters of which, at prearranged positions or intervals, spell out
+the internal text. For example, it may be prearranged that every fourth
+letter of the external text forms the series of letters for spelling out
+the internal text, so that only the 4th, 8th, 12th . . . letters of the external
+text are signiﬁcant. The same rule may apply to the complete words of
+the external text, the n, 2n, 3n, . . . words form the internal text. The
+preparation of the external text in a suitable form to escape suspicion
+is not so easy as might be imagined, when efficient, experienced, and
+vigilant censorship is at work. Often the paragraph or passage containing
+the secret text is sandwiched in between other paragraphs added to pad
+the letter as a whole with text suitable to form introductory and closing
+matter to help allay suspicion as to the presence of secret, hidden text.
+
+c. A modiﬁcation of the foregoing method is that in which the lst,
+3d, 5th, . . . words of a secret message are transmitted at one time or by
+one agency of communication, and the 2d, 4th, 6th, . . . words of the
+message are transmitted at another time or by another agency of com-
+munication. Numerous variations of this scheme will suggest themselves,
+but they are not to be considered seriously as practical methods of secret
+intercommunication.
+
+(1. Two correspondents may agree upon a speciﬁc size of paper and a
+special diagram drawn upon this sheet, the lines of which pass through
+the words or letters of the internal text as they appear in the external
+text. For example, the legs of an equilateral triangle drawn upon the
+sheet of paper can serve for this purpose. This method is practicable
+only when messages can be physically conveyed by messenger, by the
+postal service, or by telephotographic means. Many variations of this
+basic scheme may perhaps be encountered in censorship work.
+
+110. Cipher Machines for EFFectin-g Transposition
+
+These may be dismissed with the brief statement that if any exist
+today they are practically unknown. A few words are devoted to the
+subject in paragraph 147.
+
+123
+
+ 
+

@@ -1,0 +1,43 @@
+(2) Regular channels of signal communication carry only a 
+limited volume of trafﬁc. Their most efﬁcient operation demands
+that the smallest number of characters actually necessary to
+convey a given mesSage be transmitted. Therefore, the crypto-
+graphic text should be no longer than its equivalent clear text.
+In an exceptional ease, the cryptographic text- may be longer
+than the equivalent clear text, but a system in which the
+cryptographic text is twice the length of the equivalent clear
+text is useful only if it is of outstanding merit and suitable for
+certain restricted or special use. No system in which the crypto-
+graphic text is more than twice the length of the equivalent
+clear text is practicable for military usage. Most of the crypto-
+graphic systems in current use produce cryptograms which cor-
+respond 1n length with that of the original plain—text message
+or are somewhat shorter.
+
+(3) General requirements of reliability and speed are that the opera-
+tions of cryptographing and decryptographing be relatively
+simple and rapid. For use in the combat zone, operations must
+be capable of being performed under difﬁcult ﬁeld conditions
+and must not require the remembering and application of a
+long series of steps or rules. They must be such as to reduce
+the mental strain on the operator to a minimum. Complex
+processes requiring several distinct steps are not suited to use
+in the combat zone, but occasionally systems involving only
+two steps, if each step is simple and rapid, may be practicable
+for military usage.
+
+(4) Cipher devices or machines for ﬁeld use must be light 1n weight,
+rugged in construction, and simple in operations, requiring the
+services of only one operator. Requirements to be met by high—
+speed cipher machines are too complex to be described in this
+manual.
+
+(5) The system must be such that errors, which invariably occur in
+cryptographic communications, can be corrected easily and
+rapidly by cryptographic technicians. A system is impractical
+if frequently it is necessary to call for a repetition of the whole
+transmission, or for a rechecking of the original crypto-
+graphing.
+
+e. Only a few of the systems which fullfill at least several of the fore—
+going practical requirements are included in this manual.

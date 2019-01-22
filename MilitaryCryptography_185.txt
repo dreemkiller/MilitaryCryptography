@@ -1,0 +1,65 @@
+REF ID:A56932
+
+laborious to count 573 groups forward, for example. In cases such as
+these additives limited to numbers from 1 to 20 or 30 are common.
+
+d. (1) Instead of adding a ﬁxed number in encipherment, the latter
+may be subtracted, in' which case, in dccipherment, the ﬁxed
+number must be added to the encicode groups as received. Such
+a group may be termed a subtractive group, or subtractor, be-
+cause subtraction is the process used in encipherment; in deci-
+pherment the group becomes, of course, an additive.
+
+(2) Addition and subtraction of a ﬁxed numerical group may be
+alternated within the same message, according to some simple
+subsidiary key; for example, a series of additive groups cor-
+responding to the keyword BAD might, by prearrangement,
+consist of the numbers 200, 100, 400. These might be used in
+repetitive manner. Or the correspondents might agree to use
+these key numbers alternatively in additive and subtractive
+manner, such as +200, —100, +400, —200, +100, —400,
++200, —100, etc.
+
+e. Addition without “carrying,” or noncarrying addition, is just as
+simple as normal addition, that is, addition with “carrying"; and sub-
+traction without “borrowing,” or nonborrowing subtraction, is just as
+simple as normal subtraction, that is, subtraction with “borrowing.” It is
+merely necessary that the correspondents agree in advance on this point
+and apply the process consistently throughout a message. In practice,
+however, it is more common to perform these processes without “carry-
+ing” or “borrowing,” so that the operations can be performed from left
+to right as in normal writing. Following is an example which will make
+the matter clear.
+
+Example A
+
+(a) Example of ”noncarrying" addition in encipherment;
+
+ 
+
+ 
+
+(1) Placode .......................... 5517 3082 9015 6710 9541
+
+(2) Fixed group for addition ......... - 5678 5678 5678 5678 5678
+
+(3) Encicode ......................... 0185 8650 468:5 T388 4119
+(b) In dccipherment, "nanborro'wing” subtraction is applied:
+
+(1) Encicode ......................... 0185 8650 4685 1388 4119
+
+(2) Fixed group for subtraction ....... 5678 5678 5678 5678 5678
+
+(3) Placode .......................... 5517 ﬁsosz 901? 6710 9541
+
+(c) Note that in the decipherment process the enricode serves as the minuend, the
+additive used in the encipherment serves as the subtrahend, and the placode
+is the remainder.
+
+f. In the foregoing example the additive remains the same through-
+out the superencipherment but it is obvious that this is only the simplest
+sort of an arrangement. A series of different additives may readily be
+employed, as will be explained later.
+
+179
+

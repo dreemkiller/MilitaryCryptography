@@ -1,0 +1,55 @@
+REF ID:A56932
+
+cnciphered with the grille shown in a of ﬁgure 48, the capacity of which
+is sixteen letters. The number of letters of the message being greater than
+three times sixteen, the composite grid must be composed of four small
+grids containing a total of sixty-four cells. Therefore, twelve of these
+cells must be eliminated. These are shown in b of ﬁgure 48, together with
+the number indicating the positions occupied by the letters of the text.
+
+103. Construction of Revolving Grilles
+
+(I. There are several ways of preparing revolving grilles, of which the
+one described below is the most simple. All methods make use of cross-
+section paper.
+
+b. Suppose a revolving grille with a capacity of 100 letters is to be
+constructed. The cells of a sheet of cross-section paper 10 by 10 are
+numbered consecutively in bands from the outside to the center, in the
+manner shown in a of ﬁgure 49. It will be noted that in each band, if n
+is the number of cells forming one side of the band, the highest number
+assigned to the cells in each band is n —— 1.
+
+c. It will be noted that in each band there is a quadruplication of
+each digit; the ﬁgure 1 appears four times, the ﬁgure 2 appears four
+times, and so on. From each receding band there is to be cut out
+(n—l) cells: from the outermost band, therefore, nine cells are to be
+cut out; from the next band, seven; from the next, ﬁve; from the next,
+three; and from the last, one cell. In determining speciﬁcally what cells
+are to be cut out in each band, the only rules to be observed are these:
+(1) One and only one cell bearing the ﬁgure 1 is to be cut out, one
+and only one cell bearing the ﬁgure 2 is to be cut out, and so on; (2) as
+random a selection as possible is to be made among the cells available
+for selection for perforation. In b of ﬁgure 49 is shown a sample grille
+prepared in this way.
+
+(1. If the side of the grille is composed of an odd number of cells, the
+innermost band will consist of but one cell. In such case this central cell
+must not be perforated.
+
+e. It is obvious that millions of differently perforated grilles may be
+constructed. Grilles of ﬁxed external dimensions may be designated by
+indicators, as was done by the German Army in 1915 when this system
+was employed. For example, the FRITZ grille might indicate a 10 by 10
+grille, serving to cncipher messages of about 100 letters; the ALBERT
+grille might indicate a 12 by 12 grille, serving to encipher messages of
+about 144 letters, and so on. Thus, with a set of grilles of various dimen-
+sions, all constructed by a central headquarters and distributed to lower
+units, systematic use of grilles for messages of varying lengths can be
+afforded.
+
+f. A system for designating the positions of the perforated cells of a
+grille may be established between correspondents, so that the necessity
+
+114
+

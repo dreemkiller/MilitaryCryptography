@@ -1,0 +1,59 @@
+REF ID:A56932
+
+over S on the outer sequence. The letter to which the short hand
+points is the cipher equivalent of S and is written down. Then the
+long hand is moved clockwise to a position over E, the letter to
+which the short hand points is noted and written down. When a double
+letter occurs in the plain text, as in the case of the double M of
+AMMUNITION, some infrequently used letter, such as Q, must
+be substituted for the second occurrence of the letter. To decipher a
+message, the hands are returned to their initial prearranged position,
+and then the long hand is moved clockwise until the short hand points
+to the ﬁrst cipher letter; the long hand is then directly over the
+plain-text letter. The process is continued until all the letters have
+been deciphered.
+
+d. A consideration of the foregoing details shows that the encipher-
+ment of a message depends upon a combination of the following
+variables:
+
+( 1) The sequence of letters in the outer circle. In the case just
+considered, this sequence must be regarded as a known
+sequence, since it consists merely of the normal alphabet plus
+one character.
+
+(2) The sequence of letters in the inner circle.
+
+(3) The initial juxtaposition of the two sequences.
+
+(4) The exact composition of the text to be enciphered, since
+this will determine the number of revolutions of the long
+hand required to encipher a given number of letters of the
+message.
+
+e. It is obvious that if the outer alphabet is made a mixed alphabet,
+as well as the inner, both being different, the cryptograms will be
+made the more secure against cryptanalysis.
+
+f. The same results as are obtained by using the device can be
+obtained by using sliding strips of paper, providing the operator will
+bear in mind that every time a 6\,. on the plain component is situated
+to the left of the preceding 0,, he must displace the cipher component
+one interval to the left, if the correspondents have agreed upon a
+clockwise movement of the long hand, or to the right, if they have
+agreed upon a counterclockwise movement of the long hand.
+
+143. Jefferson Cipher
+
+a. Credit for the invention of the cipher system and device now
+to be described belongs to Thomas Jefferson,“ the original inventor,
+
+‘1 The late John M. Manly, Ph. 13., formerly Captain, Military Intelligence Division, U. S. A.,
+discovered, in 1922, a description of the device among Jefferson’s Papers in the Library of
+Congress (vol. 232, item 41575, Jefferson’s Papers). For a photographic reproduction of this
+historically interesting item, see pp. 189—91 of Article: on Cryptography and Cryptanalyri:
+Reprinted From The Signal Corps Bulletin, Signal Security Service Publication, OCSigO,
+Washington, 1942.
+
+166
+

@@ -1,0 +1,52 @@
+ 
+
+REF ID:A56932
+
+tains the cipher equivalents for the plain-text sequence ABC . . . Z en-
+ciphered by the key letter which stands at its left in the ﬁrst column.
+Thus, the cipher alphabet corresponding to key letter D is the sequence
+of letters in the fourth horizontal line under the plain-text line, where
+A, = Dc, Bp = EC, etc. It will be easy to remember, in using such a
+table, that the equivalent of a given plain-text letter, T,,, for example,
+enciphered by a given key letter, 0);, lies at the intersection of the vertical
+column headed by T, and the horizontal row begun by O. In this case
+Tp (0k) = He. The same result will be found on referring to sliding,
+direct standard alphabets.
+
+17. Minor modiﬁcations of the Vigenere Table are encountered. If the
+top line is made a reversed normal sequence, leaving the interior of the
+table unchanged, or if the successive horizontal rows are made to contain
+the reversed normal sequence, leaving the top row (plain text) un-
+changed, then the results given by using the table are the same as those
+given by using the obsolete cipher disk shown in ﬁgure 18. Again, the
+same general results can be obtained by using a set of alphabets in tabu-
+lar form known under the names of Porta’s Table and Napoleon’s Table,
+which is ShOWn in ﬁgure 20.
+
+AB ABC.DEFGHIJKLM
+NOPQRSTUVWXYZ
+CD ABCDEFGHIJKLM
+ZNOPQRSTUVWXYZ
+EF ABCDEFGHIJKLM
+YZNOPQRSTUVWX
+etc.
+WX ABCDEFGHIJKLM
+PQRSTUVWXYZNO
+YZ ABCDEFGHIJKLM
+OPQRSTUVWXYZN
+
+In this table the alphabets are all reciprocal, for example, G, (Wk) = V0:
+V1. (Wk) = Ge. Reciprocal alphabets when arranged in this form are
+sometimes called complementary alphabets. Note that in each alphabet
+either of two letters may serve as key letter indifferent-1y: G, (Wk) or
+G, (Xk) = Ve-
+
+c. Another modiﬁcation of the basic table, and one that employs num-
+bers instead of letters as cipher equivalents is shown in ﬁgure 21. Since
+many more than 26 different equivalents are available (100 pairs of
+digits from 00 to 99, it is possible to insert many plain—text elements in
+
+56
+
+ 
+

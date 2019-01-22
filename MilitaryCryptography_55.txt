@@ -1,0 +1,58 @@
+equivalents of the same plain-text letteB'gtEa {Wdiatéé’ﬁ $3.35 as
+
+equivalents of some of the high-frequency letters. Now there are certain
+conditions inherent in the method itself, conditions which cannot here be
+indicated, that result in producing in the cryptograms certain deﬁnite
+clues leading to the rapid establishment, in cryptanalysis, of the equiva-
+lence of different variant values. Furthermore, in these systems the vary—
+ing or alternative equivalents for plain—text letters are subject to the free
+choice and caprice of the encipherer. If he is careful and conscientious
+in the work he will actually make use of all the variant values afforded
+by the system; but if he is slip—shod and hurried in his work, he will use
+the same equivalent repeatedly rather than take pains and time to refer
+to his charts, tables, or diagrams to ﬁnd variants. The result is that the
+cryptograms based upon these methods are open to easy solution, even
+when the basic methods are such as would make a solution difficult with-
+out the interception of carelessly enciphered messages. What is necessary
+is a system in which there is established a deﬁnite procedure for auto-
+matically shifting or changing the cipher alphabets employed in the en-
+cipherment of a single message; a method which within certain limits is
+beyond the momentary whims of cipher clerks, and which to a higher
+degree makes difﬁcult the establishment of the equivalency of different
+cipher values. These are the objects of true polyalphabetic substitution
+systems. The number of such systems is large. Therefore, it will be pos-
+sible to describe only a few of the more common or typical examples of
+methods practicable for military use.
+
+c. The three methods (a) simple monoalphabetic substitution, (b)
+monoalphabetic substitution with variants, and (c) true polyalphabetic
+substitution, are attended by the following consequences in the plain text
+cipher relationship, a careful study of which will help to understand their
+similarities and differences:
+
+(1) Encipherment—
+
+In method (a) each plain-text letter is represented by one and
+always the same cipher equivalent.
+
+In method (b) and method (c), each plain—text letter is repre-
+sented by two or more different cipher equivalents, but in
+method (b) the variations are subject only to the whim of the
+encipherer, whereas in method (c) the identities of the cipher
+letters are determiner! by the positions they occupy in the
+text.
+
+(2) Decipherment—
+
+In method (a) and method (b), each cipher equivalent repre—
+sents one and always the same plain—text letter.
+
+In method (c) one and the same cipher equivalent represents
+two or more different plain—text letters, the identities of
+which are determined by the positions they occupy in the
+text.
+
+49
+
+ 
+

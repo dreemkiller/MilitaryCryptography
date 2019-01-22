@@ -1,0 +1,58 @@
+ 
+
+REF 1D:A56932
+
+Encipherment :
+
+4-5—3-2—7—1-6 4-5—5-2-7-1-6 4—5-3—2—7-1-6
+TextzREQUESTIMMEDIATEREENF"
+T—l:SINEUEEEQMRCRITOTEMER
+T—2:EREEEREFNMTASETSEIQOT
+
+4—5-3-2—7-1—6 4—5
+
+0 R C E M E N T S
+
+S 1' A F N E D E M
+
+M E I R D U C M N
+Cryptogram:
+
+EREEE REFNM TASET SEIQO TMEIR
+
+DUCMN
+
+d. In some respects this modiﬁed method is simpler for the novice-to
+perform correctly than is that employing rectangles. Experience has
+shown that many inexpert cryptographic clerks fail to perform the two
+transpositions correctly when D—1 and D—2 rectangles are employed
+in the work.
+
+96. General Remarks on True Polyphase Transposition
+
+a. The cryptographic security of the true double transposition method
+deserves-discussion. Careful study of a .cryptogram': enciphered by; the
+double transposition method set forth in paragraph 95 b and c will
+indicate that an extremely thorough scrambling of the letters is. indeed
+brought about by the method. Basically, its principle is the splitting up
+of the adjacent or successive letters constituting the plain text by two
+sets of‘ cuts” , the second of which IS in a direction that 15 perpendicular
+to the ﬁrst, with the individual “cuts” of both sets arranged in a
+variable and irregular order. It is well adapted for a regular and
+voluminous exchange of cryptograms between correspondents, because
+even if many messages in the same key are intercepted, so" long .asllno
+two messages are identical in length, they can only be cryptanalyzed
+after considerable effort.
+
+b. Triple and quadruple transpositions of the same nature are possible
+but not practical for serious usage. Theoretically, a continuation or
+repetition of the tranposition process will ultimately bring about a condi-
+tion'iivherein the D-n rectangle is identical with the D'~1. rectangle: in
+other words, after a certain number of transpositions the rectangle pro—
+duced by a repetition of the cryptographing process results ﬁnally in
+decryptographing the message. Exactly how many repetitive transposi-
+tions intervene in such cases is extremely variable and depends upon
+factors lying outside the scope of this text, I I
+
+1:195
+

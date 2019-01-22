@@ -1,0 +1,53 @@
+ 
+
+ 
+
+REF ID:A56932
+
+: l:llI!-M¥LL1-'=m=~£32:=i‘.ﬂx=:zm:;~....... ......., .
+
+CHAPTER 4
+ELEMENTARY CODE SYSTEMS
+
+ 
+
+Section I. GENERAL
+
+68. Difference Between Code and Cipher Systems as Methods
+of Cryptography
+
+A code system is a more or less highly specialized form of substitution.
+The basic principle underlying substitution cipher systems is the replace-
+ment of the individual letter in the plain text of a message by other let—
+lers, ﬁgures, or symbols. Occasionally the replacement or substitution
+process is applied to groups of letters, and when this is done the groups
+are usually of deﬁnite, or regular length. In cipher systems the units
+with which the cryptographic treatment deals are the smallest of which
+plain text can be composed. The basic principle underlying code systems,
+however, is the replacement of entire words, long phrases, or complete
+sentences constituting the plain text of a message by arbitrarily selected
+equivalents having little or no relation to the elements they replace. These
+equivalents may be other words, groups of letters, groups of ﬁgures, or
+combinations. It is only exceptionally that the replacement or substitution
+process is applied to elements smaller than whole words, and when this
+is done the elements are single letters, groups of letters, or syllables. In
+code systems the units with which the cryptographic treatment deals are
+aggregates of smaller units—individual letters combined in various
+groups of irregular length; that is, words, phrases, sentences.
+
+69. Code Books and Codes
+
+0. If it were possible to memorize a long list of words, phrases, and
+sentences, together with the arbitrary equivalents called code groups as-
+signed to represent them, there would be no need of having written or
+Printed code books. In a code book, the words, phrases, and sentences
+are listed in a systematic manner and accompanied by their code equiv—
+alents. Correspondents must possess identical copies of the document in
+order to communicate with one another. An ordinary dictionary may, and
+Often does serve the purpose of code communication, so far as single
+words are concerned, but as a rule a specially prepared document con—
+taining the words, phrases, and sentences, suited to particular types of
+correspondence, is used. Such documents are called, in the United States
+
+63
+

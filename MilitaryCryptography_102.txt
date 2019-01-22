@@ -1,0 +1,129 @@
+ 
+
+ 
+
+REF ID:A56932
+
+The letters of the plain text, taken in sets of ﬁves, are distributed
+within the sections of the diagram in accordance with the permuta-
+tions indicated above the sections and also at the left. Thus, the ﬁrst
+ﬁve letters of the text, supposing them to be the initial letters of. the
+word RECOMMENDATIONS, are inserted in the following positions:
+
+Permutation
+
+ 
+
+ 
+
+23154
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+E C R M 0
+
+ 
+
+The next ﬁve letters are inscribed in the second line of the diagram
+in the sections indicated by the permutation above and at the- left of
+the line. Thus:
+
+ 
+
+ 
+
+ 
+
+ 
+
+Permutation
+' 2 3 1 5 4
+2 3 1 5 4 E C . R M O
+3 2 5 1 4
+l 4
+5 2 5. N E A M D
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+This process is continued for each line and for as many lines as there
+are permutations indicated at the left. In the foregoing case, after
+twenty letters have been inserted, one inserts a second set of ﬁve
+letters again on the ﬁrst line, placing the letters of this second set
+immediately to the right of those of the ﬁrst set, respectively in key-
+number order. The succeeding lines are treated in similar fashion
+until the whole message has been enciphered. The following example
+will illustrate the process:
+Message: RECOMMENDATIONS FOR LOCATION OF NEW
+BALLOON POSITIONS MUST BE SUBMITTED
+BEFORE 12TH AIRDROME COMPANY CHANGES
+COMMAND POST TOMORROW.
+
+Enciphering diagram :
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Permutation
+2 .3 1 5 4 2 3 1 5 4
+EASEOM CTIDMA RCOTRM MOIECD OITBEN
+3 2 5 1 4 5 2 5 1 4
+_ NOSRPS ESNOMO ANUTNT MNOFOP DF'MEAT
+1 5 3 2 4 1 5 5 2 4
+TESWYO 'SLSTNR OBBLHO IWTECM NAEFAR
+4 3 1 5 2 4 3 1 5 2
+LNIRCB* ROMISC* FLUHGO op'mow OOBAEW
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+' The letters B. G. and D are nulls. to complete the ﬁgure.
+' ' " Figure 3317.
+
+‘96
+

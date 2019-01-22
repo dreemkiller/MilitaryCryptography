@@ -1,0 +1,93 @@
+REF ID:A56932
+
+being interchangeable) are inserted in any prearranged order. When
+four such matrix alphabets are arranged in a large square as shown in
+ﬁgure 58, the latter may be employed for digraphic substitution to yield
+the same cipher results as does the much larger table I. In this square,
+01,, of 370;, is sought in section 1; 0%, in section 2. Thus, 01,; and
+02,, will always form the northwest-southeast comers of an imaginary
+rectangle delimited by these two letters as located in these two
+sections of the square. Then 91c and 02., are, respectively, the letters
+at the northeast-southwest corners of this same rectangle. Thus,
+T5, = T—K'c; W,, = ﬁe; 0—12,, = 13—55572; = We, etc. In
+decryptographing, 01c and 9% are sought in sections 3 and 4, respectively,
+and their equivalents, 0‘9 and 03, noted in sections 1 and 2, respectively.
+It may, of course, be prearranged that 01,, should be sought in the section
+now labeled 3, 02, in that labeled 4, whereupon ﬁle would be located
+in the section now labeled 1, 02,, in that now labeled 2.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+T W E N Y F O U R T
+K L M 0 S L M P Q —E—
+Sec. 1 (0‘9) H V Z P I K Y Z S N Sec. 3 (0%)
+G U R Q X I X W V A
+F D C B A H G D C B
+T H I R E F I V E A
+0 P Q S N P Q R S B
+Sec. 4 (02.3) M Y Z U A 0 Y Z T C Sec. 2 (02,)
+L X W V B N X .W U D
+K G F D C M L K H G
+Figure 58.
+
+b. It is possible to construct a digraphic substitution matrix that shows
+reciprocity in its '07,, = We relationship so that if 7173,, = We, for ex-
+ample, then }Wp = ZR. Two conditions are essential to assure reci-
+pﬂcity. These are taken into consideration in the establishment of the
+0103,, or deciphering sections, and an example will serve to explain the
+process.
+
+c. Two enciphering alphabets are ﬁrst constructed; one in section 1
+for 91,, the other in section 2 for 0%, as shown in ﬁgure 59a. The alpha-
+bet in section 3 is now to be constructed. Any horizontal row of section
+1 is taken, for example, the row labeled 1, consisting of the letters
+BWGRM, and these letters are written on any horizontal row of section
+
+134
+

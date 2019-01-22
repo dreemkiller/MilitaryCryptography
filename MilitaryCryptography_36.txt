@@ -1,0 +1,56 @@
+ 
+
+ 
+
+REF 1D:A56932
+
+29. Modiﬁcation of Columnar Method
+
+A variation of the columnar procedure, but one that produces exactly
+the same results, may be found useful. First, write the message in groups
+corresponding to the length of the key. Thus, using the same key and
+message as in paragraph 28, the following is obtained:
+4-5-3-2-7-1-6 4-5-5-2-7-1-6 4-5-3—2-7-1-6 4-5-
+REQUEST IMMEDIA TEREENF 0R
+4-5
+T S
+The letters are then taken from the groups and are transcribed in groups
+of ﬁve, all letters marked 1 being taken ﬁrst, then all those marked 2, and
+so on. Thus, the ﬁrst two cipher text groups are SINEU EEEQM,
+and the complete text is identical with that produced in ﬁgure 7.
+
+30. ‘Addition of Nulls to Complete a Final Group
+
+The example given in the preceding case happened to contain 30 letters,
+a number that is an exact multiple of ﬁve. Thus, the ﬁnal group in the
+cryptogram automatically became a complete group. For accuracy, the
+ﬁnal group of every message should be complete; therefore, if the num-
+ber of letters in the text of a message is not a multiple of ﬁve, it should
+be made so by the addition of nulls, before the transposition process
+is applied (see par. 2317).
+
+Section III. MISCELLANEOUS TRANSPOSITIOlN METHODS
+31. Transposition Systems Employing Special Designs
+
+a. Triangles, trapezoids, and other polygons are among the many
+designs used to produce transposition ciphers. Most of them, however,
+are impractical for wide military use but are used occasionally by secret
+agents.
+
+17. A grille is a common transposition device of some practical impor-
+tance. There are several types and one of the most common is that known
+as the rotating grille. It is usually made of a square sheet of cross—
+section paper from which cells have been cut in deﬁnite but apparently
+irregular positions. The grille is superimposed on another sheet of cross-
+section paper of the same dimensions and the letters of the message are
+written in the cells exposed by the perforations. Usually the grille is
+then given a 90° turn clockwise or counterclockwise, as agreed, and the
+fresh cells exposed by the perforations are ﬁlled with the next few letters
+of the text. If the grille has been prepared properly it is possible to give it
+four turns of 90° each, at the end of which all the cells on the under
+sheet of cross-section paper are occupied by letters. The grille is then
+removed and the letters of the sheet underneath it are transcribed in
+accordance with some prearranged route to form the cipher text. Natur-
+
+30
+

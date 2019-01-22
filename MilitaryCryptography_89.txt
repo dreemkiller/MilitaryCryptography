@@ -1,0 +1,54 @@
+REF ID:A56932
+
+CHAPTER 7
+
+FUNDAMENTAL RULES FOR SAFEGUARDING
+CRYPTOGRAMS
+
+ 
+
+83. General
+
+The rules given in this chapter are to be considered as a general guide
+only. Under actual operating conditions much is dependent upon special
+situations, and the speciﬁc cryptographic systems employed. Therefore,
+the particular rules and regulations currently in effect always will take
+precedence over those stated herein.
+
+84. Fundamental Rules of Cryptographic Security
+
+a. Failure to observe the fundamental rules of cryptographic security
+often makes possible the solution of cryptographic systems by enemy
+cryptanalysts. These rules apply to the originators of messages to be
+cryptographed as well as to cryptographic personnel. Detailed instruc-
+tions for the writers of such messages are outside the scope of this
+manual. It is, however, desirable to indicate the following points:
+
+(1) Stereotypic phraseology must be avoided, especially at the
+beginning and ending of a message. The known or suspected
+presence of stereotypic phraseology constitutes the basis of
+many methods employed in cryptanalysis; in some cases, indeed,
+the only possible method of solution makes use of the presence
+of stereotypic phraseologies, or, as they are often called, cribs.
+Operating instructions for currently authorized cryptosystems
+prescribe the application of measures which effectively reduce
+the dangers of stereotypic phraseology to the security of those
+systems; however, as an added precaution, routine reports of
+all kinds should be sent by agencies of signal communication
+not susceptible to interception.
+
+(2) Special care must be taken to see that the messages are clear and
+concise. If a message is ambiguous or incomplete, unnecessary
+confusion results and the accuracy of the cryptographic opera-
+tion is brought into question.
+
+(3) Messages should be shortened by the deletion of unnecessary
+words. Conjunctions, prepositions, repetitions of words, and,
+especially, punctuation should be reduced to a minimum. When
+punctuation is necessary, it should be spelled out, either in full
+or in abbreviated form. Numbers should also be spelled out.
+
+83
+
+ 
+

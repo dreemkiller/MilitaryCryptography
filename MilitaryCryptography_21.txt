@@ -1,0 +1,47 @@
+valuable cryptanalytic intelligence which greatly facilitates the
+solution of new cryptograms from the same sources.
+
+17. Degree of Crytographic Security Required of a System for
+Military Use
+
+The ideal cryptographic system for military purposes would be a
+single, all—purpose system which would be practicable for use not only by
+the largest ﬁxed headquarters but also by the smallest troop unit in the
+combat area, and which would also present such a. great degree of crypto-
+graphic security that, no matter how much trafﬁc became available, all
+in the same key, the cryptograms composing this trafﬁc would resist
+solution indeﬁnitely. Such an ideal system however, is beyond the realm
+of possibility so far as present methods of cryptographic communication
+are concerned; in fact, a multiplicity of systems must be employed, each
+more or less speciﬁcally designed for a particular purpose. Of each such
+system, the best that can be expected is that the degree of security be
+great enough to delay solution by the enemy for such a length of time
+that when the solution is ﬁnally reached the information thus obtained
+has lost all its “short term,” immediate, or operational value, and much
+of its "long term,” research, or historical value.
+
+18. Fundamental Practical Requirements of a Cryptographic
+System for Military Use '
+
+a. Military cryptograms must meet certain fundamental requirements
+of a practical nature because of deﬁnite limiting conditions in present
+military signal communication means and methods.
+
+b. These requirements are (1) reliability, (2) security, (3) rapidity,
+(4) ﬂexibility, and (5) economy. Their relative importance is in the
+order named.
+
+c. Reliability is of ﬁrst importance. Reliability, as applied to a crypto-
+graphic system or device, means that the cryptograms produced by‘ the
+sending or originating ofﬁce will be decryptographed promptly, ac-
+curately, and without ambiguity by the receiving ofﬁce; that the crypto—
+graphic system, whether a book, machine, or device, will be on hand and
+in good working order, available for instant use; and that when used it
+can be expected to be operative as Ionglas needed. Simplicity is implied
+in reliability; usually, the more simple the system, the more reliable it is.
+Security is. the protection aﬂ‘orded by a sound cryptographic system;
+rapidity, the speed with which messages can be cryptographed and de-
+cryptographed, usually expressed in words or S-letter groups per minute.
+The conﬂicting requirements of security and rapidity vary according to
+circumstances. Signal communication personnel must be governed by
+general principles, subject to existing circumstances, rather than by rigid

@@ -1,0 +1,57 @@
+ 
+
+REF ID:A56932
+
+48. Decimaﬁon Method of Forming Mixed Alphabets
+
+Another simple method of forming a mixed alphabet is the decimation
+method. In this method, letters in the normal alphabet, or in a key—word
+mixed alphabet, are “counted off” according to a selected odd interval.
+As each letter is decimated—that is, eliminated from the basic alphabet
+by counting off—it is entered in a separate list to form the sequence of
+the mixed alphabet. For example, to form a mixed alphabet by this
+method from an alphabet based on the key phrase SING A SONG OF
+SIX PENCE with 7 the interval selected, proceed as follows:
+
+a. Key-word (or basic) alphabet:
+
+SIN GAOFXPECBDHJ KLMQRTUVWYZ
+
+b. When the letters are counted off by 7’s frOm left to right, F will
+be the ﬁrst letter arrived at, H the second, T the third:
+
+Ami PEG BnﬂJKLuqnfuvwrz
+6712545671234561
+Fig. B
+
+These letters are entered in a separate list (F ﬁrst, H second, T third,
+etc.) and eliminated from the key—word alphabet.
+
+c. When the end of the key-word alphabet is reached, return to the
+beginning, skipping the letters already eliminated:
+
+s/N xzfxrﬂcnnﬂanﬂqnfu
+
+YZ
+617 71 2 3 4 5 67 45
+Fig. C
+d. Mixed alphabet.
+
+FHT IEMZPQNDW CVBSLXA GOKYJ RU
+
+49. Random-Mixed Alphabets
+
+Practical considerations, of course, set a limit to the complexities that
+may be introduced in constructing systematically mixed alphabets.
+Beyond a certain point there is no object in further mixing. The greatest
+amount of mixing by systematic processes will give no more security
+than that resulting from mixing the alphabet by random selection, such
+as by putting the 26 letters in a box, thoroughly shaking them up, and
+then drawing the letters out one at a time. Whenever the laws of chance
+operate in the construction of a mixed alphabet, a thorough disarrange—
+ment is bound to be produced. Random-mixed alphabets give more
+Cryptographic security than do the less complicated systematically mixed
+alphabets because they afford no clues to positions of letters, given the
+
+42
+

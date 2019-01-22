@@ -1,0 +1,59 @@
+ 
+
+ 
+
+REF ID:A56932
+
+likely to confuse two entirely different groups of letters; in the second
+source, if two errors are made in the transmission or reception, and if
+these errors involve two letters producing a group which actually has a
+meaning in the code, this meaning is so unlikely to ﬁt in correctly with
+the context that its probability of occurrence may be negligible. Thus, if
+this sort of error does happen, the meaning of the group fails to ﬁt in
+with the context and at once indicates an error. Knowledge of such an
+error, even if it is impossible to correct it, is more preferable than
+ignorance of its existence, with a possible action based upon incorrect
+decodement.
+
+Section IV. ENCIPHERED CODE
+
+77. Purposes of Enciphered Code
+
+0. Sometimes the code groups of a code message undergo a further
+process of encipherment. The resulting cryptogram constitutes an
+enciphered code message.
+
+I). It is desirable to use enciphered code in two instances:
+
+(1) When the basic code has had wide distribution and the message
+might fall into unauthorized hands. Commercial codes sold in
+bookstores, and even special codes distributed widely throughout
+governmental ofﬁces, illustrate the type of code to which this
+added safety factor should be applied.
+
+(2) When increased security is necessary for highly classiﬁed
+communications. Although the basic code book may already be
+secret, further encipherment would greatly delay the solution of
+the code if it fell into the hands of enemy cryptanalysts.
+
+c. It has already been stated that code messages may be solved by
+cryptanalytic principles without possession of the code. The length of
+time required for the process varies widely, and is dependent upon the
+conditions under which the work is done (see ch. 1). To increase the
+length of time required for solution, as in secret codes, the code text of
+the messages resulting from the use of the code is passed through a
+cipher process so that the messages will be in different keys, thus delaying
+the assembling and study of data, which is necessary to the solution.
+
+78. Types of Encipherment
+
+0. Both of the two general classes of cipher methods, transposition
+and substitution, may be used in enciphering code. The increased degree
+of secrecy because of encipherment depends entirely upon the nature of
+the system applied.
+
+b. Transposition systems involving a rearrangement of complete
+groups may be employed where the degree of increased security does act
+
+72
+

@@ -1,0 +1,53 @@
+ﬁver—'M -"-"" ' ' " '
+
+REF ID:A56932
+
+ 
+
+ 
+
+Cryptogram :
+
+UUSOC YNTSO REOYS ONRER
+DRITI DTOGD RANEO RICSN
+CTRNI GENNE ATGSR OSIIR
+SOIET RTUAI POECO TNESS
+DPRCD AURSD
+
+Figure 27.
+
+b. By a slight change in procedure it is possible to encipher a mes—
+sage and produce a text which, for the sake of accuracy in special
+cases, is double the original length, but which is self—checking. Sup—
+pose that instead of applying a single numerical key to the base of the
+triangle, a double—length key is applied to the legs, as shown in
+ﬁgure 27. Here the key is TRIANGLES, extended to double length
+by simple repetition, as follows:
+
+1—2-3-4-—5-6-7-8—9-10-11-12-13-14-15-16-17-18
+
+Keyword: TRIANGLESTRIANGLES
+
+Numerical key: 17-13-7-1-11-5-9-3-15-18-14—8—2-12—6-10—4-16
+This key is applied to the legs of the triangle beginning at the lower
+left-hand corner. The transcription then follows key—number order,
+which results in doubling the length of the message but the repeated
+letters are scattered throughout the whole message. In decryptographing
+such a message the clerk merely omits the second occurrence of a letter
+if it agrees (in identity) with its ﬁrst appearance in the text.
+
+6. Many variations in inscription and transcription can be employed
+in the case of triangles as well as trapezoids. Some of the variations in
+the case of triangles are shown in ﬁgure 28.
+
+88. Diagonal Methods
+
+a. A method involving diagonal transposition which is reported to
+have been employed by the French Army in World War I is now to
+be described. A numerical key is derived from a fairly long word or
+phrase, and a rectangle is constructed, as in ﬁgure 29. The text is
+inscribed in this rectangle in normal fashion, nulls being employed, if
+necessary, to complete the last line of the rectangle.
+
+90
+

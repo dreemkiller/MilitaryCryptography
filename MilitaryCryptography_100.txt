@@ -1,0 +1,81 @@
+REF ID:A56932
+
+Enciphering diagram:
+17-10—6—3- ll-14—8—7-15-18-12—4—9—2-16—5-15—1
+
+ 
+
+A D M I N I S T R A T I V E 0 R D E
+R S M U S T B E C 0 M P L E T E D A
+N D R E A D Y T 0 A C C O M P A N Y
+F I E L D 0 R D E R S N O T L A T E
+R T H A N F I V E P M T H I S D A T
+E
+
+H
+‘1
+
+-10—6—5-11-l4—8—7-15-18-12—4—9—2-16—5-13—1
+
+N STRATIVEORDE
+S BECOMPLE
+
+ 
+
+*iH
+
+ADYTOACC......
+NYFIELDORDER..
+
+>FJ>CH
+
+T E R T H
+I V E P . . . . . . .
+I S D A T E (L C E P)*.
+
+(“The four ﬁnal letters LCEP are nulls, to complete the row.)
+
+=>oamoza=u>
+D-JZP‘ZEUL‘JUIU
+:qpowwuzs
+
+Cryptogram (columnar transposition in key-number sequence):
+
+EEEDI UAEAT IIIPC OERRM MDRPO AFHTE
+TIHTS BYFTP AVLRP DSEDM NLNTN SANEV
+STMCD CDITD YREDR COEEO EARTN OSTAM
+AOALL
+
+Figure 32.
+
+e. Another method of interrupted transposition is that which employs
+a rather long sequence of digits to control the interruption. In order
+to avoid the necessity of carrying around such a written sequence, it
+is possible to agree upon a number whose reciprocal when converted
+by actual division into its equivalent decimal number will give a long
+series of digits. For example, the reciprocal of 7, or 1/7, yields a
+repeating sequence of six digits: 142857142857 . . .; the reciprocal
+of 49, 1/49, yields a repeating sequence of 42 digits, etc. Zeros, when they
+appear, are omitted from the sequence. Suppose the number 19 is agreed
+upon, the reciprocal of which yields the sequence (0)52631578947368421.
+On cross-section paper mark oﬂ' sets of cells corresponding in number
+to the successive digits. Thus:
+
+ 
+
+ 
+
+5 2 (i 8 l 5
+||l|l|><|||><|||l||l><||l|><l|><|||l|l
+Let the message be ATTACK HAS BEEN POSTPONED.
+Encipherment :
+5 2 6 3 1 5
+
+ 
+
+willIEIsloIXITIll><l1rl$lNITINIDIXIAIBIPI><I¢I><IKIEI0IPITI
+Cryptogram:
+AHESO TATSN TNDAB PCKEO PE
+
+94
+

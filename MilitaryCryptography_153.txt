@@ -1,0 +1,54 @@
+ 
+
+REF ID:A56932
+
+i. One serious objection to such autokey systems is that the results
+of errors are cumulative; one error aﬁects all the succeeding letters, and
+if several errors are made, the messages are difﬁcult to decryptograph. It
+is possible that this disadvantage can be minimized by the use of auto-
+matic cipher devices suitably constructed to accomplish the encipherment
+with speed and accuracy.
+
+123. Progressive-Alphabet Systems
+
+a. The special characteristic of these systems is that the members of
+a whole set of cipher alphabets are employed one after the other in
+progression and in a deﬁnite sequence. These systems are periodic in
+nature and the length of the period is usually equal to the total number
+of different cipher alphabets employed in the system. The sequence in
+which the various cipher alphabets are used may or may not change with
+each message; if it does, this constitutes an additional element of secrecy.
+
+b. To illustrate what is meant by a progressive system a simple
+example will be given, employing the obsolete U. S. Army Cipher Disk.
+Starting with the disk so that A“, = A0 (or with any other prearranged
+initial setting), the ﬁrst letter of the message is enciphered; the revolving
+alphabet is then moved one step clockwise (or counter-clockwise) and the
+second letter is enciphcred, and so on. After 26 letters have been
+enciphered, the disk has returned to its initial starting point and a second
+cycle begins (if the message is longer than 26 letters). Thus, the period
+in this case is 26 letters. It is obvious that the displacement of the revolv-
+ing disk may occur after every 2, 3, 4 . . . . letters, as prearranged, in
+which case the period increases correspondingly in length. The displace-
+ment may, however, be more complicated than this, and may occur after
+a constantly varying number of letters has been enciphered, whereupon
+periodicity is suppressed.
+
+c. Two sliding mixed components may be employed, producing a set
+of 26 secondary mixed alphabets.
+
+d. Another variation is more complicated. Suppose the correspondents
+draw up a set of 100 random-mixed cipher alphabets, each accompanied
+by a designating number from 00 to 99, and a set of numerical keys
+composed of randomized sequences of numbers from 00 to 99. Each such
+numerical key is designated by an indicator of some sort. To encipher
+a message, a key sequence is selected and the cryptogram is prepared by
+means of the sequence of alphabets indicated by the key sequence. If the
+message is 100 or less letters in length, the alphabets do not repeat; if it
+is more than 100 letters long, either the sequence of alphabets may repeat
+or else a new sequence is selected, as prearranged. It is possible to oper-
+ate the system by means of indicators inserted in the text of the
+cryptogram.
+
+147
+

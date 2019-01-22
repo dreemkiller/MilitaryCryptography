@@ -1,0 +1,49 @@
+REF 1D:A56932
+
+ODAIK AEDME HPODV ITEIP NHUET BOBRO
+HDTFS EISNI ETBEF BCBTM ESHGA RTORD
+IRERE AWARR ERTNS IEPVR VASEO FTEDL
+NA
+
+b. Decryptographing is merely the reverse of cryptographing, there
+being no difﬁculties provided that the design has been correctly con-
+structed. For this purpose cross—section paper will be found useful. The
+analysis of such a cryptogram is somewhat complicated by the presence
+of columns having varying numbers of letters; it may be further com-
+plicated by following complex routes in inscription. It is also possible
+
+ 
+
+/’Ev71p’1y’D}rQ/'E/" Tim“
+F I v E H U N DA13zmt
+E 'D -D A s H L H A Sari
+B R 0 K E N D o w n.43mm
+T o P I P E R A T I vim,
+E T H A T I T B E R E P A.mh
+I R E D B E F 0 RA‘EEI§EIEEIaEIEWN
+Aﬂﬂﬁﬂﬂﬂﬂﬂ' IRSLM
+
+7——9——2-1_-8-3-15--5—1o—11-—6—12-13-14.—4
+
+'NOOANDYFORISSUE
+Figur224.
+
+to follow a numerical key in the inscription of the plain text in horizontal
+lines; this additional procedure would further complicate and delay
+solution.
+
+87. Triangular Designs
+
+a. The simplest way of drawing up a triangle for cryptographing is to
+take cross—section paper, draw a square the side of which is equal to the
+length agreed upon as expressed in the number of cells, and then draw
+a diagonal cutting the large square into two equal triangles. This is
+shown in ﬁgure 25, where the length agreed upon is nine, that is, nine
+cells per side. The letters of the plain text are inscribed in accord-
+ance with any prearranged route, the one illustrated in ﬁgure 26 be-
+ing a simple method wherein the letters are inscribed in horizontal
+lines in the normal manner. When so inscribed, the letters in the dia-
+gram will form 2n — 1 columns where n is the number of cells
+forming one of the sides of the square from which the triange has been
+constructed. The total number of letters that can be inscribed within
+

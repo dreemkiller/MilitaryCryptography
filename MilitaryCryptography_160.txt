@@ -1,0 +1,63 @@
+ 
+
+ 
+
+REF ID:A56932
+
+“'1-rtﬁr--
+
+134. Monoalphabeﬁc and Polyalphabetic Substitution Combined
+with Transposition
+
+a. A message may undergo simple monoalphabetic substitution or
+complex polyalphabetic substitution and the resulting text passed through
+a simple transposition. Obviously, either standard or mixed alphabets
+may be employed for the substitution phase and for the transposition
+phase any one of the simple varieties of geometric-design methods may
+be applied.
+
+b. As an example, note the following simple combination, using the
+message ALL ACTION AT LANDING BEACH HAS CEASED.
+lst step: sC1 (monoalphabetic, by mixed alphabet) :
+
+I’lain : ABCDEFGHI J KLMNOPQRSTUVWXYZ
+Cipher: TDRAMOBNILPEZYXWVUSQKJHGFC
+
+Message: ALLAC TIONA TLAND INGBE ACHHA SCEAS ED
+Cipher: TEETR QIXYT QETYA IYBDM TRNNT SRMTS MA
+
+2d step: tC2 (as prearranged between correspondents):
+
+TEETRQIX (F01- the inscription; a rectangle of eight columns.)
+
+YTQETYAI
+YBDMTRNN (For the transcription; counterclockwise route beginning
+
+TSRMTSMA at lower right hand corner.)
+Cryptogram: ANIXI QRTEE TYY’l‘S RMTSM NAYTE QTBDM TR
+
+6. A simple subterfuge often adopted between correspondents is to
+write the substitution text backwards to form the ﬁnal cryptogram
+(a case of simple reversed writing).
+
+d. An extremely simple and yet effective transposition method
+(when its presence is not suspected) sometimes employed as a pre-
+liminary to substitution is that in which the text of a message is
+ﬁrst divided-into halves; the second being placed under the ﬁrst as
+in rail-fence writing. Thus:
+
+POEDOOTFMAKTO
+RCETPROEBRAIN
+
+Then encipherment by simple monoalphabetic methods may be effected
+and the cipher text taken from the two Separate lines. Thus, if a
+standard alphabet one letter in advance were used, the text would be
+as follows:
+
+QPFEPPUGNBLUP
+SDFUQSPFCSBJO
+
+Cryptogram: QPFEP PUGNB LUPSD FUQSP FCSBJ 0
+
+154
+

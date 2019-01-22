@@ -1,0 +1,50 @@
+plain-text characters set up on the keyboard at the sending station but
+interception Of the signals passing over the line or by radio would yield
+only cipher text.
+
+c. It is difﬁcult to foresee the speciﬁc cryptographic methods which
+might some day be useful in connection with developments of the fore-
+going nature. Progress in the electrical and electronic ﬁelds exercises an
+important effect upon developments in the cryptographic ﬁeld. Methods
+which today appear to yield a high degree of cryptographic security but
+which are impractical for hand operation a few years from now, may be
+readily mechanized and become highly practical. On the other hand,
+methods which today do provide a high degree of security may, a few
+years from now, become obsolete because high-speed electrical analytical
+machines have been devised for their rapid solution. Consequently, if
+among the many and more or less complex methods set forth herein
+certain ones appear to fall outside the realm of what is today considered
+practicable, it should be remembered that the purpose in describing them
+is to present various basic cryptographic principles, and not to set forth
+methods that may with a high degree of probability be encountered in
+military cryptography in the immediate future.
+
+Section II. TERMINOLOGY
+
+3. Basic Deﬁnitions
+
+In a study of military cryptography as employed in the U. S. Army,
+the following deﬁnitions will be useful:
+
+a. SIGNAL COMMUNICATIONS. Any means of transmitting messages
+in plain or encrypted text other than by direct conversation or mail. A
+commander uses signal communications to receive reports of hostile
+dispositions and activities, to receive reports of the progress and needs
+of subordinate and neighboring friendly units, to send orders to subordi-
+nate units, to receive orders from superior units, and to send to higher
+and adjacent units information necessary for the coordinated action of
+the whole command.
+
+b. AGENCY 0F SIGNAL COMMUNICATION. The organization, teams, and
+personnel necessary to perform operational duties pertaining to signal
+communications.
+
+6. MESSAGE. Used in its broadest sense in Department of the Army
+and other Ofﬁcial publications, the term “message” includes all instruc-
+tions, reports, orders, documents, photographs, maps, or other informa-
+tion, transmitted by means of signal communication. In this manual,
+however, the term “message” implies instructions, reports, orders, and
+similar communications usually transmitted by electrical means.
+
+d. MEANS OF SIGNAL COMMUNICATION. A medium (including equip-
+ment) used by an agency for transmitting messages. There are two

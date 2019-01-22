@@ -1,0 +1,51 @@
+of a speciﬁc message, or it controls the steps followed in cryptographing
+a specific message. This element—usually of a variable nature and
+changeable at the will of the correspondents, or prearranged for them or
+for their agents by higher authority—is the speciﬁc key. The speciﬁc key
+may also involve the use of a set of specially prepared tables, a special
+document, or even a book.
+
+c. Hereafter, the general cryptographic system will be referred to as
+the system, and the speciﬁc key, as the key.
+
+9. Cryptanalytics and Cryptanalysis
+
+a. In theory, any cryptographic system except one can be broken down
+if enough time and skill are devoted to it, and if the volume of trafﬁc is
+large enough. This can be done even if the general cryptographic system
+and the speciﬁc key are unknown at the start. The exception is the “one
+time” system in which the key is used only once and in itself must have
+no systematic construction, derivation, or meaning. In military operations
+theoretical rules must usually give way to practical considerations. How
+the theoretical rule in this case is affected by practical considerations
+will be taken up in subsequent portions of this manual.
+
+b. That branch of cryptology which deals with the principles, methods,
+and means employed in the solution or analysis of cryptograms is called
+cryptanalytics.
+
+c. The steps and operations performed in applying the principles of
+cryptanalytics constitute cryptanalysis. To cryptanalyze a cryptogram is
+to solve it by cryptanalysis.
+
+d. A person skilled in the art of cryptanalysis is called a cryptanalyst,
+and a clerk who assists in such works is called a cryptanalytic technician.
+
+Section III. TWO CLASSES OF CRYPTOGRAPHIC
+SYSTEMS
+
+10. Transposition and Substitution
+
+a. Technically there are only two distinct types of treatment which
+may be applied to plain text to convert it into secret text, yielding two
+different classes of cryptograms. In the ﬁrst, called transposition, the
+elements or units of the plain text, whether one is dealing with individual
+letters or groups of letters, syllables, whole words, phrases and sentences,
+retain their original identities and merely undergo some change in their
+relative positions or sequences so that the message becomes unintelligible.
+In the second, called substitution, the elements of the plain texﬁ retain
+their original positions or sequences but are replaced by other elements
+with diﬁerent values or meanings.
+
+b. It is possible to cryptograph a message by a substitution method
+and then to apply a tran5position method to the substitution text, or vice

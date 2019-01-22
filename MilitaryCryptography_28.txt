@@ -1,0 +1,54 @@
+ 
+
+REF ID:A56932
+
+it is 42, and since a completely ﬁlled rectangle of seven columns has been
+agreed upon, a design consisting of seven columns and six rows is out-
+lined on cross-section paper. The cipher text is then inscribed according
+to route (E) (6) of ﬁgure 1, and after this has been completed the plain-
+text letters are read according to route (F) (3), ﬁgure 1. It is apparent
+that it is necessary to remember a relatively long series of rules, and even
+when the cryptographing has been accomplished correctly the degree of
+security is very low. Note how obviously the whole word UNTIL mani—
+fests itself in the cipher text. Parts of other words can also be seen.
+The degree of security remains very low despite the variability afforded
+by the dimensions of the rectangle, the method of inscription and tran-
+scription and their starting points.
+
+23. Use of 'Nulls in Transposition
+
+a. It will be noted that the two nulls selected as ﬁllers to complete the
+rectangle in the preceding example were the letters L and T. These were
+chosen rather than such letters as J, K, Q, X, or Z, for a reason which
+is important to note. Since transposition ciphers of this type involve
+merely a rearrangement of the letters, without any change whatever in
+their identities, it follows that the natural or normal frequencies of letters
+of plain text remain unchanged. Now, the letters of every alphabetic
+language have characteristic frequencies, as a result of which certain clues
+are afforded in cryptanalysis. The presence, in transposition ciphers, of
+letters of very low frequency (in English), such as J, K, Q, X, or Z, is
+very unusual and therefore if these are employed merely as ﬁllers they
+may aﬁ'ord clues as to the real number of letters in the plain text, the
+starting or ﬁnishing points of the real text, etc. For this reason it is best
+to insert as ﬁllers in transposition ciphers letters of medium or high fre—
+quency, such as E, T, R, I, N, O, A, S, D, L, or C, for thesct' will not
+afford any clues to solution. Nulls, when employed for the purpose of
+making cryptanalysis more difﬁcult, may also be inserted in speciﬁc posi-
+tions as prearranged, or they may be inserted at random if the system
+permits. This is true of other cryptographic systems, but as a general
+rule the use of nulls, especially in cipher systems, is to be discouraged.
+Very often they add little if any security, and thus merely increase the
+length of the cryptographic text without any compensating advantages.
+
+b. Whenever it is necessary to add nulls in order to complete a trans-
+position message in any respect, or for any reason whatsoever, they must
+be added before the transposition process is applied and not afterward;
+otherwise it will be difﬁcult or even impossible for the decryptographing
+clerk to read the message. This is especially true when the service regula-
+tions require that the ﬁnal group in a cryptogram be a complete group,
+containing exactly as many letters as all other groups in the message.
+
+22
+
+ 
+

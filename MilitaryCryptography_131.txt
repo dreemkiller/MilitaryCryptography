@@ -1,0 +1,61 @@
+ 
+
+ 
+
+ 
+
+REF ID:A56932
+
+ 
+
+case of monoliteral substitution, a “one-to—one” correspondence between
+units of the plain text and those of the cipher text. In polygraphic sub-
+stitution, however, combinations of letters of the plain text, considered
+as indivisible compounds, constitute the units for treatment in encipher—
+ment. If the units consist of pairs of plain-text letters, the encipherment
+is pair-for-pair, and is said to be digraphic in character; if the units
+consist of sets of three letters, it is trigraphic in character, and so on.
+There is still a “one—to-one” correspondence involved, but the units in
+these cases are composite in character and the individual elements com—
+posing the units alfect the cipher equivalents jointly, rather than sepa-
+rately. The basic important factor in true polygraphic substitution is that
+all the letters of the group participate in the determination of the cipher
+equivalent of the group; the identity of each letter of the plain-text group
+affects the composition of the whole cipher group. Thus, in a certain
+digraphic system ABp may be enciphercd as XPc, and AC”, on the
+other hand, may be cnciphered as NKc; a difference in the identity of
+but one of the letters of the plain—text pair here produces a difference in
+the identity of both letters of the cipher pair.
+
+I). For practical usage polygraphic substitution is limited to the
+handling of digraphs and trigraphs, although very Occasionally groups of
+more than three letters may be employed for special purposes.
+
+c. The fundamental purpose of polygraphic substitution is the sup—
+pression or rather the elimination of the frequency characteristics of
+ordinary plain text. It is these frequency characteristics which lead,
+sooner or later, to the solution of practically all substitution ciphers.
+When the substitution involves only individual letters in a monoalpha-
+betic system, the cryptogram can be solved very quickly; when it involves
+individual letters in a polyalphabetic system, the cryptogram can usually
+be solved, but only after a much longer time and much more study,
+depending upon the complexity of the method. The basic principle in the
+solution, however, is to reduce the polyalphabetic text to the terms of
+monoalphabetic ciphers and then to solve the latter. In true polygraphic
+substitution on the other hand, the solution does not rest upon the latter
+basis at all because it is not a question of breaking up a complex text
+into simpler elements; it rests, as a rule, upon the possibility of analysis
+on the basis of the frequency of the polygraphic units concerned. If the
+substitution is digraphic, then the units are pairs of letters and the
+normal frequencies of plain—text pairs become of ﬁrst consideration; if
+the substitution is trigraphic, the units are sets of three letters and the
+normal frequencies of plain—text trigraphs are involved. In the last two
+cases the data that can be employed in the solution are meager, and are
+far from deﬁnite or unvarying in their signiﬁcance, and' that is why solu-
+tion of polygraphic substitution ciphers is often extremely difﬁcult.
+
+d. Just as in typography, when certain combinations of letters, such
+as 6, ﬂ, and fﬁ, are mounted on' one and the same piece of type, they are
+
+125
+

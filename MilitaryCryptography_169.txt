@@ -1,0 +1,69 @@
+REF ID:A56932
+
+H A I L C O L U M B I A H A P P Y L A N 'D
+8-1-10—12-6—17—15—20—15——5—1l—-2-—9-—3-18-19-21—14-—4—16—-7
+
+H
+
+ 
+
+zo-mezwr-Jsms
+zor—coangmz
+zﬁI—JHZHv-IWMZ
+szmH—ngam
+un—«zmmzzeow
+OMUIHICI—lt-JSOZ
+soamaoszs
+zaoaomzxz
+aozmmun—czz
+éthHUn—lo:
+20:13:30:me
+mxgzzBIOZO
+soaISZHmo—z
+zsoxzmen—Jo
+ﬁzngzr-sz
+oonmzmwz
+azu—«ozzssm
+zaasmmmsm
+EOZZI-IUIHZH
+amxzzszxe
+ramzzmznzo»:
+
+ 
+
+ 
+
+Cryptogram:
+
+NEHIM TOION ONOEM NMRSO TTENR OWNIN
+ISTNN OWHWO TSISI OROTN NSEMI STONH
+ENNST WSWTR MRSTN THINW HTOWN SRTIN
+ITWNI HRMRH RONST MRTIH NNIWM WOTST
+OWSWH ESWTT NNMIS ESNOT TRMWN NHETN
+RTTHI SEONS ENNMI HRNRS NHIOR ONRNE
+OTOTM EMWNN OINT
+
+Figure 70.
+
+limited number of letters. In fact, if the horizontal and vertical
+coordinates of the cipher square are the same letters, then the cryp-
+tographic text is composed of permutations of but six different letters,
+thus aiding very materially in correct reception. Indeed, it is even
+possible to reconstruct completely a message that has been so badly
+garbled that only half of it is present. This cipher system was used
+with considerable success by the Germany Army in 1917—18, and was
+known to the Allies as the ADFGVX Cipher, because these were
+the letters used as horizontal and vertical coordinates of the cipher
+square, and consequently the cipher text consisted solely of these
+six letters.
+
+c. The cipher text of the foregoing message is, of course, twice as
+long as the plain text, but it can be reduced to exactly the original
+plain-text length by combining the distributed or transposed 01c and
+02,, elements in pairs, referring to the original (or a different) poly-
+partite square, and recomposing the pairs into letters. In this case,
+the horizontal and vertical coordinates must be identical in order to
+permit of ﬁnding equivalents for all possible pairs.
+
+163
+

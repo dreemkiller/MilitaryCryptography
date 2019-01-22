@@ -1,0 +1,56 @@
+ 
+
+REF ID:A56932
+
+9. Given the formula, the eight corners of the grille can be labeled in
+various ways by prearrangement; but the simplest method is that shown
+in connection with b of ﬁgure 49. Then the initial position of the grille
+can be indicated by the number which appears at the upper left-hand
+corner when the grille is placed on the grid, ready for use. Thus, position
+1 indicates that the grille is in position with the ﬁgure 1 at the upper
+left-hand corner; position 3, with the ﬁgure 3 at the upper left—hand
+corner, etc. .
+
+h. The direction of revolving the grille can be clockwise or counter-
+clockwise, so that correspondents must make arrangements beforehand
+as to which direction is to be followed.
+
+1'. Revolving grilles can be constructed so that they have two operating
+faces, an obverse and a reverse face. They may be termed revolving-
+reversible grilles. The principles of their construction merely involve a
+modiﬁcation of those described in connection with ordinary revolving
+grilles. A revolving—reversible grille will have eight possible placement
+indicators; usually positions 1 and 5, 2 and 6, and so forth, correspond
+in this obverse—reverse relationship, as shown in ﬁgure 43.
+
+j. The principles of construction described above apply also to grilles
+of other shapes, such as triangles, pentagons, and so forth.
+
+104. lNonpen‘oral‘ed Grilles
+
+a. All the effects of a grille with actual perforations may be obtained
+by the modiﬁed use of a nonperforated grille. Let the cells that': would
+normally be cut out in a grille be indicated merely by crosses thereon,
+and then on a sheet of cross-section paper let the distribution of'- letters
+resulting from each placement of the grille on a grid be indicated by
+inserting crosses in the appropriate cells, as shown in ﬁgure 50.
+
+Grille Grille Position
+
+   
+
+bUNH
+
+Figure 5011. Figure 501).
+
+b. Note should be made of the fact that in ﬁgure 50b the distribu—
+tion of crosses shown in the third row of cells is the reverse of that
+showu in the ﬁrst; the distribution shown in the fourth row is the reverse
+of that shown in the second. This rule is applicable to all revolving
+grilles and is of importance in solution.
+
+1:. If the letters of the text are now inscribed (normal manner of
+writing) in the cells not eliminated by crosses, and the letters transcribed
+
+116
+

@@ -1,0 +1,55 @@
+..»-.u.. .«..-.......-.x.. _. .
+
+REF ID:A56932
+
+This type of transposition is 'sdmetimes Called the rail-fence cipher
+because it can be produced by writing the message in the following form:
+
+BIGDSRYD
+RDEETOE
+
+which yields the same cipher result as before.
+
+25. Remarks on Monoliteral Route Transposition
+
+Reversed writing and vertical writing of the types indicated yield ex-
+tremely simple cryptograms. In practice they are sometimes used in con—
+nection with other more or less simple cryptographing methods to in-
+crease their security. The cryptographic security of the other methods
+thus far indicated is also very low, despite the apparently large degree of
+variability they afford. The reason is that the route to be followed in the
+inscription or transcription process is deﬁnitely ﬁxed under each type of
+route. In other types Of transposition soon to be discussed, a much
+wider latitude for variation in the route is afforded by the use of- kley
+words to control or to guide these processes. Geometric designs are also
+used in these types of transposition, and key words determine the dimen-
+sions of the design, or else, if only one key word is used, it determines
+one dimension, the other being determined by the length of the text.
+Examples given in their proper place will serve to illustrate the processes.
+
+26. Key Words and Numerical Keys
+
+:1. It is often necessary, in performing certain cryptographic opera-
+tions, to employ a numerical key, which may consist of a relatively long
+sequence of numbers difﬁcult or impossible for the average cipher clerk
+to'memorize. To avoid making it necessary that such sequences of num-
+bers be carried on the person in written form, a dangerous procedure,
+cryptographers have devised very simple methods of deriving such
+sequences from words, phrases, or sentences, which can usually be re-
+membered much more easily than can unintelligible, relatively long se—
+quences of numbers. One of the simplest methods is to assign numerical
+values to the letters of the key in accordance with their relative positions
+in the ordinary alphabet. Such a key is called a derived numerical key.
+This method of assigning the numbers is very ﬂexible and varies with
+different uses to which numerical keys are put. For purposes of trans-
+position, the method shown below is very satisfactory. .
+
+b. Let the prearranged key word be the word CARBUNCLE. Since
+the word contains the letter A, which comes ﬁrst in the alphabet, the
+number 1 is written under this letter in the key word. Thus:
+
+CARBUNCLE
+1
+
+24
+

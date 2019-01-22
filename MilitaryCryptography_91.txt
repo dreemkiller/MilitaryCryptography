@@ -1,0 +1,63 @@
+ 
+
+REF ID:A56932
+
+sage. This is done by altering the positions of sentences in
+the message, by altering the positions of subject, predicate,
+and modifying phrases or clauses in the sentence, and by
+altering as much as possible the diction by the use of syn-
+onyms and synonymous expressions. In this'process, deletion
+rather than expansion of the wording of the message is
+preferable, because if an ordinary message is paraphrased
+simply by expanding it along its original lines, an expert can
+easily reduce the paraphrased message to its lowest terms, and
+the resultant wording will be practically the original message.
+It is very important to eliminate repeated words or proper
+names, if at all possible, by the use of carefully selected
+pronouns; by the use of the words “former,” “latter,” “ﬁrst—
+mentioned,” “second—mentioned”; or by other means. After
+carefully paraphrasing, the message can be sent in the other
+key or code.
+
+([2) Never send the literal plain text or a paraphrased version of
+the plain text of a message which has been or will be trans-
+mitted in cryptographed form except as speciﬁcally provided
+in appropriate regulations.
+
+(4) Keys. Never repeat in a different key or system, without para-
+phrasing, a cryptographed message which has once been trans-
+mitted, unless speciﬁcally authorized by the appropriate
+authority.
+
+(5) New cipher keys. Never transmit a new cipher key by means of
+a message cryptographed in an old key.
+
+(6) Addresses or signatures. Never place cryptographed addresses
+or signatures at the beginning or end of the cryptographed text.
+Bury them in the body of the message.
+
+(7) Identifying information. Include in the address of a crypto-
+graphed message only the minimum information necessary for
+the message to reach the headquarters for which it is intended.
+
+(8) Replies. Never reply to a cryptographed message in the clear.
+
+(9) Short titles. Never use short titles as system or message indi-
+cators in cryptographed messages.
+
+(10) Dummy letters and padding. Never use dummy letters or pad-
+ding unless their use is speciﬁcally authorized.
+
+(11) System indicator. Never encipher, encode, or disguise in any
+way the system indicator, unless speciﬁcally authorized.
+
+(12) Notations. Never place on the cryptographed copy of a
+message any notations about the system or the subject matter
+of the message.
+
+(13) Work tables. Never allow unnecessary materials such as
+books, documents, or papers to be on the work table during the
+process of cryptographing and decryptographing.
+
+ 
+

@@ -1,0 +1,50 @@
+REF ID:A56932
+
+c. The terms superenciphered code, superencipherment, or (British)
+reciphered code and recipherment all apply to code text which undergoes
+a subsequent process of encipherment.
+
+d. The terms indicator system and indicator are very important in con-
+nection with all cryptographic procedures but especially so in connection
+with eneiphering systems as applied to code. The indicator gives informa—
+tion relative to the proper tables to use, or the proper point to begin in
+such tables, etc. Further information in this regard will be given in sub—
+sequent paragraphs.
+
+156. General Types of Methods of Superencipherment
+
+Both transposition and substitution methods may be applied to super—
+encipher code. There are arithmetical methods which at ﬁrst glance
+appear to constitute a third category of superencipherment methods since
+they involve mathematical processes apparently resembling neither trans.-
+position nor substitution. However, deeper study will lead to the conclu-
+sion that these arithmetical methods are substitutive in character.
+
+157. Transposition Methods
+
+0. Transposition methods wherein whole code groups or series of
+them are shifted about according to some key are not frequently en-
+countered. Transposition methods applied strictly within the code groups,
+by rearrainging or shifting about the letters or ﬁgures composing them,
+have been used to a limited extent for a number of years. Prior to Janu-
+ary 1, 1934, transposition processes for producing encicode messages,
+that is, for superenciphering code, were practically never employed in
+commercial or governmental practice because they destroyed the regular
+vowel-consonant structure of code groups so that they no longer con-
+formed to the requirements of the international telegraph regulations
+referred to in paragraph 153b. However, the restrictions in this respect
+were lifted on the date indicated and it may be expected that transposi-
+tion processes for superenciphering code will be encountered much more
+frequently than in the past.
+
+b. One of the most commonly used transposition methods for this
+purpose is simple keyed-columnar transposition, either with special
+matrices, designs, or forms having nulls and blanks, or without these
+features. The system as a whole, however, is very subject to error and
+requires high-grade personnel for its practical operation. It is, of course,
+wholly unsuited for practical military usage, though it can be employed
+for other purposes. SolutiOn of such a system it well constructed is a.
+very difﬁcult matter, especially if the basic code book is not known,
+
+176
+

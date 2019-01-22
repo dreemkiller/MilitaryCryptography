@@ -1,0 +1,51 @@
+REF ID:A56932
+
+of shifting about or varying the cipher alphabets contributes more to
+cryptographic security than does the number of alphabets involved, or
+their type. For example, it is quite possible to employ 26 direct-standard
+alphabets in such an irregular sequence as to yield greater security than
+is afforded by the use of 1,000 or more mixed alphabets in a regular or an
+easily-ascertained method. The importance of this point is not generally
+recognized by inventors.
+
+(7. One of the serious limitations upon the development of good cipher
+machines is that the number of letters in our alphabet, 26, does not lend
+itself well to mechanical or mathematical manipulation, because it has but
+the factors 1, 2, and 13; nor is it a perfect square. If the alphabet con—
+sisted of 25, 27, or 36 characters, much more could be done. The addition
+of ﬁgures or symbols to the 26—letter alphabet introduces the serious prac-
+tical difﬁculty that the cryptograms will contain characters other than
+letters and the cost of transmitting intermixtures of letters, ﬁgures, and
+symbols by Morse telegraphy is prohibitive. Subterfuges of one sort or
+another, employed to circumvent this difﬁculty, are usually impractical
+and expensive.
+
+151. The Converter M—209
+
+a. This machine, widely used for low—echelon U. S. Army communica-
+tions, is a small, compact, hand—operated, tape—printing, mechanical cipher
+machine, weighing 6 pounds, with dimensions 7%,” x 57/16” x 3%”. The
+cryptographic principle of this machine embodies polyalphabetic substitu-
+tion, employing a complex mechanical arrangement to generate a long
+running key which is used in conjunction with reversed standard alpha-
+bets for the primary components. Despite the period of 101,405,850
+before the keying cycle repeats, nevertheless a high degree of security
+can be imparted to messages enciphered by means of this converter only
+if the machine is properly used according to authorized instructions and
+if the messages are drafted with proper regard for security.
+
+b. Space does not permit the inclusion of details of operation, etc., of
+this machine. However, full instructions as to its use, maintenance, and
+repair will be found in TM 11—380, T‘Converter M—209, M—209—A,
+M—209—B (Cipher)”.
+
+152. Advantages and Disadvantages of Cipher Machines
+
+0. The principles underlying the various machines which have thus
+far been developed are so diverse and complex that no description of
+them can be undertaken in this text. However, a few remarks of a
+general character, dealing with the advantages and disadvantages of
+cipher machines in military communications today, are deemed pertinent.
+
+170
+

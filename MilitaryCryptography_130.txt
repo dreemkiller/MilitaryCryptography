@@ -1,0 +1,51 @@
+ 
+
+REF ID:A56932
+
+CHAPTER 9
+SUBSTITUTION SYSTEMS
+
+ 
+
+Section I. POLYGRAPHI‘C SYSTEMS
+
+l l 1. General
+
+a. It will be recalled that chapter 3 dealt with the various types of
+cipher alphabets, simple monoalphabetic substitution, monoalphabetic
+substitution with variants, the more simple varieties of polyalphabetic
+substitution, cipher disks, and cipher tables. The following material on
+substitution is a continuation of the former, a thorough understanding
+of which is a requisite to the examination of the more complex types of
+substitution now to be set forth.
+
+b. First it will be advisable to explain several terms which will be
+used. Substitution methods in general may be described as being mono-
+literal or polyliteral in character. In the former there is. a strict letter—
+for-letter replacement, or, to include numerical and symbol methods,
+there is a “one—to-one” correspondence between the length of the units
+of the plain text and those of the cipher text, no matter whether the
+substitution is monoalphabetic or polyalphabetic in character. In poly-
+literal methods, however, this “one-to—one” correspondence no longer
+holds. A combination of two letters, or of two ﬁgures, or of a letter and
+a ﬁgure, may represent a single letter of the plain text; there} is here a
+“two-to-one” correspondence, two characters of the cipher text repre-
+senting one of the plain text. The methods described in chapter 3, fall
+under the latter designation; the cipher equivalents there shown are,
+properly speaking, bipartite in character. Tripartite cipher equivalents
+are also encountered, Polyliteral methods, therefore, are said to employ
+polypartite alphabets, of which the bipartite type is by far the most
+common. Further on in this text, polyliteral methods of greater com—
+plexity than those illustrated in chapter 3 will be discussed. Attention
+now will be directed more particularly to a different type of substitution
+designated as monographic and ﬁalygraphic substitution.
+
+112. Monographic and Polygraphic Substitution
+
+a. All the methods of substitution heretofore described are mono-
+graphing in nature, that is, in the enciphering process the individual units
+subjected to treatment are single letters; there is a letter—for-letter sub-
+stitution, or, to include numerical and symbol methods, there is, as in the
+
+124
+

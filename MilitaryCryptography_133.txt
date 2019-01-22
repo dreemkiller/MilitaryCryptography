@@ -1,0 +1,60 @@
+ 
+
+ 
+
+REF ID:A56932
+
+then founw the intersection of the row and column thus indicated. For
+example, AFp = Y—G'c; W, = A7.” etc.
+
+I). Table I is reciprocal in nature; that is, FTP-Ip- = Y6, and
+If—GI, = ﬁe. Thus, a single table serves for enciphering as well as for
+deciphering. The word DEFEND would be enciphered as YA NZ CY,
+and then grouped in ﬁves: YANZC Y . . . . When a ﬁnal single letter
+occurs, a null is added in order to make a pair of letters-capabluémof being
+cnciphered by the method. Reciprocity is, however, not an essential factor
+and for greater security nonreciprocal tables are more advisable. In such
+cases an enciphering table must have its complementary deciphering table.
+
+6. Until the amount of text enciphered by means of such a table
+becomes great enough to disclose the cipher equivalents of the most
+frequently used digraphs, such as EN, ER, RE, TH, ON, etc., crypto—
+grams based upon the table are relatively secure against solution.
+
+(I. A simple method for preventing the establishment of the frequen-
+cies characterizing these commonly used digraphs and thus eliminating
+the principal basis for their identiﬁcation is given in paragraph 1346.
+
+e. The factor that contributes most to the relatively high degree of
+security of the digraphic method described in a and b above is the
+absence of symmetry in the table employed; for this table is con-
+structed by random assignment of values and shows no symmetry
+whatsoever in its arrangement of contents. Hence, even if 01,. in a
+ﬁrst case of W” = We is identical with 01,, in a second case, We in
+the ﬁrst case is wholly different from We in the second case. For ex—
+ample, table I shows that 21E, = XE. and‘m = 17—17:; the cipher
+resultants fail to give any hint that the plain—text pairs contain an iden-
+tical letter.
+
+f. If, however, the latter is not the case and the table exhibits
+symmetry in its arrangement of contents, solution is somewhat facilitated.
+Note table II, for example, in which two mixed sequences are employed
+to form the cipher equivalents. One mixed sequence is based upon the
+keyphrase WESTINGHOUSE AIR BRAKE; the other, upon the
+keyphrase GENERAL ELECTRIC COMPANY. The word FIRE
+would be enciphered as KIQA.
+
+g. A cursory examination of table II shows that when 02,, is iden-
+tical in two cases then 02., is identical in these cases, so that in reality
+the encipherment is by no means truly digraphic in character. Described
+in cryptographic terms, the encipherment of 91,, is polyalphabetic in
+character whereas that of 02,, is monoalphabetic. A more obvious picture
+of this condition is brought out in the rearrangement of table II.
+
+h. By a slight modiﬁcation in arrangement but with no change in
+béisic principle, the encipherment can be made monoalphabetic so
+far as 01,, is concerned, and polyalphabetic so far as «92,, is concerned.
+Note table IV.
+
+127
+

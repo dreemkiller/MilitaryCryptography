@@ -1,0 +1,60 @@
+REF ID:A56932
+
+g. (1) Cryptographic procedure. It is, however, possible to make the
+cryptographic procedure the same in both encipherment and
+decipherment, by proper changes in method. They can both be
+made either additive or subtractive in nature, thus requiring
+the learning of but a single process. Two methods will be
+explained below.
+
+(2) Both processes additive. If in encipherment an additive process
+is used, and if in decipherment the complement of the additive
+employed in encipherment is then added to the encicode groups,
+the decipherment also becomes an additive process. For
+example, the complement of the group 5678, on a basis of 10,
+
+. is 5432. Note the following:
+
+Example B
+
+(a) Example of "noncarrying” addition in encipherment:
+
+(1) Placode .......................... 5517 3082 9015 6710 9541
+(2) Fixed group for addition ......... 5678 5678 5678 5678 5678
+(3) Encicode ......................... 0185 8650 4685 1388 4119
+
+(b) In decipherment, using the complement of the additive used in encipherment,
+addition reproduces the placode:
+
+ 
+
+(1) Encicode ......................... 0185 8650 4683 1388 4119
+(2) Complement of ﬁxed group ....... 5432 5432 5432 5432 5432
+(3) Placode .......................... 5517 3082 9015 6710 9541
+
+(3) Both processes subtractive. By a very simple change in pro-
+cedure it is possible to apply subtraction in both encipherment
+and decipherment, using the same numerical groups as subtrac—
+tors, thus making it necessary to learn only one process. If the
+additive, instead of being in the second line of the three lines
+shown in the foregoing examples, is placed on the ﬁrst line, and
+a subtraction process applied, the proper results are obtained
+regardless of whether encipherment or decipherment is involved.
+Note the following example:
+
+ 
+
+Example C
+(a) Example of ”nonborrowing” subtraction in encipherment and decipherment:
+" (1) Fixed group ...................... 5678 5678 5678 5678 5678
+(2) Placode .......................... 5517 3082 9015 6710 9541
+(3) Encicode ......................... 0161 2696 6663 9968 6137
+(b) Decipherment (subtraction also) :
+-(1) Fixed group ...................... 5678 5678 5678 5678 5678
+(2) Encicode ......................... 0161 2696 6663 9968 6137
+(3) Placode .......................... 5517 3082 9015 6710 9541
+
+ 
+
+180.
+

@@ -1,0 +1,63 @@
+Q)
+
+(Q
+
+(B
+
+REF ID:A56932
+
+command, because the simplicity of a code book is to be pre-
+ferred to the complexity of a large cipher machine. But unen-
+ciphered code is not sufﬁciently secure for the communications
+of the highest echelons and headquarters. If encipherment must
+be added as a second step in the cryptographic process, it
+practically destroys the simplicity features of a code system;
+unless the enciphering method is fairly complex, it adds little
+security. In a properly designed cipher machine, embodying
+sound cryptographic principles based upon a thorough knowl-
+edge of cryptanalytic principles, the single—step-encipherment
+process can yield cryptograms of very great security. In a good
+code system, however, the solution of one or even of several
+messages does not entail the immediate breakdown of the
+entire system, with the consequent ability to read all messages,
+as is usually the case in a cipher system.” Codebooks, of course,
+can be rendered useless by compromise. Actual possession for
+a long period of time is not necessary; methods of rapid
+photography may be applied and a book of several hundred
+pages copied in a few minutes.
+
+Rapidity. The speed with which a cipher n-iachine equipped with
+a typewriter keyboard can be operated leaves even simple,
+unenciphered code far behind in the matter of rapidity.
+Flexibility. Complete ﬂexibility would permit cryptographing
+the originator’s own language without change necessitated by
+the limitations that exist in all but the most extensive codebooks.
+Thus, a cipher machine is much more ﬂexible than a code and
+can be used for all sorts of messages; whereas, in a code con—
+taining words, phrases, and sentences prepared for a speciﬁc
+type of communication, rewording the original text as written
+by the originator is often necessary, if the words, phrases, and
+sentences in the codebook are to be used; otherwise the original
+wording must be encoded word by word, or even syllable by
+syllable.
+
+Economy. Whether expressed in terms of money or man-
+power, cipher systems are more economical than code systems
+for high-echelon communications. Code text is usually shorter
+than the equivalent plain text, because it is condensed or
+abbreviated, but a single clerk operating a rapid cipher machine
+
+”A good cipher system may be compared to a library housed in a large structure of many
+rooms with all doors and all windows securely locked. If an intruder can force an entry into
+the structure, he will ﬁnd a master key which will open all the locks and give him access to all
+the books in the library. A good code system (especially a two-part code) may be compared to
+a library housed in a similar structure, but no two locks are alike and no master key is available
+or can be made. Therefore, the lock on each door must be worked at patiently as a separate
+problem. Thus, although the intruder may force his way into one room, this gives him access
+to only a small part of the library; in order to read all the books, he must force his way into
+each room, which takes much time, since each lock presents a separate and special problem.
+
+75
+
+ 
+

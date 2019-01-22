@@ -1,0 +1,55 @@
+REF ID:A56932
+
+no more difﬁcult to encipher a message by this systematized procedure
+than by the longer and slower method of writing the text out in long
+lines and repeating the key over and over again. What is more important
+is that the shortened procedure promotes accuracy in enc1pl'1erment. A
+few seconds careful checking of the relative positions in which the two
+
+alphabet strips are set is all that is required but this checking is very'
+
+necessary, for if that is wrong all the cipher letters in that column to
+which this setting applies will be in error.
+
+59. Using Key Words to Indicate Number. Identity, and
+Sequence of Cipher Alphabets Employed
+
+a. If reference is made to the two settings of alphabet strips in para-
+graph 58, it will be noted that in the ﬁrst setting A" = He, in the second
+A, = :9. If the eight settings of. the strips are studied it will be found
+that the letters which A, represents successively are H, E, A, D, A, C,
+H, and E, giving the word HEADACHE. These settings, when ﬁrst
+presented in the foregoing description, correspond merely to the numeri-
+cal key 74030274, but this numerical key is also expressible in terms of
+letters, which when put together properly spell a word. This is only
+another way of showing that key words may be employed in this type of
+substitution as in those previously described. Key words of various
+lengths and composition may be used, consisting of single words, long
+phrases, or sentences. In general, the longer the key the greater is the
+degree of cryptographic security. The method as a whole is often
+referred to as the repeating lacy method.
+
+I). The number of elements in the key—that is, the number of letters
+or ﬁgures composing it——determines the number of alphabets to be em-
+ployed. The identity of each element of the key, the speciﬁc letter- or
+ﬁgure it happens to be, determines speciﬁcally which of a set of cipher
+alphabets pertaining to the whole system will be used. And the speciﬁc
+sequence or relative order of the elements of the key determines spe-
+ciﬁcally the sequence with which the cipher alphabets are employed with-
+in the encipherment. The total number of cipher alphabets pertaining to
+or composing the system may be limited or unlimited. When they are
+produced as a result of the sliding of two basic or primary alphabets
+against each other, the number is limited to 26 in the English alphabet.
+
+c. A brief notation for indicating or designating a speciﬁc key letter
+is to sufﬁx the subscript “k” to it, just as the subscripts “p” and “c”
+are sufﬁxed to letters to indicate letters of the plain text or cipher text,
+respectively. When the key letter occurs in an equation, it can be en-
+closed within parentheses to avoid ambiguity. Thus, 13,. (Dk) = Ea
+means that plain-textiletter B when enciphered by key letter D (in a
+certain alphabet system) yields the cipher letter E.
+
+52
+
+..-.... 1 -. “.....«veeeie
+

@@ -1,0 +1,48 @@
+REF ID:A56932
+
+second place, within a very short time the number of messages available
+for study becomes so great, and the inevitable blunders in the handling
+of communications have become so numerous that a solution by detailed
+study can always be made by the enemy, with a consequent disclosure of
+the general system. If a cryptographic system adopted for military use
+were such that messages in that system could be solved easily without
+the speciﬁc keys applicable to the messages once the underlying methods
+became known, the entire system would have to be changed, a new system
+devised, and thousands of persons in the military service trained in its
+operation. This, of course, would be impracticable. It is assumed that
+the enemy has knowledge of the general cryptographic system, its cipher
+devices, instruments, or machines. Only cryptographic documents which
+are given a limited distribution can be kept secret from the enemy, but
+they can be kept secret only for a variable length of time before they
+must be changed. These changes, as a rule, do not affect their method of
+usage. In cipher sytems, the speciﬁc key must be susceptible of easy
+and rapid changes by prearrangement between correspondents. In
+systems for use by secret agents or very small military parties in the
+theater of operations, the key may be an easily remembered word, phrase,
+sentence, or number; it must not require the carrying of written notes on
+the person. In systems for use by commanders of large and intermediate
+or even small headquarters in the theater of operations, the speciﬁc key
+may be in the form of written memoranda, paper tapes, and the like.
+Generally, the speciﬁc key must be the same throughout a given period
+of time for all the members of an intercommunicating network, or at
+least only a very limited number of speciﬁc keys must be in simultaneous
+effect; otherwise confusion and delay are inevitable. As a consequence
+of this requirement, the enemy may intercept a good many messages all
+in the same speciﬁc key. A cryptographic system for military use must
+conform to all requirements of practicability set forth in section IV,
+chapter 1, and to the foregoing section concerning the speciﬁc key; this
+system must be such that it is practically impossible for the enemy to
+solve any message quickly enough to make the information obtained of
+real or immediate value in the tactical situation, even though he is in full
+knowledge of the general method of the system, possesses the cipher
+device or apparatus, if used, and may have available for study 1,000 or
+more cryptograms sent on the same day. There is no single cryptographic
+system yet known which fully meets all these requirements, and in order
+to provide the necessary degree of security for a large army several
+different types of ciphers and cipher machines, as well as small codes
+for front line use, must be employed simultaneously.
+
+78
+
+ 
+

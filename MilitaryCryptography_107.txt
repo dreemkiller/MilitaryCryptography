@@ -1,0 +1,162 @@
+__ 7‘ _,.-., .Pm-mw—uum
+
+REF ID:A56932
+
+._.___.... mum—s- mai'!'-;l:i""l"lih l... ‘ “L'-
+
+' “III“ a:
+
+In producing the foregoing cryptogram only the columns were trans—
+posed. Suppose that by prearrangement, using the keyword BREAK
+(derived numerical key = 2—5—3—1—4), the horizontal lines of the fore—
+going enciphering rectangle were also to be transposed. For example,
+let the horizontal lines of the rectangle D—l be transposed immediately
+before taking the letters out of the columns of the design (in key-number
+
+--- 'NV‘F’E‘EWH
+
+wUW-ﬂ ra-r'zr -=—~1e--'1=r*r”'. w
+
+ 
+
+order) to form the cipher text. Thus:
+
+.—
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ne- .. my: to
+In c: all" U
+L" m a Uc.‘ «1'
+>0 O l"!-] 0‘
+32 2 H 3: ca
+
+ 
+
+HWHr'm
+on—Jo:>r'
+ZIZEH
+CHOCFJ
+S<'¢12>§1
+’UHOH>
+r'H'Hmw
+EUH<UI~7
+CGOHHco
+Z:".15U<G=
+H-uo>H~h
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+D— l
+Cryptogram (T—2):
+
+REIIL DVTDM HINNM IAOPI TLOOA VRFMN
+UDTSL IEOUU
+
+Figure 39.
+
+c. The foregoing, however, is not a case of true polyphase or- so-
+called double transposition. The same ﬁnal result may be accomplished
+in a way which will at ﬁrst glance appear quite different but is in.
+reality one that accomplishes the same two operations by combining
+them in one operation. Let the message be inscribed as before, but this
+time with both numerical keys applied to the top and side of the
+rectangle. Then let another rectangle of the same dimensions, but with
+numbers in straight sequence instead of key—number sequence, be set
+alongside it. Thus: ' '
+
+7
+
+p.-
+
+5
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+3 2 8 6 4
+2 D E L I V E R A 1
+5 L L A M M U ' N I 2
+3 T I 0 N T 0 F 0 3
+1 U R T H D I V I 4
+4 S I 0 N D U M P 5
+D—l
+Figure 40.
+
+Each letter D—l is now transferred to that cell in D—2 which is indicated
+by the row and column indicators of the letter in D—l. For example,
+the ﬁrst letter, D, of D—l, has the indicators 2—7 and it is placed in
+
+101
+

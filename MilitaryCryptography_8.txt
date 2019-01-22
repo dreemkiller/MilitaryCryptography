@@ -1,0 +1,57 @@
+REF ID:A56932
+
+regarded as wholly impracticable.I Colonel Hitt in his Manual for the
+Solution of Military Ciphers, published in 1916, stated:
+
+The necessity for exact expression of ideas practically excludes the use of cod.
+for military work, although it is possible that a special tactical code might be
+useful for preparation of tactical orders.
+
+Also, in an ofﬁcial British Army Manual of Cryptography prepared in
+1914 is found the following statement:
+
+Codes will ﬁrst be considered, but as they do not fulﬁll the conditions required
+
+of a means of secret communication in the ﬁeld, they need not be dealt with here
+at length.
+
+In the 1935 edition of this text the foregoing quotations were immedi-
+ately succeeded by the following comment:
+
+It need only he pointed out in this connection that today rode methods pre—
+dominate in the secret communication systems of the military, naval, and diplomatic
+services of practically all the large nations cf the world. Nevertheless, it is likely
+that within the next decade or two the pendulum may once more swing over to the
+other position and cipher methods may again come to the fore, especially if
+mechanical and electrical cipher machines are perfected so that their operation
+becomes practicable for general use. It is for this reason, if for no other, that the
+cryptographer who desires to keep abreast of progress must devote considerable
+attention to the more complicated cipher methods of the past and present time,
+for with the introduction of mechanical and electrical devices the complexities and
+difﬁculties of these hand—operated methods may be eliminated.
+
+In preparing the revision of this text in 1943, the author found it neces—
+sary to say that the forecast he made in 1935 in regard to the rebirth of
+cipher methods had been fully justiﬁed by the present trend, which is in
+a direction away from code and toward cipher methods, because of
+important advances made in the ﬁeld of mechanical and electrical cryp-
+tographic mechanisms.
+
+b. Modern electrical communication methods and instrumentalities are
+ﬁnding an increasing need for applications of cryptographic theory and
+practice to their efﬁcient operation. For example, in very recent years
+there has developed a distinct need for secure methods and means for
+distorting voice communications by telephone or radiophone, and
+for distorting facsimile transmissions by wire or radiotelegraphy. Tele-
+printer services permitting direct cryptographic intercommunication by
+machines operated from a typewriter keyboard make it desirable to have
+means whereby, although the keyboard is operated to correspond to plain—
+text characters, the latter are instantaneously and automatically
+enciphered in transmission and the received signals are instantaneously
+and automatically deciphered upon reception at the receiving end. Thus
+the printing mechanism at the receiving station records the original
+
+1 See, in this connection, Friedman, William F., American Army Field Cadm- i_n the American
+Etpeditianary Force: During the First War/d War, Signal Security Service Publication, OCSigO,
+War Department, Washington, 1942.
+

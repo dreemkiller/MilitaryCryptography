@@ -1,0 +1,63 @@
+ 
+
+ 
+
+REF ID:A56932
+
+X, will be inserted in the plain text to show when the interruption takes
+place. The plain text is enciphered by natural word lengths.
+
+Key: U N U N P U
+Plain text: OUR FRONTX LINES ARE NOWX REPORTED
+
+d. It is also possible to interrupt the key regularly, cutting it up into
+equal length sections as, for example, with the keyword EXTINGUISH-
+ER: EXT/XTI/TIN/ING/NGU/GUI/UIS/ISH/SHE/HER. Each
+set of three keyletters may serve to encipher a set of three plain-text
+letters. But it is possible to make each set of three key-letters apply to
+more than three plain—text letters, or to irregular groupings of plain-
+text letters. For example, suppose a numerical key be derived from the
+keyword:
+
+E X T I N G U I S H E R
+1—12-10—5—7—3-11—6—9—4—2—8
+
+Let this numerical sequence determine how many letters will be enci-
+phered by each grouping of the key. The example below will illustrate
+(reversed standard alphabets are used) :
+
+Numbers: 1 12 10 5
+Key: E XTIXTIXTIXTI TINTINTINT INGIN
+Plain text: 0 OLLECTALLSTR AGGLERSSTO PSEND
+Cipher: C J IXTRPXIXFAR TCHIEWBQUF TVCVK
+Numbers: 7 3 11
+
+Key: NGUNGUN GUI UISUISU
+
+Plain text: THEMFOR WAR DATO'NCE
+
+Cipher: UZQBBGW KUR RIZGVQQ
+
+Cryptogram: CJIXT RPXIX FARTC HIEWB QUFTV
+CVKUZ QBBGW KURRI ZGVQQ
+
+e. Another simple method of prearranging the interruption of a key—
+word or of plain text is to employ the sequence of numbers given by
+reducing an incommensurate fraction to decimals. For example, the
+fraction 1/, yields the sequence 142857142857 . . . This fraction may
+be represented by the indicator letter H given as the initial letter of
+the cryptogram.
+
+127. Cipher Devices in Which Periodicity Is 'Avoided
+
+There are certain cipher devices which operate in such a manner
+that periodicity is avoided or suppressed. Some of them are discussed
+in section I, chapter 11. Among them one of the most interesting is
+that invented by Sir Charles Wheatstone in 1867. As a rule, hOWever,
+Cipher devices, by their very nature, can hardly avoid being cyclic in
+Operation, thus causing periodicity to be exhibited in the cryptograms.
+
+150
+
+ 
+

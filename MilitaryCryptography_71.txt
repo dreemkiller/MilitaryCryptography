@@ -1,0 +1,54 @@
+ 
+
+ 
+
+REF 1D:A56932
+
+important factor in front line communications where speed is essential
+and sometimes outweighs security considerations.
+
+c. In military cryptography, the greatest degree of condensation is
+aﬁ'orded by “prearranged—message codes,” “brevity codes," and the like.
+A prearranged-message code is a tactical code adapted to the use of units
+requiring special or technical vocabularies; it is composed almost exclu-
+sively of groups representing complete or nearly complete messages
+and is intended for shortening messages and concealing their content.
+A brevity code has for its sole purpose the shortening of messages. A
+ﬁeld code is primarily a small tactical code which contains a large number
+of code groups representing words and a few common short phrases,
+from which sentences can be composed; a syllabary, which is a list of
+code groups representing individual letters, combinations of letters, or
+syllables, is usually provided for spelling out words or proper names, not
+present in the vocabulary; numerical tables, or lists of code groups repre-
+senting numbers, dates, and amounts, are also included. A jargon code
+is another name for a simple, very short code in which bona ﬁde diction-
+ary words, baptismal names of persons, the names of rivers, lakes, etc.,
+are used as code groups. A voice code is used for transmission by the
+small radio-telephone sets used in combat areas and may be a prear-
+ranged-message code, a brevity code, or a jargon code. Other names used
+to designate such codes are combat code, and operations code.
+
+71. Operation of Encoding and Decoding
+
+These two terms apply to the cryptographing and decryptographing
+respectively, of messages by means of a code. In encoding a message, a
+code clerk merely replaces the various words, phrases, sentences, and
+numbers of plain text by their code equivalents. The code text is built
+up from code units each representing the longest possible plain-text unit
+the code book affords. For example, if the sentence ENEMY FORCE
+ESTIMATED AT ONE BATTALION EN COUNTERED ONE
+MILE SOUTH-EAST OF ROCK CREEK CHURCH is to be
+encoded, and the code book lists the phrase ENEMY FORCE ESTI—
+MATED AT, the code group representing this phrase would be used
+rather than separate code groups representing the individual words
+ENEMY, FORCE, ESTIMATED, and AT, all of which might also
+be present in the code. The process of decoding is the reverse of that
+of encoding. Each code group is looked up in the code book, its meaning
+found and written down. Where the errors in transmission are few, the
+process is rapid; but even a small number of errors in a message may
+obscure the meaning or render a message unintelligible.
+
+65
+
+ 
+

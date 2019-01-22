@@ -1,0 +1,57 @@
+ 
+
+REF ID:A56932
+
+Section N. CODE GROUPS
+
+72. Composition of Code Groups
+
+a. The elements of which code groups are composed may be of one or
+more of the following types:
+
+( l) Bona ﬁde words—real words taken from the dictionaries of one
+or more languages. The usual languages employed as sources
+for code words of this type are Dutch, English, French,
+German, Italian, Latin, Portuguese, and Spanish.
+
+(2) Artiﬁcial words—groups of letters having no real meaning,
+constructed more or less systematically by arrangements of
+vowels and consonants so as to give these groupings the appear—
+ance and pronounceability of bona ﬁde words.
+
+(3) Groups of letters presenting no appearance of bona ﬁde or
+artiﬁcial words and resembling cipher groups.
+
+(4) Groups of arabic ﬁgures.
+
+b. For special purposes, code groups composed of intermixtures of
+letters and ﬁgures within groups may be used. Call signs for radio
+stations, such as WZKA and WSAZZ, are examples of such intermix-
+tures often used in radio call—sign codes. In certain highly specialized
+naval or military codes, the intermixture of letters and ﬁgures is some—
+times necessary. Such intermixtures, however, are either not accepted or,
+if accepted, are charged for at a greatly increased rate when they appear
+in messages transmitted by commercial communications agencies.
+
+6. A code may contain two or more parallel sets of code groups of
+different types. For example, in many commercial codes and in some
+military and naval codes, there is one series of code groups of the bona
+ﬁde or artiﬁcial word type and another series of the ﬁgure-group type,
+both applying to the same series of words, phrases, and sentences of the
+code. There are several reasons for this. In most parts of the world where
+italic or roman letters are used for writing, letters possess greater advan—
+tages in accuracy of reading and handling by telegraph personnel. This
+is necessary for correct transmission and reception of messages. How-
+ever, in some parts of the world—for example, Turkey, Russia, China——
+telegraph personnel, except in the large cities, are unfamiliar with the
+English alphabet and hence many errors in transmission arise. But arabic
+digits are almost universally recognized and used, so that for communica—
+tions between obscure ports and small cities in foreign countries, ﬁgure
+groups are preferred over letter groups. There are certain methods of
+condensing code groups composed of ﬁgures into still smaller groups
+Composed of letters by means of condensers, so that many ﬁrms use
+ﬁgure groups for such purposes in expensive transmissions. Finally, in
+certain methods of enciphering code messages for the sake of greater
+
+66
+

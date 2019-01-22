@@ -1,0 +1,108 @@
+ 
+
+:33 L V:
+
+F‘ ETQ"E'§$'33’E
+
+ 
+
+ 
+
+REF ID:A56932
+
+' '--' ...,“w.'. ' ---:'=‘--.-."..'=-'-._ .....
+
+ 
+
+f. To decryptograph such a message, the cryptogram is written down
+in a series of cross-section cells, which are then blocked off in sets
+according to the numerical key:
+
+5 2 6 3 1 5
+
+IAIHIEISIOIXITIAIXITISINITINIDIXIAIBIPIXICIXIKIElolPTﬂ
+
+Taking the letters in consecutive order out of the successive sets, and
+crossing them off the series at the same time as they are being written
+down to construct the plain text, the message is found to begin with
+the following two words:
+
+5. 2 6 3 1 5
+IAIHIEISIOIXITIAIXITISINITINIDIXIAIBIPIXICIXIKTEIOIPIEI
+ATTACK HAS . . .
+
+g. Preparatory to cryptographing, it is necessary to ﬁnd the length
+of the message to be enciphered and then to mark off as many cells as
+will be required for encipherment. Nulls are used to ﬁll in cells that
+are not occupied after cnciphering the whole message. The secrecy of
+the method depends, of course, upon the reciprocal selected, but there
+is no reason why any fraction that will yield a long series of digits
+cannot be employed. If the selection of key numbers were restricted
+to reciprocals, the secrecy would be more limited in scope than is actually
+necessitated by the method itself.
+
+ 
+
+ 
+
+90. Permutation Method
+
+0. An old method, known in literature as the aerial telegraphy method,1
+forms the basis of this system. A set of permutations of 3 4, . . .
+9 digits is agreed upon and these permutations are listed in a deﬁnite
+series. As an example, let these permutations be made of the digits 1
+to 5, selecting only four of the possible 120. Suppose those selected
+are the following, set down in successive lines of the diagram in
+ﬁgure 33a:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Permutation
+
+2 3 1 5 4 2 3 1 5 4
+
+3 2 5 1 4 3 2 5 1 4
+
+1 5 5 2 4 1 5 3 2 4
+
+4 3 1 5 2 4 3 1 5 2
+Figure 33a.
+
+1 So named because it was ﬁrst devised and employed in messages transmitted by a system of
+
+semaphore signaling in practical usage in Europe before the electrical telegraph was invented.
+
+95
+
+ 
+
+ 
+

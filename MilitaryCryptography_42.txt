@@ -1,0 +1,54 @@
+REF ID:A56932
+
+characters other than those representing them in the normal alphabet.
+These characters may be letters, ﬁgures, signs, symbols, or combinations
+of them.
+
+d. A more technical deﬁnition of a familiar cipher may now be given:
+When the plain text of a message is converted into encrypted text by the
+use of one or more cipher alphabets, the resultant cryptogram constitutes
+a substitution cipher. I
+
+38. Two Components of an 'Alphabet
+
+It is convenient to designate that component of a cipher alphabet con-
+stituting the sequence of speech—sounds the plain component, and the
+component constituting the sequence of symbols the cipher component. If
+the plain component is omitted in a cipher alphabet, the latter is under-
+stood to be the normal sequence. For brevity and clarity, a letter of the
+plain text, or of the plain component of a cipher alphabet, is designated
+by sufﬁxing a small letter “p” to it: A, means A of the plain text, or of
+the plain component of a cipher alphabet. Similarly, a letter of the cipher
+text, or of the cipher component of a cipher alphabet, will be designated
+by sufﬁxing a small letter “c” to it: Xc means X of the cipher text, or
+of the cipher component of a cipher alphabet. The expression A,. = Xe
+means that A of the plain text, or A of the plain component of a cipher
+alphabet, is represented by X in the cipher text, or by X in the cipher
+component of a cipher alphabet.
+
+39. Standard and Mixed Cipher Alphabets
+
+In the arrangement or sequence of letters forming its cipher compo-
+nent, cipher alphabets arc of two kinds:
+
+(1. Standard cipher alphabets, in which the sequence of letters in the
+cipher component is the same as the normal, but reversed in direction or
+shifted from its normal point of coincidence with the plain component.
+
+17. Mixed cipher alphabets, in which the sequence of letters or char-
+acters in the cipher component is no longer the same as the normal in its
+entirety.
+
+40. Enciphering and Deciphering Alphabets
+
+All cipher alphabets may be classiﬁed on the basis of their arrange-
+ment as enciphering or deciphering alphabets. An enciphering alphabet is
+one in which the sequence of letters in the plain component coincides with
+the normal sequence, and is arranged in that manner for convenience
+in encipherment. In a deciphering alphabet the sequence of letters in the
+cipher component coincides with the normal, for convenience in decipher-
+ing. For example, in ﬁgure 9, (a) shows a mixed cipher alphabet
+arranged as an enciphering alphabet; (b) shows the corresponding
+
+36
+

@@ -1,0 +1,76 @@
+-. __' Hr...»— , - . -
+
+"a“... w... . , .
+
+..... . m—Tr-w... .
+
+-.-—.-v-""“"' "I?
+
+REF ID:A56932
+
+ 
+
+Key text: TRUEM NUJOF HQKOE IIVWU VQODR LOSGD . . .
+Plain text: HEAVY INTER DICTI ONFIR EFALL INGAT .
+Cryptogram:
+
+MNUJO FHQKO EIIVW UVQOD RLOSG DBMGK . .
+
+b. Instead of using the cipher letters in sets, as shown, the last cipher
+letter given by the use of the keyword may become the keyletter for
+enciphering the plain-text letter; the cipher resultant of the latter then
+
+becomes the keyletter for enciphering the following letter, and so on to
+the end of the message. Thus: '
+
+Key text: . TRUEJ LDQXT CZRPW OANIA JFAAP EWJDA . . .
+Plain text: HEAVY INTER DICTI ONFIR EFALL INGAT . . .
+Cryptogram:
+
+MNUJL DQXTC ZRPWO ANIAJ FAAPE WJDAH .
+
+c. It is obvious that an initial keyword is not necessary; a single pre-
+arranged letter will do.
+
+d. The plain text itself may serve as a key, after an initial group or
+an initial letter. This is shown in the following example, wherein the text
+
+of the message itself, after the prearranged initial keyword TRUE,
+forms the key text:
+
+Key text: TRUEH EAVYI NTERD ICTIO NFIRE FALLI . . .
+Plain text: HEAVY INTER DICTI ONFIR EFALL INGAT . . .
+Cryptogram :
+
+MNUJJ WNCUR KLCYV UPOAX JAIGT XNFLP .
+
+e. Although reversed standard alphabets have been used in all the
+foregoing examples, it is obvious that various types of alphabets may
+be employed, as prearranged.
+
+f. The following method, although it may at ﬁrst appear to be quite
+different, is in reality identical with those just described. A mixed
+sequence is prepared and its elements numbered in sequence. Let the
+mixed sequence be derived from the keyword PERMUTABLY:
+
+63759812410
+
+PERMUTABLY
+CDFGHIJKNO
+qsvwxz
+
+AJBKEDSLNMGWPCQRFVTIZUHXYO
+1254567891011121514151617181920212223242526
+
+Let the message be the same as before, and let the ﬁrst letter be its own
+cipher equivalent. Each cipher letter from that point on is produced
+in turn by ﬁnding the sum of the numerical equivalents of the preceding
+cipher letter and the plain—text letter to be enciphered. When this total
+
+exceeds 26, the latter amount is deducted and the letter equivalent of the
+remainder is taken for the cipher letter. Thus:
+
+145
+
+ 
+

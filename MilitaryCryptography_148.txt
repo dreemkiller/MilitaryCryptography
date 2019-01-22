@@ -1,0 +1,85 @@
+ 
+
+REF ID:A56932
+
+lib-1‘." -
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+W S H I N
+O C
+
+E F J KA KE KI
+
+K0 KU L M -
+
+R U v x Y
+Figure 66.
+
+,
+
+r'
+
+IFe. Two-alphabet rectangles are also possible; it is thought unneces—
+sary to demonstrate them by speciﬁc examples. The general examples
+shown in b above are considered sufﬁcient.
+
+d. It is possible, however, and it may be practicable to extend the
+alphabet to 28, 30, or more characters by the subterfuge now to be
+explained. Suppose one of the letters of the alphabet is omitted from
+the set of 26 letters, and suppose it is replaced by 2, 3, or more pairs of
+letters, each pair having as one of its members the omitted single letter.
+Thus, in the case of a one—alphabet Playfair design of rectangular shape,
+in which the letter K is omitted as a single letter, and the number of
+characters in the rectangle is made a total of 30 by the addition of ﬁve
+c-bmbinations of K with other letters, the rectangle shown in ﬁgure 66
+may be constructed. An interesting consequence of this modiﬁcation is
+that certain irregularities are introduced in the cryptogram, consisting
+in ( l) the occasional replacement of 01—02,, by W, that is, of a digraph
+by a trigraph, (2) less frequently, the replacement of 010203,, by
+01020304” that is, of a trigraph by a tetragraph, and (3) the appearance
+of variant values. For example, m, = 'H"KU,; 61?, = OKOc;
+m = KAKEc; ETC}, = I'B—KE-c, or DKEc, or 513,, or TE. So far as
+the decryptographing is concerned, there would be no difﬁculty, because
+the operator always considers any K occurring in the cipher test as invari—
+ably forming a ligature with the succeeding letter, taking the pair of
+letters as a unit. In decryptographing a set of letters, such as 6E, he
+obtains (715,; he disregards the 0.
+
+e. As a ﬁnal note it may be added that it is, of course, possibleto-
+insert the letters within a matrix in a less systematic order than that
+indicated in the various examples. The letters may be inserted at random
+or by following the principles of systematically-mixed alphabets, so that
+no deﬁnite sequence is apparent in the matrix.
+
+119. Combined Alphabetical and Numerical Matrix
+
+a. Figure 67 shows a 4—section matrix which presents a rather inter-
+esting feature in that it makes possible the substitutiom of 3-ﬁgure com.—
+
+1.42
+

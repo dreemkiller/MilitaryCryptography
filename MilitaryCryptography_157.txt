@@ -1,0 +1,50 @@
+REF ID:A56932
+
+CHAPTER' 10
+REPETITIVE AND COMBINED SYSTEMS
+
+ 
+
+Section I. REPETITIVE SYSTEMS
+
+128. Superencipherment
+
+a. When, for purposes of augmenting the degree of cryptographic
+
+security, the plain text of a message undergoes a ﬁrst or primary
+encipherment and the resulting cipher text then undergoes a second
+or secondary encipherment, the system as a whole is often referred to
+as one involving superencipherment. If the two or more processes are
+well selected, the objective is actually reached, and the resulting crypto—
+grams present a relatively great degree of cryptographic security; but
+sometimes this is not accomplished and the augmented security is of a
+purely illusory character. The ﬁnal cryptographic security may, in fact,
+be no greater in degree than if a single encipherment had been effected,
+and in unusual cases it may even be less than before.
+, b. It is impossible to describe all the combinations that might be
+employed; only a very few typical cases can here be treated, and these
+will be selected with a View to illustrating general principles. It is
+possible to pass a message through 2, 3, . . . successive processes of
+substitution; or through 2, 3, . . . successive processes of transposition;
+or substitution may be followed by transposition or vice versa. An
+example of each type will be given.
+
+c. It will be convenient to adopt the symbol C to represent the
+cipher text produced by any unspeciﬁed process of encipherment. The
+symbols C1, C2, C3, . . . , will then represent the successive texts pro—
+duced by successive processes in superencipherment. The subscript letter
+.r or t may be preﬁxed to the C to indicate that a given process is one
+of substitution or of transposition. Thus, the steps in a system where
+a ﬁrst substitution is followed by a sec0nd substitution can be repre-
+sented symbolically by sCl-—>sC2. In a similar manner, tC1—->tC2 repre-
+sents double transposition. The symbol sC1—>tC2 means that the text
+from a ﬁrst process of substitution undergoes transposition as a second
+process.
+
+129. Repetitive Transposition Systems
+
+These have been dealt with in Chapter 8, Sections II and III, and
+need no further discussion at this point. It was there shown that properly
+
+151
+

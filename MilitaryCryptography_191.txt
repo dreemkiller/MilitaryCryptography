@@ -1,0 +1,77 @@
+REF ID:A56932
+
+f- The security of a scheme such as the foregoing is dependent upon
+the manner in which the indicators are treated in the cryptographing
+processes. If the indicators are given in clear, that is, without disguise of
+one sort or another, it becomes possible to study a series of encicode
+messages and perhaps to solve them, even without possession of the code.
+On the other hand, if the indicators are themselves disguised by en—
+ciphering them according to a well-designed method, the system as a
+whole becomes very secure and may, indeed, be made impregnable against
+attack for a very long time.
+
+163. Observations on Arithmetical Methods
+
+a. It can be perceived by this time that the foregoing arithmetical
+methods are, in reality, substitution methods. Where a ﬁxed group is
+added or subtracted from the placode group this is easy to see. For
+example, if the ﬁxed additive is 3089 and the placode group is 8752, the
+encicode group is 1731. This is the same as saying that a 4—alphabet
+system is involved, and the alphabets are as follows:
+
+Placode ........... 1234567
+567890
+
+ 
+
+Alphabet No. “Cipher”
+
+012345
+123456
+
+own-His
+
+to
+
+0:
+
+.p.
+
+U:
+
+a:
+
+~2
+imam-I on
+mutate to
+@0000: o
+
+purer-
+
+Note that merely a simple cyclic displacement of values is involved in
+the process, the amount of displacement being governed by the particular
+digit in each position of the additive group. What this amounts to, in
+cryptographic terms, is a four-alphabet encipherment using direct
+standard alphabets, where the “normal alphabet” is 1 2 3 4 5 6 7 8 9 0.
+The process could be made more diﬂicult by employing “mixed alpha-
+bets” of course, but then the feature of speed, which is now possible (in
+view of early training in addition, whereby the mental arithmetic involved
+becomes second nature), would be lost, since constant reference would
+have to be made to enciphering and deciphering tables.
+
+b. It becomes clear that when a series of different additives or sub—
+tractors is used, as when a keybook is employed, then the number of
+alphabets involved corresponds to the number of digits employed. Thus,
+despite the fact that the encipherment process is here one that involves
+merely the numerical equivalents of direct standard alphabets, the
+system can have great cryptographic security, depending upon (1) how
+long the keying sequence is, that is, the number of groups comprising
+the additive or subtractor series; (2) the composition of this keying
+sequence, that is, whether it consists of random digits or is systematic
+in its construction; and (3) whether this sequence or parts of it are
+used only once or several times. The last-mentioned factor is the most
+
+185
+
+ 
+

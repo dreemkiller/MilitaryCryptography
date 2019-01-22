@@ -1,0 +1,43 @@
+REF ID:A56932
+
+This manual supersedes TM 11-484, 20 March 1945, and TM 11-485, 8 June 1944
+
+PART ONE
+ELEMENTARY MILITARY CRYPTOGRAPHY
+
+CHAPTER I
+INTRODUCTION
+ 
+Section I. GENERAL
+
+1. Scope
+
+This manual consists of two parts as follows:
+
+a. Part one is an introduction to the elementary principles of military
+cryptography. In this part a few typical examples of cipher systems and
+code systems are presented; the procedure in cryptographing and decryp—
+tographing by means of the systems is shown in detail; methods of pre-
+paring keys suitable for use in connection with them are illustrated;
+errors and their correction are discussed; and ﬁnally, a few of the most
+important precautions to be observed in safeguarding systems and
+cryptograms from enemy cryptanalysts are set forth. Only such con-
+siderations as apply to military cryptography are included.
+
+I). Part two develops the principles established in part one and treats
+of the more advanced systems. Following the presentation sequence of
+part one, transposition systems are discussed ﬁrst, then substitution
+systems. Considerable attention is devoted to combined substitution and
+transposition methods. Following this is a description of a limited number
+of cipher devices and machines, together with a discussion of their
+present-day limitations. Finally, code systems are discussed brieﬂy with
+special emphasis upon enciphered code systems.
+
+2. Developments in Cryptography
+
+a. Cryptography is by no means a static art or science and viewpoints
+are always undergoing change; what is regarded as wholly impracticable
+today may, through some unforeseen improvement in technique, become
+feasible tomorrow, and it is unwise to condemn a system too hastily.
+For example, before World War I, and indeed for the ﬁrst 2 years of
+that conﬂict, the use of codebooks in the theater of operations was

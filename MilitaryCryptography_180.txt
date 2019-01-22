@@ -1,0 +1,56 @@
+ 
+
+ 
+
+REF ID:A56932
+
+CHAPTER 12
+CODE SYSTEMS
+
+ 
+
+Section I. GENERAL
+153. General
+
+a. Chapter 4 was devoted to a general consideration of code systems
+and enciphercd code. It was there indicated that code systems are systems
+of substitution where the elements of the substitutive process, comprising
+letters, syllables, words, phrases, and sentences, are so numerous that it
+is impossible to memorize them or to reconstruct them at will when
+neCessary, so that printed books containing these elements and their code
+equivalents must be at hand in order to cryptograph or decryptograph
+messages. The various types of code groups were indicated, together with
+methods for their construction by means of permutation tables. One-part
+and two—part codes were brieﬂy discussed. Finally, a few words were
+added for the purpose of indicating various types of enciphering code
+for greater cryptographic security.
+
+b. Practical cryptography must take cognizance of the fact that the
+texts of governmental as well as commercial and social telegrams must
+conform to certain standard forms and practices. A subsequent text will
+go into these matters but at this moment it is only necessary to indicate
+that international telegraph regulations in the past have exercised an
+important inﬂuence upon the structure of code groups and upon the
+selection of cryptographic systems for their encipherment.
+
+c. In the subsequent paragraphs, when reference is made to numerical
+code groups, or number-code groups, or ﬁgure-code groups, it will be
+understood that the code groups are composed of digits; when reference
+is made to alphabetical code groups, or letter—code groups, or letter
+groups, it will be understood that the code groups are composed of letters
+of the alphabet; and when reference is made to mixed code groups, or
+
+mixed groups, it will be understood that the code groups are composed
+of intermixtures of letters and digits.
+
+154. Intermixtures of Code-Text and Other Kinds of Text
+
+(1. Only in commercial code messages is the practice of mixing plain
+text and code text common in modern communications. In governmental
+code messages, military, naval, or diplmnatic, such intermixtures are
+today so rare that their presence in telegrams indicates abysmal ignorance
+
+174
+
+ 
+

@@ -1,0 +1,50 @@
+REF ID:A56932
+
+b. The two hands are pivoted concentrically, as are the hour and
+minute hands of a clock. Now, in a clock, the minute hand makes a
+complete revolution, while the hour hand makes only 1/12 of a com-
+plete revolution; the action in the case of this device, however, is
+somewhat different. The short hand is free 'to move independently
+of the long one, although the motion of the latter affects the former.
+Since the outer circle has 27 spaces and the inner one only 26, by a
+simple mechanical contrivance each complete revolution of the long
+hand causes the short hand to make 1%, revolutions, thus causing
+the short hand to point one place in advance of where it pointed at
+the end of the preceding revolution of the long hand. For example,
+when the long hand is over B of the outer circle and the short hand
+points to R of the inner circle, if the long hand is pushed clockwise
+around the dial, making a complete revolution, the short hand will also
+make a complete revolution clockwise plus one space, thus pointing
+to D.
+
+c. To encipher a message, the long hand and the short hand are
+set to prearranged initial positions. It is usual to agree that the
+plain-text letters will be sought in the outer circle of letters, their
+cipher equivalents in the .inner circle; and that the long hand is
+invariably to be moved in the same direction, usually clockwise.
+
+ 
+
+ 
+
+ 
+
+ 
+
+Figure 71.
+
+Suppose the message to be enciphered is SEND AMMUNITION
+FORWARD. The long hand is moved clockwise until it is directly
+
+ 
+
+and a word-separator), and a 26-element inner alphabet; the Wadsworth device used a sit-element
+outer alphabet (26 letters and the digits 2—8, inclusive), and a 26-dement inner alphabet.
+Also, whereas in the Wheatstone device only the cipher component could be varied, in the
+Wadsworth device both components could be varied according to identical or non-identical
+mixed sequences.
+
+165
+
+ 
+

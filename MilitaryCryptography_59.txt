@@ -1,0 +1,61 @@
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+REF ID:A56932
+
+60. Use Of Other Types of Alphabets
+
+a. It has been noted that in the case of monoalphabetic ciphers, alpha—
+bets of various types may be employed. This is likewise true of poly-
+alphabetic ciphers. Instead of using two alphabet strips bearing the
+normal alphabetic sequence to determine the cipher equivalent of a letter
+enciphered by a given key number or key letter, one may use a pair of
+strips, one of which bears the normal direct, the other the normal reversed
+sequence. In the former case one is dealing with direct' standard, in the
+latter, with reversed standard alphabets.
+
+b. Polyalphabetic substitution with direct or reversed standard alpha—
+bets does not result in nearly so great a degree of cryptographic security
+as that resulting from the simple artiﬁce of providing mixed alphabets
+for the strips. All sorts of mixed alphabets may be used. One of the
+strips may bear the normal direct or reversed sequence; the other a
+mixed sequence. Both strips may bear identical mixed sequences proceed-
+ing in the same direction, or in opposite directions. Finally, both strips
+may bear different mixed sequences.
+
+0. In all cases, except where reciprocal alphabets are produced, it is
+essential that the correspondents agree upon the sequence or strip from
+which the plain and the cipher letters respectively will be taken, that is,
+it is necessary to indicate which sequence constitutes the plain com-
+ponent, which the cipher component. If this is not done, two correspond-
+ents will have diﬂ‘iculty in deciphering one another’s messages. Also, as
+noted above, it is necessary to agree as to which letter the key letter is to
+be set against. The usual method is to agree that the initial letter of the
+plain component, usually Ap, will be set opposite the key letter, though
+other conventions are possible.
+
+11. The sequences on the strips may be permanent or invariable, but
+naturally the degree of cryptographic security in this case is considerably
+lower than if they can be changed easily at the will of the correspondents
+and by prearrangement. It is possible that a secret word may serve as
+the basis not only for the key for shifting the strips, but also for the
+mixing of the alphabetic sequences. For example, two correspondents
+may agree to use the key CENTRAL AMERICA; to use the ﬁrst part
+as the basis for constructing the mixed plain component; the second part,
+for constructing the cipher component; and to use the whole phrase as
+the key for enciphcring the message. All the methods of constructing sys-
+
+tematically mixed alphabets as described in section III of this chapter
+are applicable.
+
+53
+
+ 
+

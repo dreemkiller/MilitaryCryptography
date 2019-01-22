@@ -1,0 +1,85 @@
+REF ID:A56932
+
+b. Until a few years ago, code methods were predominant in military
+cryptography within the United States Ariny but the reverse is now the
+case. This important change has been the result of advances made within
+comparatively recent years in the design and construction of crypto-
+graphic systems and apparatus. It may be useful to compare code
+
+methods
+
+in general with methods based upon cipher devices and cipher
+
+machines in general to note the advantages and disadvantages of each
+
+category
+c. (1)
+
+of methods.
+
+When designed for keyboard operation and equipped with a
+standard typewriter keyboard, cipher machines afford much
+more speed in encipherment and decipherment than do any
+“hand—operated” cryptographic methods, including codes and
+certain types of cipher devices. Comparative speed tests gave
+the following data recently:
+
+Number of group: or words per minute
+
+ 
+
+ 
+
+Method” Cryptographing Decryptographing
+1 4.04 (4-letter or 4—ﬁgure groups) .......................... 6.00
+2 1.94 (4—letter or 4—ﬁgure groups) .......................... 2.26
+3 1.75 (5-letter groups) ..................................... 1.78
+4 2.74 (5—letter groups) ..................................... 3.98
+5 3.14 (5-letter groups) ..................................... 3.54
+6 30.00 (5-letter groups) .................................... 25.00
+
+ 
+
+ 
+
+ 
+
+'Method l—A 2—part code of 6,000 groups unenciphered.
+
+Method Z—The same code enciphered by a secure systun.
+
+Method S—The obsolete U. S. Army Cipher Device, Type M—94.
+
+Method 4—A small electrical cryptographic machine giving lamp indications but not provided
+with a typewriter keyboard.
+
+Method S—The Converter, M—209.
+
+Method G—An electrical cryptographic machine producing a printed record and provided with
+
+a keyboard.
+
+(2)
+
+(3)
+
+When properly designed, cipher machines and certain types of
+"hand-operated” cryptographs aﬁord greater guarantees of
+cryptographic security than do code methods or hand—operated
+“pencil and paper” cipher systems, because machines can ac-
+curately, speedily, and tirelessly perform far more complex
+cryptographic operations than can possibly be performed even
+by the most skillful cryptographers working with code books
+and cipher tables, or with hand-operated cipher systems.
+
+Though the initial cost of a cipher machine may compare un-
+favorably with the initial cost of a code book, the over-all cost
+of maintaining cryptographic security by means of cipher ma-
+chines is probably less than that in the case of code systems.
+Good machines designed by technically qualiﬁed experts afford
+a multiplicity of keying arrangements; once distributed there
+
+171
+
+ 
+

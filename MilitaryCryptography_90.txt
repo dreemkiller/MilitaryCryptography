@@ -1,0 +1,64 @@
+ 
+
+ 
+
+ 
+
+REF ID:A56932
+
+Where letters of the alphabet must be used, as in certain sym—
+bols designating types of equipment, it may be necessary to
+represent these letters by their authorized phonetic equivalents,
+where it is essential that there be no possibility of error. Such
+spelling out however, should be reduced to a minimum.
+
+(4) Authorized abbreviations should be used whenever practicable.
+
+(5) Regulations regarding the manner of indicating addresses and
+signatures should be carefully followed.
+
+(6) Regulations governing the security classiﬁcation of messages
+(Top Secret, Conﬁdential, Restricted) must be observed at all
+times.
+
+b. Much of the success which attends the eﬁorts of cryptanalysts is
+based upon ignorance and carelessness on the part of cryptographic per-
+sonnel. Rarely are cryptographic blunders the result of willful violation
+of instructions; but if cryptographic personnel realize, that, by careless—
+ness or ignorance, their own lives and those of thousands of their com-
+rades are jeopardized, they will be more attentive to rules set up for their
+guidance. The most important of these rules are as follows:
+
+(1) Questionable messages. Never cryptograph a message which, in
+the opinion of the cryptographer, violates any of the provisions
+or regulatons relating to the drafting of messages, until the
+question has been referred to and passed by someone with
+authority to change the message.
+
+(2) Mixing plain and cryptographic text. Never allow cryptographic
+text with its equivalent plain language to appear in a crypto-
+gram, and never mix plain and cryptographic text, except in
+messages where such mixtures are speciﬁcally permitted. This
+includes punctuation and abbreviations of any description. Such
+messages afford valuable clues to the enemy. If a message is to
+be cryptographed at all, it should be completely cryptographed.
+
+(3) Text of messages.
+
+(a) Never repeat in the clear the identical text of a message once
+sent in cryptographic form, or repeat in cryptographic form
+the text of a message once sent in the clear. Anything which
+will enable an alert enemy to compare a given piece of plain
+text with a cryptogram that supposedly contains this plain
+text is highly dangerous to the safety of the cryptographic
+system. Where information must be given out for publicity,
+or where information is handled by many persons, the plain-
+text version should be very carefully paraphrased before
+distribution, to minimize the data an enemy might obtain
+from an accurate comparison of the cryptographic text with
+the equivalent, original plain text. To paraphrase a message
+means to rewrite it so as to change its original wording as
+much as possible without changing the meaning of the mes—
+
+84
+

@@ -1,0 +1,61 @@
+ 
+
+ 
+
+REF ID:A56932
+
+The next letter of the normal alphabet that occurs in the key word is B,
+which is assigned the number 2. The letter C, which occurs twice in the
+key word, is assigned the number 3 for its ﬁrst occurrence, the number 4
+for its second occurrence, and so on. The ﬁnal result is:
+
+Basic key word: C-A-R-B-U—N-C-L-E
+Derived numerical key: 3-1-8-2-9-7-4-6-5
+
+c. The method may, .of Course, be applied tophrases or. to- sentences,
+so that a. very long numerical key, impossible ordinarily to remember,
+may be 50- derived at will from an easily remembered key text.
+
+d. It 15 advisable to make note of a few points valuable 1n connection
+with the choice of key text:
+
+(1) It should be such as can be easily remembered. Often a key
+composed of two or more short words is better than one con-
+sisting of a single long word. Thus, the whole sentence WHEN
+DO WE EAT would be better than the single word
+EXTRAORDINARY.
+
+(2)' It should consist of one or more simple, familiar words admit-
+ting of but one spelling. A word such as REINFORCEMENT
+is inadvisable because the spelling REENFORCEMENT is
+also admissible. It goes almost without saying the use of words
+suitable for “spelling bees,” even though they may be familiar,
+everyday words as DEFINITELY, SEPARATELY, REPE-
+TITION, etc. is likewise inadvisable.
+
+(3) It should contain as many different letters as possible, in no
+systematic sequence. Words with several repeated letters, such
+as ELEMENT, BANANA, MISSISSIPPI, etc., form poor
+key words.
+
+(4) It should present no associations with the special situation in
+which it is used, so as not to be easily guessed by the enemy.
+For example, to use personal or geographic names associated
+with a region in the theater of operations is bad practice. The
+key word GETTYSBURG employed in a cryptogram originat-
+ing in the vicinity of Gettysburg would be bad practice. Or to
+use for this purpose words of common military usage, such as
+BATTALION, REGIMENT, ARTILLERY, SIGNAL
+CORPS, MACHINE GUN, etc., is likewise bad practice.
+
+6. It is convenient to designate key text in letters as a literal key. As
+noted, a literal key may consist of a single letter, a single word, a phrase,
+a sentence, whole paragraph, or even a book. The method of deriving
+a numerical key from a literal key given in b above 15 only one of a num-
+ber of methods, but it IS the most commonly employed. It 15 also Subject to
+variation in detail. But, so far as the cryptanalyst 1s Concerned, just how
+the numerical key is derived from a speciﬁc literal key is usually of
+interest to him only if this knowledge will assist in subsequent solutions
+
+25
+

@@ -1,0 +1,74 @@
+ 
+
+ 
+
+ 
+
+REF ID:A56932
+
+ 
+
+' ._ ﬁlms-:14... _. .
+
+H: I"._,455355;?“'lLi‘i-'w"ifi.'i"-‘S‘i“Li-1?" x- -:--.-.-,.c _---- -'- -_
+
+ux=<xmgxh=nmun<rm>zonammco
+onxa<wwzxu=nwuonrm>zOHammc
+conxa<wm=xumnmuonrm>zouamu
+HGDNxa<w1=Nu=nwun<rw>ZOHam
+mmcouxa<wmsxu=nquonrm>zona
+emmcpux=<ww=xh=nwunarw>zou
+Hammconxa<mw=xh=nmuo«rw>zo
+ouammcoNxa<ww=xumnman<ru>z
+zOHammcouxs<wmzxumnwuomru>
+>zonammconxa<wv=xu=nwunwru
+m>zOHammcpNxa<mwzwu=nwunur
+ru>20Hammcpwxa<xmth=ouunn
+urm>zOHammcpNxa<xw==umnuon
+aura»:0Hammcowxs<mmzuhxnuu
+acarmszHammcpNasawwzwuznn
+MUGKFW>ZOHHmmGDNNS<WﬂSNQZQ
+QMUOKFW>ZOHHMMGDNNS<NVEXHI
+Inﬁdowﬁm>ZOHHMMGDNNS<N1=XQ
+a:nmuoarw>zonemmcowxa<wwzx
+an:embo<rw>20HammcpNxs<xmg
+zxumnmunnnm>20Hammconx=<xm
+manuxnwuonrw>zonammcpuxa<w
+wmzxuznnconru>onammcouua<
+<wv=xnmnuanmrw>zouammcnnxa
+=<wvthmnwunnrw>2caammcnux
+xa<wm:susnmoonrw>zonammcou
+
+Figure 23.
+
+b. Figure 23 illustrates a case in which a mixed alphabet is sliding
+against itself. The usual method of employing such a table is exactly
+the same as that explained before. The only difference is that both the
+plain—text letters and the key letters must be looked for in mixed
+sequences. Example, using ﬁgure 23: Up (R1,) = Vc.
+
+c. It has been indicated that the basis of reference in most crypto—
+graphic operations involving key words is the letter A”. In employing
+sliding alphabets it is usual to set the key letter as located in the cipher
+component opposite the letter A as located in the plain component. But,
+as shown in paragraphs 42!; and 60c, the key letter as located in the
+cipher component is usually set opposite the initial letter of the plain
+component. In all examples preceding that in ﬁgure 23, the key letter has
+been A. In ﬁgure 23, since the plain component is also a mixed sequence
+and its initial letter is Q, the sliding alphabets are set against each other
+so that the given key letter in the cipher component is opposite Q in the
+plain component. Thus, to duplicate the results given by the use of ﬁgure
+23 in ﬁnding the value of Up (R1,), it is necessary to set the sliding strips
+in the following relatiVe positions:
+
+Phhn QUESTIONABLYCDFGHJKMNPRVWXZQUESTIONABLYCDEFGHJKM
+Cﬁmer: QUESTIONABLYCDFGHJKMNPRVWXZ
+
+W
+
+ 
+
+ 
+
+ 
+

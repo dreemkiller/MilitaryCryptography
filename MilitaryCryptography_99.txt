@@ -1,0 +1,63 @@
+ 
+
+ 
+
+REF ID:A56932
+
+b. In the foregoing case the eneipherment takes place only by trans—
+position within rows, but it is possible to complicate the method by
+transposing, in addition, the rows as a whole, employing the same key
+or only a portion of it, as much as is required. Thus, if the message
+contained 18 rows of 18 letters each, then the transposition of rows
+could be effected according to key—number order, the last row being
+taken ﬁrst (since the number 1 of the numerical key happens in this
+case to be at the end of the numerical key), the 14th row being taken
+second (since the number 2 of the numerical key is the 14th number),
+and so on. Where the message does not contain as many complete rows
+as there are numbers in the key, the transposition takes place in key-
+number order nevertheless, the rows being taken in the numerical order
+of the numbers present. Using the same key and message as in the
+foregoing case, the encipherment would be as shown in ﬁgure 31.
+
+Eneiphering diagram:
+l7-10-6-3-11-14-8-7-15-18-12-4-9-2-16-5-13-1
+
+ 
+
+l7: ADMINISTRATIVE OR DE
+10: RSMUSTBECOMPLE TE DA
+6: NDREADYTOACCOM PA NY
+3: FIELDORDERSNOT LA TE
+11: RTHANFIVEPMTHI SD AT
+14: E
+
+Cryptogram:
+
+ETLNA EDROI DSTOE LFRYM ECART YODAC
+NDOPN AAEUP EMEBL SSMDT CTROT IATDH
+VIHTN MAFES RPEEE IIRMT SVDN'I' DIROA
+A
+
+Figure 31
+
+c. From the preceding method it is but a step to the method of
+interrupted key transposition now to be described. Instead of writing
+the text in regular-length groups corresponding to the length of the
+key, it is written out in irregular groups the lengths of which vary
+according to some prearranged plan. For example, note the basis of
+the variable grouping in ﬁgure 32, which uses the same message and
+key as in a above.
+
+(1. This method may be combined with that shown in b above, thus
+further complicating the system. In decryptographing such a message it
+is best to use cross—section paper, block out the cells to be occupied by
+letters in the deciphering diagram, and indicate the key numbers appli-
+cable to each line. This will facilitate the process materially and help
+eliminate errors.
+
+93
+
+' :nliﬁﬂuli I||
+
+ 
+

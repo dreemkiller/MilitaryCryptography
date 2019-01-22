@@ -1,0 +1,50 @@
+b. Intercommunication may be conducted by any means susceptible of
+ultimate interpretation by one of the ﬁve senses, but those most com-
+monly used are visual or auditory. Aside from the use of simple visual
+and auditory signals for intercommunication over relatively short dis-
+tances, the usual method of intercommunication involves, at one stage
+or another, the act of writing, speaking over a telephone, or of drawing
+or taking a picture.
+
+c. To preserve secrecy of intercommunication by telephone, there are
+means and methods of disguising the electrical currents in telephony so
+that the messages or conversations can be understood only by persons
+provided with the proper equipment. The same thing is true of secrecy
+in the electrical transmission of pictures, drawings, maps, etc. However,
+this manual is concerned only with secrecy of intercommunication by
+means of messages conveying in written words the thoughts, orders,
+reports, etc., of the originator to the addressee.
+
+d. Writing may be either visible or invisible. In the former, the charac—
+ters are inscribed with ordinary writing materials and can be seen with
+the naked eye; in the latter, the characters are inscribed by'means or
+methods which make the writing invisible to the naked eye. Invisible
+writing is done with certain chemicals called invisible, sympathetic, or
+secret inks which have the property of either being initially invisible to
+the naked eye or becoming so after a short time. In order to make writing
+done with secret inks visible, special processes must usually be applied.
+There are also methods of producing writings which is invisible because
+the characters are of microscopic size. These methods usually require
+either special photographic apparatus or very delicate mechanical instru—
+ments called micropantographs, by means of which ordinary writing may
+be copied in extremely reduced size. Magnifying lenses must be used to
+make such writing visible to the naked eye.
+
+e. Invisible writing and visible writing prepared in a form unintel-
+ligible in the language in which it is written, constitute secret writing.
+Both of these forms of secret writing have their uses in military com—
+munications, but this manual deals only with visible secret writing.
+
+5. Plain Text and Encrypted Text
+
+a. A visible message which conveys an intelligible meaning in the
+language in which it is written, with no hidden meaning, is said to be in
+plain text. A message in plain text is called a plain-text message, a clear—
+text message, or a message in clear.
+
+b. A visible message which conveys no intelligible meaning in any
+language is said to be in encrypted text. Such a message is termed a
+cryptogram.
+
+c. A visible message may convey an intelligible meaning which may
+not be the real meaning intended. To quote a simple example of a mes-

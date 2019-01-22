@@ -1,0 +1,54 @@
+these six main sources, trafﬁc analysis and cryptanalysis are the most
+valuable. The amount of vital information they furnish cannot be
+accurately estimated as it ﬂuctuates with time, place, circumstances,
+equipment, and personnel. For most effective operation, the results of
+both cryptanalysis and trafﬁc analysis can be ﬁtted together to yield a
+uniﬁed picture of the communications scheme. Therefore, if all trans-
+mitting stations can be located quickly and if all communications can be
+intercepted and solved, extremely valuable information concerning
+strength, disposition of forces, and proposed moves will be continually
+available.
+
+f. The facts set forth above are applicable to our own forces as well
+as the enemy’s.
+
+g. The process of intercepting and copying our own or friendly radio
+and wire transmissions for the purpose of detecting and correcting viola-
+tions of regulations is called monitoring; it provides increased protection
+of our own signal communications.
+
+15. Communication Intelligence and Communication Security
+
+a. Communication intelligence is evaluated information concerning the
+enemy, derived principally from a study of his signal communications.
+The main components of communication intelligence are as follows:
+
+(1) Interception of signals or messages and forwarding raw trafﬁc
+to communication intelligence centers for study.
+
+(2) Trafﬁc analysis, including radio direction ﬁnding and radio
+position ﬁnding. (Evaluated information from this source is
+often called traﬁ‘ic intelligence.)
+
+(3) Cryptanalysis or solution (and translation, when necessary) of
+the texts of the messages.
+
+(4) Evaluation of data, that is, analysis of results obtained from the
+preceding steps and their correlation, collation, and comparison
+with results obtained from other sources of information.
+
+[7. Communication security is the protection resulting from all meas—
+ures designed to deny to unauthorized persons information of value
+which may be derived from communications. The main components of
+communication are as follows -:
+
+(1) Physical security, that component of communication security
+which results from all measures necessary to safeguard classi-
+ﬁed communication equipment, and material from access there-
+to by unauthorized persons. ,
+
+(2) Cryptosecurity, that component of communication security
+which results from the provision of technically sound crypto-
+systems5 and their proper use.
+
+5Cryptosyttems may be categorized as literal and nonliteral. This manual is concerned solely with literal or cryptographic systems.

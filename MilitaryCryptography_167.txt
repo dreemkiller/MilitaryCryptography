@@ -1,0 +1,56 @@
+REF 1D:A56932
+
+Then,.let the recombinations be effected within the groups horizontally.
+Thus, for the ﬁrst group the recombinations are 41, 34, 42, 33, and 31.
+The entire message is as follows:
+
+41 .34.4 1132.3 4422.3 34.442
+2.33.31 2.33.33 3.23.23 2.12.52.
+
+Recomposition (using the same biﬁd alphabet as was‘ used for the
+decomposition) yields the cryptogram:
+
+LHOEB MDDEE QTERR HQTAW
+
+b. As indicated, other groupings may be employed. Furthermore,
+a different biﬁd alphabet for the recomposition may be used- than was
+employed for the original substitution or decomposition It is also
+clear that sequences of variable—length groupings may also be- employed
+as determined by a subsidiary key.
+
+c. Triﬁd alphabets also lend themselves to these methods. Note the
+following example:
+
+Alphabet for decomposition Alphabet for "composition.
+1:222 J=312 5:131 111=1211=u311=v
+3:322 K=112 1:122 1122K 212=N 312=J
+c=121 . L=231 U=211 113=w- 213:11 313=ﬁ
+D=133 M=323 v=311 121=c 221=x 321:1:
+11:321 N=212 w=113 122=r 222=A 322:3
+F=123 0:333 x=221 123:1? 223:1 323=M
+(1:332 P=233 112223 131=s 231:1. 331=q
+H=213 Q=331 z=132 132=ﬂ 232=R 33229
+1:111 3:232 ?=313 133:1) 233:? 333:0
+
+Messagezl-lAS AIRPLANE RETURNED YET?
+
+HASAI RPLAN ERETU RNEDY ET?
+221.21 222.22 323.12 223.12 313
+1.232.1 3.332.1 2.322.1 3.123.2 221
+32.121 23.122 12.121 22.133 123
+
+Cipher text”: XURﬂC AYGFT MTBKC YFFAD ﬁXF
+Final cryptogram: XURZA CAYGF TMTBK CYFFA DZBXF
+
+"The reason for the regrouping shown in the ﬁnal cryptogram requires a consideration of the
+fact that a triﬁd alphabet involves the use of 27 characters. Since our alphabet contains but
+26 letters, either an extra symbol would have to be used (which is impractical) or someimterfu—ge
+must be adopted to circumvent the difﬁculty. This has been done' 1n this case by using ZA and ZB
+to represent two of the permutations in the recomposition alphabet. In decryptographing, when
+the clerk encounters the letter Z in the text, it must be followed either by A or by 13; according
+to the alphabet here used, ZA represents permutation 132, and 213 represents permutation 313.
+In order not to introduce a break in the regulation S-letter groupings of cipher text, the ﬁnal
+cryptogram is regrouped strictly into ﬁves.
+
+161
+
