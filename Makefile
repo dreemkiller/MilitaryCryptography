@@ -1,6 +1,6 @@
 ElementaryMilitaryCryptography.pdf: ElementaryMilitaryCryptography.dvi
 	dvipdf ElementaryMilitaryCryptography.dvi
 
-ElementaryMilitaryCryptography.dvi: ElementaryMilitaryCryptography.tex Chapter1.tex
+ElementaryMilitaryCryptography.dvi: ElementaryMilitaryCryptography.tex Chapter*.tex
 	latex ElementaryMilitaryCryptography.tex
 	latex ElementaryMilitaryCryptography.tex
