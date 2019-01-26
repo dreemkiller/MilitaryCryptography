@@ -320,86 +320,31 @@ from the top downwards, and then the letters are transcribed by
 “reading” the columns in the sequence determined by the numerical key.
 If the text does not contain a sufficient number of letters to fill the last
 line completely, as many nulls as are necessary to do so are added at the
-end. Figure 5 is an example of cryptographing by this method.
+end. Figure \ref{fig:Figure 5} is an example of cryptographing by this method.
 
  
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-Keyword: L-I-B-E-R-T-Y
-Numericalkey: 4-5-1-2-5-6-7
-R E P 0 R T L
-o c A'T I o N
-0 F S E C 0 N
-D B A T '1' A L
-I 0 N C 0 M M
-A N D P 0 S T
-T 0 D A Y D N
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-Note. The letters D and N in the final two cells are nulls, inserted to complete
-the rectangle.
-
-Cryptogram :
-
-PASAN DDOTE TCPAE CFBON OROOD IATRI CTOOY
-TOOAM SDLNN LMTN
-
-Figure 5.
+\begin{figure}[h]
+  \centering
+    \includegraphics[width=0.8\textwidth,natwidth=454,natheight=371]{Chapter2_Figure5.png}
+    \label{fig:Figure 5}
+    \caption{Figure 5}
+\end{figure}
 
 \mypara To decryptograph such a cryptogram, a rectangle with the proper
 number of cells, determined by the length of the message and the length
 of the key, must first be prepared. In the foregoing example, since the
-cipher text consists of 49 letters and the key consists of 7 letters or numbers, the rectangle shown in (a) of figure 6 is prepared and then the
+cipher text consists of 49 letters and the key consists of 7 letters or numbers, the rectangle shown in (a) of \ref{fig:Figure 6} is prepared and then the
 columns (of cells) are filled in numerical order. An early stage in the
-decryptographing is represented in (b) of figure 6. It is only after the
+decryptographing is represented in (b) of \ref{fig:Figure 6}. It is only after the
 process has been finished that the complete message reappears, as shown
-in (c) of figure 6.
+in (c) of \ref{fig:Figure 6}.
 
-Cryptogram :
-
-PASAN DDOTE TCPAE CFBON OROOD IATRI OTOOY T00“
-SDLNN LMTN
-
-4-3-1-2—5-6-7 4—3-1-2-5-6-7
-
-(a)
-(b)
-
-- (c)
-
-The letters D and N are recognized as nulls.
- 
-
-Figure 6
-
+\begin{figure}[h]
+  \centering
+    \includegraphics[width=0.7\textwidth,natwidth=466,natheight=649]{Chapter2_Figure6.png}
+    \label{fig:Figure 6}
+    \caption{Figure 6}
+\end{figure}
 
 
 \mypara The method indicated above may vary considerably by changing
@@ -446,25 +391,19 @@ inserting the first two groups of the text being shown in (b), figure 8.
 It is only after the process has been finished that the complete message
 becomes apparent.
 
-Message:
-REQUEST IMMEDIATE REENFORCEMENTS
-Keyword: P-R—O—D—U-C-T
-Numericalkey: 4-5-5-2—7-1—6
-R E Q U E S T
-I M M E D I A '
-T E R E E N F
-0 R C E M E N
-T S
-Cryptogram:
-SINEU EEEQM RCRIT OTEME RSTAF' NEDEM
-Figure 7.
+\begin{figure}[h]
+  \centering
+    \includegraphics[width=0.7\textwidth,natwidth=429,natheight=317]{Chapter2_Figure7.png}
+    \label{fig:Figure 7}
+    \caption{Figure 7}
+\end{figure}
 
-Cryptogram:
-
-SINEU EEEQM RCRIT OTEME RSTAF NEDEM
-4-5-3-2-7—1—6 '4—5-5—2—7—1—6
-
-Figure 8.
+\begin{figure}[h]
+  \centering
+    \includegraphics[width=0.7\textwidth,natwidth=445,natheight=275]{Chapter2_Figure8.png}
+    \label{fig:Figure 8}
+    \caption{Figure 8}
+\end{figure}
 
 \subsection{Modification of Columnar Method}
 
@@ -473,13 +412,15 @@ the same results, may be found useful. First, write the message in groups
 corresponding to the length of the key. Thus, using the same key and
 message as in paragraph 28, the following is obtained:
 
-4-5-3-2-7-1-6 4-5-5-2-7-1-6 4-5-3—2-7-1-6 4-5-
+\begin{verbatim}
+4-5-3-2-7-1-6 | 4-5-5-2-7-1-6 | 4-5-3—2-7-1-6 | 4-5-3-2-7-1
 
-REQUEST IMMEDIA TEREENF 0R
+R E Q U E S T | I M M E D I A | T E R E E N F | O R C E M E
 
 4-5
 
 T S
+\end{verbatim}
 
 The letters are then taken from the groups and are transcribed in groups
 of five, all letters marked 1 being taken first, then all those marked 2, and
