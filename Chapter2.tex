@@ -191,15 +191,21 @@ writing and then the cipher text is taken by transcribing the
 columns, a slightly different result is obtained. Using the plain
 text message BRIDGE DESTROYED, the cipher becomes:
 
-BIGDS RYDRD EETOE R0
-
-Figure 4.
+\begin{figure}[h]
+  \centering
+    \includegraphics[width=0.8\textwidth,natwidth=454,natheight=144]{Chapter2_Figure4.png}
+    \label{fig:Figure 4}
+    \caption{Figure 4}
+\end{figure}
 
 This type of transposition is sometimes Called the \textit{rail-fence} cipher
 because it can be produced by writing the message in the following form:
 
-BIGDSRYD
-RDEETOE
+
+\begin{verbatim}
+B I G D S R Y D
+ R D E E T O E
+\end{verbatim}
 
 which yields the same cipher result as before.
 
@@ -236,8 +242,10 @@ different uses to which numerical keys are put. For purposes of transposition, t
 the word contains the letter A, which comes first in the alphabet, the
 number 1 is written under this letter in the key word. Thus:
 
+\begin{verbatim}
 CARBUNCLE
  1
+\end{verbatim}
 
 
 The next letter of the normal alphabet that occurs in the key word is B,
@@ -245,8 +253,10 @@ which is assigned the number 2. The letter C, which occurs twice in the
 key word, is assigned the number 3 for its first occurrence, the number 4
 for its second occurrence, and so on. The final result is:
 
-Basic key word: C-A-R-B-U—N-C-L-E
+\begin{verbatim}
+Basic key word:        C-A-R-B-U-N-C-L-E
 Derived numerical key: 3-1-8-2-9-7-4-6-5
+\end{verbatim}
 
 \mypara The method may, of course, be applied tophrases or. to- sentences,
 so that a. very long numerical key, impossible ordinarily to remember,
