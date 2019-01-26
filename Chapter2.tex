@@ -42,177 +42,24 @@ the cipher text, the letters in the design are taken out of the design and
 rewritten or transcribed by following or tracing one of many different
 routes. It is possible for each route to have a diﬂ’erent starting point, and
 normally it is one of the four corners of the rectangle. A few typical
-routes are illustrated in figure 1 where, for the sake of ease in following
+routes are illustrated in \ref{fig:Figure1} where, for the sake of ease in following
 the route, the plain—text message is assumed to be merely the sequence
 of letters A B C X.
 
 \begin{figure}[h]
   \centering
-    \includegraphics[width=0.7\textwidth,natwidth=598,natheight=663]{Chapter1_fig1.png}
-    \label{Figure 1}
+    \includegraphics[width=0.7\textwidth,natwidth=598,natheight=663]{Chapter2_fig1.png}
     \caption{Figure 1}
+    \label{fig:Figure1}
 \end{figure}
 
-
-(E) Simple diagonal:
-
-<1)
-
-ABDGHO
-CEHLPS
-FIMQTV
-JNRUWX
-
-(5)
-ACFJNR
-BEIMQU
-DHLPTW
-GKOSVX
-
-(F) Alternate diagonal:
-
-(1)
-ABFGNO
-CEHMPU
-DILQTV
-JKRSWX
-
-(5)
-ACDJ KR
-BE ILQS
-FHMPTW
-GNOU'VX
-
-(G) Spiral, clockwise:
-
-(1)
-ABCDEF
-PQRSTG
-OXWVUH
-NMLKJI
-
-(2)
-OKGDBA
-SPLHEC
-VTQMIF
-XWURNJ
-
-(6)
-RNJFCA
-UQMIEB
-WTPLHD
-xvsoxc
-
-(2)
-ONGFBA
-UPMHEC
-VTQLID
-XWSRKJ
-
-. (6)
-RKJDCA
-SQLIEB
-WTPMHF
-XVUON G
-
-(2)
-LMNOPA
-KVWXQB
-JUTSRC
-IHGFED
-
-('H) Spiral counterclockwise:
-
-(1)
-APONML
-BQXWVK
-CRSTUJ
-DEFGHI
-
-20
-
-(2)
-FEDCBA
-GTSRQP
-HUVWXO
-IJKLMN
+\begin{figure}[h]
+  \centering
+    \includegraphics[width=0.6\textwidth,natwidth=481,natheight=736]{Chapter2_fig1Continued.png}
+    \caption{Figure 1 continued}
+\end{figure}
 
 Figure 1—Continued.
-
-(3)
-GKOSVX
-DHLPTW
-BEIMQU
-ACFJNR
-
-(7)
-JNRUWX
-FIMQTV
-CEHLPS
-ABDGKO
-
-(3)
-GNOUVX
-FHMPTW
-BEILQS
-ACDJKR
-
-(7)
-JKRSWX
-DILQTV
-CEHMPU
-ABFGNO
-
-(3)
-DEFGHI
-CRSTUJ
-quwvx
-APONML
-
-(3)
-NMLKJI
-OXWVUH
-PQRSIG
-ABCDEF
-
-(4)
-XVSOKG
-WTPLHD
-UQMIEB
-RNJFCA
-
-(8)
-XWURNJ
-VTQMIF
-SPLHEC
-OKGDBA
-
-(4)
-xvuonc
-WTPMHF
-SQLIEB
-RKJDCA
-
-(8)
-XWSRKJ
-VTQLID
-UPMHEC
-ONGFBA
-
-(4)
-IJKLMN
-HUVWXO
-GTSRQP
-FEDCBA
-
-(4)
-IHGFED
-JUTSRC
-KVWXQB
-LMNOPA
-
- 
-
 
 \mypara It is apparent that instead of following the normal direction of
 writing, that is, from left to right and from the top downwards, the
@@ -233,10 +80,10 @@ described, and that the specific key consists of the following elements:
 \item Using a completely filled rectangle of seven columns;
 
 \item Inscribing the letters of the plain text within the rectangle by
-following route (F) (3) of figure 1;
+following route (F) (3) of \ref{fig:Figure 1}.
 
 \item Transcribing the thus inscribed letters (to form the cipher text)
-by following route (E) (6) of figure 1.
+by following route (E) (6) of \ref{fig:Figure 1}.
 \end{enumerate}
 
 Since the message contains a total of 40 letters, and it has been
@@ -244,29 +91,21 @@ agreed to use a completely filled rectangle of seven columns, it is
 necessary to add two nulls to make the total numberof letters a
 multiple of seven. A rectangle of seven columns of cells and six
 lines of cells is therefore prepared. The design is then filled in as
-shown in figure 2.
+shown in \ref{fig:Figure 2}.
 
 \mypara To decryptograph such a cryptogram the process is merely reversed.
 First, the total number of letters in the cipher text must be found. Since
 
-S L T T W L T
-O T I' O W 0 M
-'H P P T M O A
-K A N O N 0 R
-T C S E N U R
-A T A B E E D
-
- 
-
-Cryptogram:
-TMLAO WROWT ROMOT DUNTI LENOP
-TSEEN POBSA HACKT TA
-Figure 2
-
+\begin{figure}[h]
+  \centering
+    \includegraphics[width=0.6\textwidth,natwidth=390,natheight=256]{Chapter2_Figure2.png}
+    \label{fig:Figure 2}
+    \caption{Figure 2}
+\end{figure}
 
 it is 42, and since a completely filled rectangle of seven columns has been
 agreed upon, a design consisting of seven columns and six rows is outlined on cross-section paper. The cipher text is then inscribed according
-to route (E) (6) of figure 1, and after this has been completed the plaintext letters are read according to route (F) (3), figure 1. It is apparent
+to route (E) (6) of \ref{fig:Figure 1}, and after this has been completed the plaintext letters are read according to route (F) (3), \ref{fig:Figure 1}. It is apparent
 that it is necessary to remember a relatively long series of rules, and even
 when the cryptographing has been accomplished correctly the degree of
 security is very low. Note how obviously the whole word UNTIL mani—
@@ -307,7 +146,7 @@ containing exactly as many letters as all other groups in the message.
 
 \subsection{Special Cases of Route Transposition}
 
-\mypara The oldest and simplest transposition method known, that called reversed writing, is a special case of one of the routes shown in figure 1.
+\mypara The oldest and simplest transposition method known, that called reversed writing, is a special case of one of the routes shown in \ref{fig:Figure 1}.
 Here the text is written in the opposite direction from the normal; for
 example, BRIDGE DESTROYED is written EGDIRB DEYORTSED.
 The variability of the scheme, that is, the specific key, consists of the fact
@@ -335,7 +174,7 @@ Cipher: MPNER VELEO TADEB YORTH SEDEA GDIRB
 \end{enumerate}
 
 \mypara A second very simple type of transposition, that known as vertical
-writing, is a special case of another of the routes shown in figure 1.
+writing, is a special case of another of the routes shown in \ref{fig:Figure 1}.
 
 The message BRIDGE DESTROYED is written in two vertical
 columns, and the cipher text is taken from the horizontal pairs
@@ -566,7 +405,7 @@ in at least two positions in the cryptogram, usually at or near the
 beginning and end.
 
 \mypara The letters of the plain text may be inscribed in the rectangle
-according to any one of the routes indicated in figure 1. If the transcribing process is accomplished by reading whole columns or whole
+according to any one of the routes indicated in \ref{fig:Figure 1}. If the transcribing process is accomplished by reading whole columns or whole
 rows, according to a prearranged plan which follows a route perpendicular to the inscribing route (except in the case of spiral inscription), the
 decryptographing process is simple. Only certain of the simpler combinations of inscription and transcription are 'suitable for military use, the
 most practicable being those illustrated in figures 5 and 6.
