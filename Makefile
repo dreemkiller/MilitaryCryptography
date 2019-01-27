@@ -1,3 +1,3 @@
 ElementaryMilitaryCryptography.pdf: *.tex *.png
-	pdflatex ElementaryMilitaryCryptography.tex
-	pdflatex ElementaryMilitaryCryptography.tex
+	pdflatex -interaction batchmode ElementaryMilitaryCryptography.tex
+	pdflatex -interaction batchmode ElementaryMilitaryCryptography.tex
