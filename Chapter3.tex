@@ -704,7 +704,7 @@ false, or pseudo-code system.\footnote{Prior to 1934, International Telegraph Re
 
 \section{MONOALPHABETIC SUBSTITUTION WITH VARIANTS}
 
-52. Purpose of Providing Variant Values
+\subsection{Purpose of Providing Variant Values}
 
 The individual letters composing ordinary intelligible plain text are
 used with varying frequencies; some, such as (in English) E, 'l‘, R, I,
@@ -722,14 +722,13 @@ cases the letters of the plain component receive numbers of variant
 cases, all the letters receive equal numbers of variant values, determined
 by the total number available.
 
-53. Figure 'Ciphers with Variant Values
+\subsection{Figure Ciphers with Variant Values}
 
-a. The use of ﬁgures in pairs as substitution equivalents makes avail-
-able a total of 100 different pairs, those from 00 to 99. They may all
+\mypara The use of ﬁgures in pairs as substitution equivalents makes available a total of 100 different pairs, those from 00 to 99. They may all
 be used in a complete system, or only certain ones may be selected, as
 prearranged.
 
-b. One of the most common varieties of ciphers using all the pairs of
+\mypara One of the most common varieties of ciphers using all the pairs of
 digits is that in which the alphabet is reduced to 25 letters (by making
 1 and J interchangeable or by eliminating a letter such as Q), and each
 letter is assigned four values which may be used at will. The assignment
@@ -747,10 +746,6 @@ The letter Ap may be represented by any one of four equivalents, 08,
 used in any particular instance is selected at random, so that the word
 .CAB may be represented in cipher by any one of a total of 64 combina-
 tions, such as 10—08—09, 70—35—09, 37—08—69, etc. In the ﬁnal cryptogram
-
-4'6
-
-REF ID : M5932
 the ﬁgures may be run together in groups of ﬁve. The cipher group
 10080, on deCIPheﬂﬂg, would be split up into 10-08—0.
 
@@ -767,75 +762,56 @@ H—IS 42 75 94 9—23 50 58 77 2—07 34 57 86
 R—24 26 59 78
 Figure 14.
 
-c. In this case, within each set of 25 the numbers progress serially,
+\mypara In this case, within each set of 25 the numbers progress serially,
 each set being treated as a ring or circle. It is of course possible to mix
 the sequence to destroy this serial progression, thus giving four mixed
 alphabets which can be used at random.
-
-d. Another variation is to assign each letter a set of numbers in ac-
-cordance with its relative frequency in ordinary English, so that each of
+\mypara Another variation is to assign each letter a set of numbers in accordance with its relative frequency in ordinary English, so that each of
 the most frequently used letters such as E, T, R, I, and N will have
-perhaps seven or eight different equivalents, whereas letters of low fre—
-quency such as J, K, Q, X, and Z will each have but one equivalent.
+perhaps seven or eight different equivalents, whereas letters of low frequency such as J, K, Q, X, and Z will each have but one equivalent.
 
-54. Use of Reciangles to Provide Variant Values
+\subsection{Use of Reciangles to Provide Variant Values}
 
-0. Instead of drawing up alphabets as in ﬁgure 14, it is possible to use
+\mypara Instead of drawing up alphabets as in ﬁgure 14, it is possible to use
 the diagram shown in ﬁgure 12, but with several variant digits as row
 indicators instead of a single digit for each row. For example, the row
 indicators may be of the following arrangements:
 
-14—7 1—2—3 1—2—3 5—4—3
-2—5—8 4--5-6 8—9—4 6—9—2
-3—4—9 7—8—9 7—6—5 7—8—1, etc.
+\begin{verbatim}
+ 1-6-7    1-2-3   1-2-3   5-4-3
+ 2-5-8    4-5-6   8-9-4   6-9-2
+ 3-4-9    7-8-9   7-6-5   7-8-1, etc.
+\end{verbatim}
 
-Thus, if the. ﬁrst arrangement is used, A, would have the equivalents ll,
+Thus, if the ﬁrst arrangement is used, A, would have the equivalents 11,
 61, 71; B,,, 12, 62, 72; etc. The word RUN might be represented by
 any one of 27 different combinations, such as 28—31—24, 28—91—54, etc.
 
-b. A variation of the foregoing system is that in which, by use of a
+\mypara A variation of the foregoing system is that in which, by use of a
 diagram of the type shown in ﬁgure 13, a number of different letters are
 applied to each row and column, or Z-ﬁgure numbers may be used for
 this purpose. In this case a series of as many as 50 pairs of digits may be
 used as row indicators, and another series of 50 pairs as the column
 indicators.
 
-c. The use of variants lends itself to application in a pseudo-code sys—
-tem such as described in paragraph Sle. It presents many possibilities for
-
-47
-
- 
-
-..._-—.- t-.- -
-
-REF ID:A56932
-
-variation, with or without key words, with one or more alphabets dis-
-tributed within the square or rectangle, with alphabets extended to in-
-clude ﬁgures, punctuation signs, common syllables and words, etc. Some
+\mypara The use of variants lends itself to application in a pseudo-code system such as described in paragraph 51e. It presents many possibilities for variation, with or without key words, with one or more alphabets distributed within the square or rectangle, with alphabets extended to include ﬁgures, punctuation signs, common syllables and words, etc. Some
 times pseudo-code is encountered when the groups of a numerical cipher
 system (or a ﬁgure-code system) are converted into letters, in order to
 make the cryptographic text conform to certain telegraph regulations
 and thus have the message accorded a more favorable rate of charge (sec.
 II, ch. 4). Thus, a group such as 0125784256 might be converted into the
-group BAFOSULAFE. If the conversion table "is irregular in its con-
-struction and is kept secret, this adds an encipherment step to the system.
+group BAFOSULAFE. If the conversion table "is irregular in its construction and is kept secret, this adds an encipherment step to the system.
 
-55. Disadvantages of Monoalphabotic Substitution with Variants
+\subsection{Disadvantages of Monoalphabotic Substitution with Variants}
 
-The obvious disadvantage of all such methods discussed in the preced—
-ing paragraph is that the cryptographic text is exactly twice as long as
+The obvious disadvantage of all such methods discussed in the preceding paragraph is that the cryptographic text is exactly twice as long as
 the original plain text. Furthermore, there is no compensating advantage
 from the standpoint of cryptographic security. When methods are such
-that the cipher equivalents are passed through another process which re—
-turns the cipher text to a length identical with that of the equivalent plain
+that the cipher equivalents are passed through another process which returns the cipher text to a length identical with that of the equivalent plain
 text, they are usually too complicated, too slow, and too subject to error
 to be practical. They are often the result of combining substitution and
 transposition processes in one system. Methods which substitute three
-or more characters for one letter of the original text are not at all prac—
-
-tical for military cryptography.
+or more characters for one letter of the original text are not at all practical for military cryptography.
 
 Section V. POLYALPHABETIC SUBSTITUTION
 SYSTEMS
