@@ -367,61 +367,43 @@ memoranda. They are called systematically mixed cipher alphabets.
 
 \subsection{Key-word Mixed Alphabets}
 
-\mypara One of the simplest types of systematically \textif{mixed cipher alphabets}
+\mypara One of the simplest types of systematically \textit{mixed cipher alphabets}
 is the key-word mixed alphabet. The cipher alphabet consists of a key
 word or phrase (with repeated letters, if present, omitted after their ﬁrst
 occurrence), followed by the letters of the alphabet in their normal
 sequence (with letters already occurring in the key, of course, omitted).
 Example, with GOVERNMENT the key word:
-
 \begin{verbatim}
-Plain:  ABCDEFGHIJKLMNOPQRTSUVWXYZ
-Cipher: GOVERNMTABCDFHIJKLPQSUWXYZ
+Enciphering alphabet....  { Plain:  ABCDEFGHIJKLMNOPQRTSUVWXYZ
+                            Cipher: GOVERNMTABCDFHIJKLPQSUWXYZ
 \end{verbatim}
 
 \mypara Mixed alphabets formed by including all repeated letters of the key
 word or key phrase were common in Edgar Allan Poe’s day but are
 impractical because they make decipherment diﬂicult.
 
-Plain: ABCDEFGHI J KLMNOPQRSTUVWXYZ
-Cipher: NOWISTHETIMEFORALIIGOODM'ENT
-S Cipher: ABCDEFGHI J KLMNOPQRSTUVWXYZ
+\begin{verbatim}
+Enciphering alphabet.... { Plain:  ABCDEFGHIJKLMNOPQRSTUVWXYZ
+                           Cipher: NOWISTHETIMEFORALLGOODMENT
+Deciphering alphabet.... { Cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+                           Plain:  P  VHMSGD  QKAB  OEF  C
+                                       L   J  RWYN    I
+                                       X         T    Z
+                                                 U
+\end{verbatim}
 
-Enciphering alphabet. . . .{
-
-Enciphering alphabet. . . .{
-
-Plain: P VHMSGD QKAB OEF C
-
-Deciphering alphabet. . . . I: J RWYN I
-X 1‘ Z
-U
-
-The average cipher clerk would have considerable difﬁculty in decrypto-
-graphing a cipher group such as TOOET, each letter of which has three
+The average cipher clerk would have considerable difﬁculty in decryptographing a cipher group such as TOOET, each letter of which has three
 or more equivalents, and from which the plain-text words (N) INTH,
-. .FT THI (S), IT THI . . . , etc., can be formed on deciphcrment.
+. .FT THI (S), IT THI . . . , etc., can be formed on decipherment.
 
-c. An example of a key-word mixed alphabet is shown in ﬁgure 9,
+\mypara An example of a key-word mixed alphabet is shown in ﬁgure 9,
 where, in its enciphering form, the cipher component presmts to the
 experienced eye the skeleton of the key upon which the alphabet is
 based: WESTERN UNION TELEGRAPH COMPANY. Any easily
 remembered word, phrase, or sentence may be used. The starting point
 of the sequence, when used as a cipher component, may be indicated
 in the usual manner. For example, in the alphabet referred to, the
-
-40
-
- 
-
- 
-
-_. Wr-ETJ-ifr—JILILLaw. . ..
-
-REF 1D:A56932
-
-alphabet key is A, = In. Two or more correspondents using the pre-
-arranged key, WESTERN UNION TELEGRAPH COMPANY,
+alphabet key is A, = In. Two or more correspondents using the prearranged key, WESTERN UNION TELEGRAPH COMPANY,
 would obtain the same disarranged sequence; when this sequence is to
 form the cipher component of a cipher alphabet, the prearranged key
 letter A1, = Jo would result in giving each correspondent exactly the
@@ -434,9 +416,9 @@ an enciphering alphabet. Note that alphabet (b) of ﬁgure 9 no longer
 gives any external evidence of having been derived from the phrase
 WESTERN UNION TELEGRAPH COMPANY.
 
-47. Transposition-mixed Alphabets
+\subsection{Transposition-mixed Alphabets}
 
-a. It is possible to disarrange the sequence even more thoroughly by
+\mypara It is possible to disarrange the sequence even more thoroughly by
 applying a simple method of transposition to the key—word sequence
 as if it were a message. An example is illustrated in ﬁgure 11.
 
@@ -466,17 +448,10 @@ EBMZHFSLCQN IVO GUPDRTAKXYJ W
 
 Figure 11.
 
-b. The last two systematically mixed cipher alphabets are transposi-
-tion-mixed alphabets. Almost any of the methods of transposition
+\mypara The last two systematically mixed cipher alphabets are transposition-mixed alphabets. Almost any of the methods of transposition
 described in sections IV and V of this chapter may be applied to them.
 
-41
-
- 
-
-REF ID:A56932
-
-48. Decimaﬁon Method of Forming Mixed Alphabets
+\subsection{Decimaﬁon Method of Forming Mixed Alphabets}
 
 Another simple method of forming a mixed alphabet is the decimation
 method. In this method, letters in the normal alphabet, or in a key—word
@@ -487,11 +462,12 @@ the mixed alphabet. For example, to form a mixed alphabet by this
 method from an alphabet based on the key phrase SING A SONG OF
 SIX PENCE with 7 the interval selected, proceed as follows:
 
-a. Key-word (or basic) alphabet:
+\begin{enumerate}[label=\alph*]
+\item Key-word (or basic) alphabet:
 
 SIN GAOFXPECBDHJ KLMQRTUVWYZ
 
-b. When the letters are counted off by 7’s frOm left to right, F will
+\item When the letters are counted off by 7’s frOm left to right, F will
 be the ﬁrst letter arrived at, H the second, T the third:
 
 Ami PEG BnﬂJKLuqnfuvwrz
@@ -501,7 +477,7 @@ Fig. B
 These letters are entered in a separate list (F ﬁrst, H second, T third,
 etc.) and eliminated from the key—word alphabet.
 
-c. When the end of the key-word alphabet is reached, return to the
+\item When the end of the key-word alphabet is reached, return to the
 beginning, skipping the letters already eliminated:
 
 s/N xzfxrﬂcnnﬂanﬂqnfu
@@ -509,11 +485,12 @@ s/N xzfxrﬂcnnﬂanﬂqnfu
 YZ
 617 71 2 3 4 5 67 45
 Fig. C
-d. Mixed alphabet.
+\item Mixed alphabet.
 
 FHT IEMZPQNDW CVBSLXA GOKYJ RU
+\end{enumerate}
 
-49. Random-Mixed Alphabets
+\subsection{Random-Mixed Alphabets}
 
 Practical considerations, of course, set a limit to the complexities that
 may be introduced in constructing systematically mixed alphabets.
@@ -522,20 +499,14 @@ amount of mixing by systematic processes will give no more security
 than that resulting from mixing the alphabet by random selection, such
 as by putting the 26 letters in a box, thoroughly shaking them up, and
 then drawing the letters out one at a time. Whenever the laws of chance
-operate in the construction of a mixed alphabet, a thorough disarrange—
-ment is bound to be produced. Random-mixed alphabets give more
+operate in the construction of a mixed alphabet, a thorough disarrangement is bound to be produced. Random-mixed alphabets give more
 Cryptographic security than do the less complicated systematically mixed
 alphabets because they afford no clues to positions of letters, given the
-
-42
-
-REF ID:A56932
-
 positions of a few of them. Their chief disadvantage is that they must be
 reduced to writing, since they cannot readily be remembered, nor can
 they be reproduced at will from an easily remembered key word.
 
-50. Number of Single Alphabets Available from a Basic 'Alphabel'
+subsection{Number of Single Alphabets Available from a Basic Alphabet}
 
 It is obvious that the cipher component of a cipher alphabet may be
 shifted or slid against the plain component at 26 points of contact so as
@@ -543,37 +514,48 @@ to produce a series of different enciphering alphabets. For example, the
 mixed sequences given under (b) of ﬁgure 11, when used as a cipher
 component, yields the following two of a series of 26 cipher alphabets:
 
-Enciphering Alphabets
+\begin{center}
+\textit{Enciphering Alphabets}
+\end{center}
 
-(1) Plain: ABCDEFGHIJKLMNOPQRSTUVWXYZ
-Cipher : EBMZHFSLCQN IVOGUPDRTAKXYJ W
+\begin{verbatim}
+(1) Plain:   ABCDEFGHIJKLMNOPQRSTUVWXYZ
+    Cipher : EBMZHFSLCQNIVOGUPDRTAKXYJW
 
-( 2) Plain : ABCDEFGHI J KLMN OPQRSTUVWXYZ
-Cipher : WEBMZHFSLCQN IVO GUPDRTAKXY J
+(2) Plain:   ABCDEFGHIJKLMNOPQRSTUVWXYZ
+    Cipher : WEBMZHFSLCQNIVOGUPDRTAKXYJ
+\end{verbatim}
 
 The message DAILY REPORT NOT RECEIVED YET would be
 enciphered by the ﬁrst alphabet as:
 
-Plain: DAILY REPOR TNOTR ECEIV EDYEII
+\begin{verbatim}
+Plain:  DAILY REPOR TNOTR ECEIV EDYET
 Cipher: ZECIJ DHUGD TOGTD HMHCK HZJHT
+\end{verbatim}
 
 and by the second alphabet as:
-
-Plain: DAILY REPOR TNOTR ECEIV EDYET
+\begin{verbatim}
+Plain:  DAILY REPOR TNOTR ECEIV EDYET
 Cipher: MWLNY PZGOP RVORP ZBZLA ZMYZR
+\end{verbatim}
 
 Externally the two cryptograms seem different except in length. The two
-enciphering alphabets present the same sequence in the cipher compo-
-nent, but this entirely disappears in the corresponding deciphering
+enciphering alphabets present the same sequence in the cipher component, but this entirely disappears in the corresponding deciphering
 alphabets, which are as follows:
 
-Deciphering Alphabets
+\begin{center}
+\textit{Deciphering Alphabets}
+\end{center}
 
-l Cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
-( ) Plain: UBIRAFOELYVHCKNQJSGTPMZWXD
-
-.2 Cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
-( ) Plain: VCJSBGPFMZWIDLORKTHUQNAXYE
+\begin{verbatim}
+(1) Cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+    Plain:  UBIRAFOELYVHCKNQJSGTPMZWXD
+\end{verbatim}
+\begin{verbatim}
+(2) Cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+    Plain:  VCJSBGPFMZWIDLORKTHUQNAXYE
+\end{verbatim}
 
 It is possible to write the same message in 25 different external forms,
 each using a different cipher alphabet of a series derivable from a
@@ -583,34 +565,20 @@ are called secondary alphabets. In producing secondary alphabets the
 basic sequence must be juxtaposed and slid against itself, or against
 the normal sequence, or against another mixed sequence. In all cases
 secondary alphabets form a series of alphabets that are interrelated and
-
-43
-
- 
-
-REF ID:A56932
-
-that either directly or indirectly manifest relationships which are im-
-portant from a cryptanalytic point of view. It should be clear now that
+that either directly or indirectly manifest relationships which are important from a cryptanalytic point of view. It should be clear now that
 by means of a single, prearranged, secret word it is possible for two
 correspondents to send a whole set of messages all in different mixed
 alphabet, or to use a different alphabet for each of 26 consecutive days.
 
-51. Miscellaneous Types of Cipher Alphabets
+\subsection{Miscellaneous Types of Cipher Alphabets}
 
-a. The cipher alphabets shown thus far have used only letters, but
+\mypara The cipher alphabets shown thus far have used only letters, but
 alphabets in which the cipher component consists of ﬁgures, or groups
 of ﬁgures, are not uncommon in military cryptography. Cipher alphabets
-using signs and symbols are not suitable for military cryptography be-
-cause they can neither be telegraphed nor telephoned with any degree
+using signs and symbols are not suitable for military cryptography because they can neither be telegraphed nor telephoned with any degree
 of accuracy, speed, or facility. Since there are but ten digits it is obvious
-that, in order to represent a camplete alphabet in ﬁgure ciphers, oom-
-binations of at least two digits are necessary. The simplest kind of such
+that, in order to represent a camplete alphabet in ﬁgure ciphers, combinations of at least two digits are necessary. The simplest kind of such
 an alphabet is that in which A, = 01, B, = 02, . . . Z, = 26.
-
- 
-
- 
 
  
 
@@ -645,7 +613,7 @@ an alphabet is that in which A, = 01, B, = 02, . . . Z, = 26.
 
 Figure 12.
 
-b. Instead of a simple alphabet of the preceding type, it is possible
+\mypara Instead of a simple alphabet of the preceding type, it is possible
 to use a simple diagram of the type shown in ﬁgure 12. Here the digits
 at the side and top of the rectangle are used to designate, according to
 the coordinate system, the cell occupied by each letter and punctuation
@@ -658,16 +626,13 @@ ambiguity or error. In all of the systems to be described here, the row
 indicator will always form the ﬁrst half of an equivalent. Accordingly
 in ﬁgure 12, the letter A, = 11, B, = 12, and so forth.
 
-c. A variation of the foregoing diagram is exempliﬁed in ﬁgure 13.
+\mypara A variation of the foregoing diagram is exempliﬁed in ﬁgure 13.
 Here, letters of the alphabet are inserted in the 25 cells of a large square,
 I and I being written together in one cell. Then a key word of ﬁve let-
 ters is applied to the top of the large square and the same or a differ-
 ent key word is applied to the side of the square to form column and row
 indicators. In ﬁgure 13, for example, Sp = TI; W: = EH; etc.
 
-44
-
-REF ID:A56932
 
 (2)
 
@@ -701,53 +666,43 @@ warts
 (1)1LINOP
 runs-re
 nvwxrz
-Figure]3.
+Figure 13.
 
 The message RAIDERS HAVE GONE is enciphered thus:
 
-Plain: RAIDERSHAVEGO'N'E
-Cipher: THWWHT WT WE TH TI HI WWEWWEHH IT IIWE
+\begin{verbatim}
+Plain:   R  A  I  D  E  R  S  H  A  V  E  G  O  N  E
+Cipher: TH WW HT WT WE TH TI HI WW EW WE HH IT II WE
+\end{verbatim}
 
 The cryptogram is then transmitted in groups of ﬁve letters:
+\begin{verbatim}
 Cryptogram: THWWH TWTWE THTIH IWWEW WEHHI THWE
+\end{verbatim}
 
-(I. In these two systems just described,
+\mypara In these two systems just described,
 
-(I) The letters of the alphabet within the square or rectangle may
+\begin{enumerate}
+\item The letters of the alphabet within the square or rectangle may
 be ﬁxed in a mixed sequence, either systematically or random-
 mixed sequences being possible.
 
-(2) The column and row indicators may be the same, or different;
+\item The column and row indicators may be the same, or different;
 when letters are used they may form a key word or they may
 not; the key words, if formed, may be identical or nonidentical.
+\end{enumerate}
 
-e. When letters are used as column and row indicators, they may be
+\mypara When letters are used as column and row indicators, they may be
 selected so as to result in producing cipher text that resembles “made-up
 words,” that is, words composed of regular alternations of vowels and
 consonants. For example, if in ﬁgure 13 the row indicators consisted of
 the vowels A E I O U in this sequence from the top down, and the
 column indicators consisted of the consonants B C D F G in this
 sequence from left to right, the word RAIDS would be enciphered as
-OCABE FAFOD, which very closely resembles code of the type for-
-merly called artiﬁcial code language. Such a system may be called a
-false, or pseudo-code system.’l
+OCABE FAFOD, which very closely resembles code of the type formerly called artiﬁcial code language. Such a system may be called a
+false, or pseudo-code system.\footnote{Prior to 1934, International Telegraph Regulations required code words of ﬁve letters to contain It least one vowel and code words of ten letters to contain at least three vowels. The Madrid Conference held in 1932 amended these regulations to permit the use of code groups containing any combination of letters. These unrestricted eude groups were authorized for use after 1 January 1934.}
 
-'Prior to 1934, International Telegraph Regulations required code words of ﬁve letters to
-contain It least one vowel and code words of ten letters to contain at least three vowels. The
-Madrid Conference held in 1932 amended these regulations to permit the use of code groups
-containing any combination of letters. These unrestricted eude groups were authorized for use
-after I Tannery 10.14.
-
-45
-
- 
-
- 
-
-REF 1D:A56932
-
-Section IV. MONOALPHABETIC SUBSTITUTION
-WITH VARIA'NTS
+\section{MONOALPHABETIC SUBSTITUTION WITH VARIANTS}
 
 52. Purpose of Providing Variant Values
 
