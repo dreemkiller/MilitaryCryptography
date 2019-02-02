@@ -218,7 +218,7 @@ to be a polyalphabetic cipher.
 
 \mypara Standard cipher alphabets are of two sorts:
 \begin{enumerate}
-(.1) Direct standard, in which cipher component is the normal
+\item Direct standard, in which cipher component is the normal
 sequence but shifted to the right or left of its point of coincidence in the normal alphabet. Example:
 
 \begin{verbatim}
@@ -813,67 +813,49 @@ to be practical. They are often the result of combining substitution and
 transposition processes in one system. Methods which substitute three
 or more characters for one letter of the original text are not at all practical for military cryptography.
 
-Section V. POLYALPHABETIC SUBSTITUTION
-SYSTEMS
+\section{POLYALPHABETIC SUBSTITUTION SYSTEMS}
 
-56. Monoalphabetic and Polyalphabetic Substitution
+\subsection{Monoalphabetic and Polyalphabetic Substitution}
 
-a. In the substitution methods thus far discussed it has been noted that
+\mypara In the substitution methods thus far discussed it has been noted that
 only one cipher alphabet is used in the encipherment of a message, and
-that as a class they constitute the type of system designated as mono-
-alphabetic substitution. It is true that in certain of the systems mono—
-alphabetic substitution with variant equivalents takes place, there are two
-or more complete alphabets involved and that these systems may, there-
-fore, with apparently good reason be designated as polyalphabetie substi-
-tution. This designation, however, will be seen to be somewhat inac-
-curate when cases of true polyalphabetie substitution come to be studied.
+that as a class they constitute the type of system designated as monoalphabetic substitution. It is true that in certain of the systems monoalphabetic substitution with variant equivalents takes place, there are two
+or more complete alphabets involved and that these systems may, therefore, with apparently good reason be designated as polyalphabetie substitution. This designation, however, will be seen to be somewhat inaccurate when cases of true polyalphabetie substitution come to be studied.
 The real or essential difference between the two systems may best be
 made clear by setting forth the primary object in each case.
 
-b. In monoalphabetic substitution with variant values, the object of
+\mypara In monoalphabetic substitution with variant values, the object of
 having diﬂ-‘erent sets of equivalents is to suppress so far as possible by
 simple methods the characteristic frequencies of letters. One such method
 consists in merely providing one or more different values as cipher
-
-48
-
- 
-
- 
-
-equivalents of the same plain-text letteB'gtEa {Wdiatéé’ﬁ $3.35 as
-
+equivalents of the same plain-text letter, of a few different values as 
 equivalents of some of the high-frequency letters. Now there are certain
 conditions inherent in the method itself, conditions which cannot here be
 indicated, that result in producing in the cryptograms certain deﬁnite
-clues leading to the rapid establishment, in cryptanalysis, of the equiva-
-lence of different variant values. Furthermore, in these systems the vary—
-ing or alternative equivalents for plain—text letters are subject to the free
+clues leading to the rapid establishment, in cryptanalysis, of the equivalence of different variant values. Furthermore, in these systems the varying or alternative equivalents for plain—text letters are subject to the free
 choice and caprice of the encipherer. If he is careful and conscientious
 in the work he will actually make use of all the variant values afforded
 by the system; but if he is slip—shod and hurried in his work, he will use
 the same equivalent repeatedly rather than take pains and time to refer
 to his charts, tables, or diagrams to ﬁnd variants. The result is that the
 cryptograms based upon these methods are open to easy solution, even
-when the basic methods are such as would make a solution difficult with-
-out the interception of carelessly enciphered messages. What is necessary
-is a system in which there is established a deﬁnite procedure for auto-
-matically shifting or changing the cipher alphabets employed in the en-
-cipherment of a single message; a method which within certain limits is
+when the basic methods are such as would make a solution difficult without the interception of carelessly enciphered messages. What is necessary
+is a system in which there is established a deﬁnite procedure for auto
+matically shifting or changing the cipher alphabets employed in the encipherment of a single message; a method which within certain limits is
 beyond the momentary whims of cipher clerks, and which to a higher
 degree makes difﬁcult the establishment of the equivalency of different
 cipher values. These are the objects of true polyalphabetic substitution
-systems. The number of such systems is large. Therefore, it will be pos-
-sible to describe only a few of the more common or typical examples of
+systems. The number of such systems is large. Therefore, it will be possible to describe only a few of the more common or typical examples of
 methods practicable for military use.
 
-c. The three methods (a) simple monoalphabetic substitution, (b)
+\mypara The three methods (a) simple monoalphabetic substitution, (b)
 monoalphabetic substitution with variants, and (c) true polyalphabetic
 substitution, are attended by the following consequences in the plain text
 cipher relationship, a careful study of which will help to understand their
 similarities and differences:
 
-(1) Encipherment—
+\begin{enumerate}
+\item Encipherment—
 
 In method (a) each plain-text letter is represented by one and
 always the same cipher equivalent.
@@ -885,7 +867,7 @@ encipherer, whereas in method (c) the identities of the cipher
 letters are determiner! by the positions they occupy in the
 text.
 
-(2) Decipherment—
+\item Decipherment—
 
 In method (a) and method (b), each cipher equivalent repre—
 sents one and always the same plain—text letter.
@@ -894,16 +876,12 @@ In method (c) one and the same cipher equivalent represents
 two or more different plain—text letters, the identities of
 which are determined by the positions they occupy in the
 text.
+\end{enumerate}
 
-49
 
- 
+\subsection{Example of Polyalphabeﬁc Substitution}
 
-REF ID:A56932
-
-57. Example of Polyalphabeﬁc Substitution
-
-a. A simple example may be used to illustrate what is meant by true
+\mypara A simple example may be used to illustrate what is meant by true
 polyalphabetic substitution. Suppose that two correspondents agree upon
 a numerical key, for example, 74030274, each digit of which means
 that the plain-text letter to which the digit applies as a key number is to
@@ -911,23 +889,26 @@ be replaced by the letter that stands a corresponding number of places to
 the right of it in the normal alphabet. For example, if R is to be en-
 ciphered by key number 7, it is to be replaced by Y. The numerical key is
 written under the letters of the plain—text letter for letter, and is repeated
-until the whole text is covered. Let the message be REENFORCE—
-MEN TS BEING RU SIIED. The encipherment of a message is shown
+until the whole text is covered. Let the message be REENFORCEMENTS BEING RUSHED. The encipherment of a message is shown
 in ﬁgure 15. For convenience in counting forward (to the right) to ﬁnd
 cipher equivalents, a normal alphabet is given at the top of the ﬁgure.
 
-Normal alphabet: AB CDEFGHI J KLMN OPQRSTUVWXYZ
+\begin{verbatim}
+Normal alphabet: ABCDEFGHIJKLMNOPQRSTUVWXYZ
 Plain: REENFORCEMENTS BEING RUSHED
 
-Key: 74030274740502 74740 302747
+Key:    74030274740502 74740 302747
 Cipher: YIEQFQYGLQEQTU IIPRG UUUOIK
+\end{verbatim}
 
 The text is then transmitted in ﬁve-letter groups.
+\begin{verbatim}
 Cryptogram: YIEQF QYGLQ EQTUI IPRGU UUOIK
+\end{verbatim}
 
 Figure 15.
 
-b. To decipher such a cryptogram, the clerk writes the numerical key
+\mypara To decipher such a cryptogram, the clerk writes the numerical key
 over the cipher letters and then counts backward (to the left) in the
 normal alphabet as many places as indicated by the key number standing
 over each letter. Thus:
@@ -943,32 +924,18 @@ Plain: REENF ORCEM ENTSB EINGR USHED
 Message: REENFORCEMENTS BEING RUSHED
 Figure 16.
 
-58. Systematizing the Work
+\subsection{Systematizing the Work}
 
-The work of encipherment may be materially shortened by systematiz-
-ing the procedure. Instead of having to write the key over and over again
+The work of encipherment may be materially shortened by systematizing the procedure. Instead of having to write the key over and over again
 in order to cover the text completely, the text may be written in sets of
-
 letters corresponding in length to the length of
-4 .
-7 4 0 3 0 2 7 the key. Thus the text may be written underneath
+the key. Thus the text may be written underneath
+a single appearance of the key in successwe short
+horizontal lines, leavmg space between the lines
+for the insertion of cipher equivalents, as shown
+ﬁgure 17a. Instead of encipher1ng the letters
 
-R E E N F 0 R C . . .
-a Single appearance of the key in successwe short
-E M E N 1‘ S B E . . . .
-horizontal lines, leavmg space between the 111165
-I N G R U S H E . . . .
-D for the insertlon of Cipher equivalents, as shown
-
-Figure ”a. in ﬁgure 17a. Instead of enc1pher1ng the .letters
-
- 
-
- 
-
- 
-
-REF ID:A56932
+Figure 17a 
 
 by individual, repeated countings, two strips of paper bearing normal
 alphabets may be juxtaposed in the proper relative positions to encipher
@@ -978,38 +945,28 @@ letter in the column, viz., R (which is to be represented by the seventh
 letter to the right of it, and is therefore to be enciphered by Y of the
 lower strip) is directly above Y, as follows:
 
+\begin{verbatim}
 Plain :
-AB CDEFGHI JKIMNOPQRS TUVWXYZABCDEFGHI J KLMNOPQRSTUVWXYZ
-Cipher: - ABCDEFGHIJKLMNOPQRSTUVWXYZ
+ABCDEFGHIJKIMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZ
+Cipher:            ABCDEFGHIJKLMNOPQRSTUVWXYZ
+\end{verbatim}
 
 The equivalents for the rest of the letters of the ﬁrst column may now
 be rewritten down in their proper places, reference being made to the
-alphabet strips to see what the cipher letters should be: E, = Le;
+alphabet strips to see what the cipher letters should be: E\textsubscript{\textit{p}} = L\textsubscript{\textit{c}} ;
+I\textsubscript{\textit{p}} = P\textsubscript{\textit{c}}; D\textsubscript{\textit{p}} = K\textsubscript{\textit{c}}.
+For the second column the two alphabet strips are in these relative positions:
 
-I, = Pg; D, = K... For the second column the two alphabet strips are
-in these relative positions:
-
+\begin{verbatim}
 Plain :
-ABCDEFGHI J'KIMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZ
-Cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+ABCDEFGHIJKIMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZ
+Cipher:               ABCDEFGHIJKLMNOPQRSTUVWXYZ
+\end{verbatim}
 
-The cipher equivalents for the second column are: E, = Ia; M, = Qc;
-N, = R". The process is continued in this manner until all the columns
+The cipher equivalents for the second column are: E\textsubscript{\textit{p}} = I\textsubscript{\textit{c}}; M\textsubscript{\textit{p}} = Q\textsubscript{\textit{c}};
+N\textsubscript{\textit{p}} = R\textsubscript{\textit{c}}. The process is continued in this manner until all the columns
 have been enciphered, as shown in ﬁgure 17b.
 
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
 
 74030274
 REENFORG
@@ -1024,35 +981,25 @@ K
 
 Figure17b.
 
-The cipher text is then transcribed in groups of ﬁve- letters, reading
+The cipher text is then transcribed in groups of ﬁve letters, reading
 the successive lines in the normal manner, that is, from left to right and
 from the top downwards, yielding the groups YIEQF, QYGLQ, etc. It is
-
- 
-
-REF ID:A56932
-
 no more difﬁcult to encipher a message by this systematized procedure
 than by the longer and slower method of writing the text out in long
 lines and repeating the key over and over again. What is more important
 is that the shortened procedure promotes accuracy in enc1pl'1erment. A
 few seconds careful checking of the relative positions in which the two
-
 alphabet strips are set is all that is required but this checking is very'
-
 necessary, for if that is wrong all the cipher letters in that column to
 which this setting applies will be in error.
 
-59. Using Key Words to Indicate Number. Identity, and
-Sequence of Cipher Alphabets Employed
+\subsection{Using Key Words to Indicate Number, Identity, and Sequence of Cipher Alphabets Employed}
 
-a. If reference is made to the two settings of alphabet strips in para-
-graph 58, it will be noted that in the ﬁrst setting A" = He, in the second
-A, = :9. If the eight settings of. the strips are studied it will be found
-that the letters which A, represents successively are H, E, A, D, A, C,
+\mypara If reference is made to the two settings of alphabet strips in paragraph 58, it will be noted that in the ﬁrst setting A\textsubscript{\textit{p}} = H\textsubscript{\textit{c}}, in the second
+A\textsubscript{\textit{p}} = E\textsubscript{\textit{c}}. If the eight settings of the strips are studied it will be found
+that the letters which A\textsubscript{\textit{p}}, represents successively are H, E, A, D, A, C,
 H, and E, giving the word HEADACHE. These settings, when ﬁrst
-presented in the foregoing description, correspond merely to the numeri-
-cal key 74030274, but this numerical key is also expressible in terms of
+presented in the foregoing description, correspond merely to the numerical key 74030274, but this numerical key is also expressible in terms of
 letters, which when put together properly spell a word. This is only
 another way of showing that key words may be employed in this type of
 substitution as in those previously described. Key words of various
@@ -1061,74 +1008,51 @@ phrases, or sentences. In general, the longer the key the greater is the
 degree of cryptographic security. The method as a whole is often
 referred to as the repeating lacy method.
 
-I). The number of elements in the key—that is, the number of letters
-or ﬁgures composing it——determines the number of alphabets to be em-
-ployed. The identity of each element of the key, the speciﬁc letter- or
+\mypara The number of elements in the key—that is, the number of letters
+or ﬁgures composing it——determines the number of alphabets to be employed. The identity of each element of the key, the speciﬁc letter or
 ﬁgure it happens to be, determines speciﬁcally which of a set of cipher
 alphabets pertaining to the whole system will be used. And the speciﬁc
 sequence or relative order of the elements of the key determines spe-
-ciﬁcally the sequence with which the cipher alphabets are employed with-
-in the encipherment. The total number of cipher alphabets pertaining to
+ciﬁcally the sequence with which the cipher alphabets are employed within the encipherment. The total number of cipher alphabets pertaining to
 or composing the system may be limited or unlimited. When they are
 produced as a result of the sliding of two basic or primary alphabets
 against each other, the number is limited to 26 in the English alphabet.
 
-c. A brief notation for indicating or designating a speciﬁc key letter
+\mypara A brief notation for indicating or designating a speciﬁc key letter
 is to sufﬁx the subscript “k” to it, just as the subscripts “p” and “c”
 are sufﬁxed to letters to indicate letters of the plain text or cipher text,
 respectively. When the key letter occurs in an equation, it can be en-
-closed within parentheses to avoid ambiguity. Thus, 13,. (Dk) = Ea
-means that plain-textiletter B when enciphered by key letter D (in a
+closed within parentheses to avoid ambiguity. Thus, B\textsubscript{\textit{p}} (D\textsubscript{\textit{k}}) = E\textsubscript{\textit{c}}
+means that plain-text letter B when enciphered by key letter D (in a
 certain alphabet system) yields the cipher letter E.
 
-52
+\subsection{Use Of Other Types of Alphabets}
 
-..-.... 1 -. “.....«veeeie
-
- 
-
- 
-
- 
-
- 
-
- 
-
-REF ID:A56932
-
-60. Use Of Other Types of Alphabets
-
-a. It has been noted that in the case of monoalphabetic ciphers, alpha—
-bets of various types may be employed. This is likewise true of poly-
-alphabetic ciphers. Instead of using two alphabet strips bearing the
+\mypara It has been noted that in the case of monoalphabetic ciphers, alphabets of various types may be employed. This is likewise true of polyalphabetic ciphers. Instead of using two alphabet strips bearing the
 normal alphabetic sequence to determine the cipher equivalent of a letter
 enciphered by a given key number or key letter, one may use a pair of
 strips, one of which bears the normal direct, the other the normal reversed
 sequence. In the former case one is dealing with direct' standard, in the
 latter, with reversed standard alphabets.
 
-b. Polyalphabetic substitution with direct or reversed standard alpha—
-bets does not result in nearly so great a degree of cryptographic security
+\mypara Polyalphabetic substitution with direct or reversed standard alphabets does not result in nearly so great a degree of cryptographic security
 as that resulting from the simple artiﬁce of providing mixed alphabets
 for the strips. All sorts of mixed alphabets may be used. One of the
 strips may bear the normal direct or reversed sequence; the other a
-mixed sequence. Both strips may bear identical mixed sequences proceed-
-ing in the same direction, or in opposite directions. Finally, both strips
+mixed sequence. Both strips may bear identical mixed sequences proceeding in the same direction, or in opposite directions. Finally, both strips
 may bear different mixed sequences.
 
-0. In all cases, except where reciprocal alphabets are produced, it is
+\mypara In all cases, except where reciprocal alphabets are produced, it is
 essential that the correspondents agree upon the sequence or strip from
 which the plain and the cipher letters respectively will be taken, that is,
-it is necessary to indicate which sequence constitutes the plain com-
-ponent, which the cipher component. If this is not done, two correspond-
+it is necessary to indicate which sequence constitutes the plain component, which the cipher component. If this is not done, two correspond-
 ents will have diﬂ‘iculty in deciphering one another’s messages. Also, as
 noted above, it is necessary to agree as to which letter the key letter is to
 be set against. The usual method is to agree that the initial letter of the
 plain component, usually Ap, will be set opposite the key letter, though
 other conventions are possible.
 
-11. The sequences on the strips may be permanent or invariable, but
+\mypara The sequences on the strips may be permanent or invariable, but
 naturally the degree of cryptographic security in this case is considerably
 lower than if they can be changed easily at the will of the correspondents
 and by prearrangement. It is possible that a secret word may serve as
@@ -1137,29 +1061,13 @@ mixing of the alphabetic sequences. For example, two correspondents
 may agree to use the key CENTRAL AMERICA; to use the ﬁrst part
 as the basis for constructing the mixed plain component; the second part,
 for constructing the cipher component; and to use the whole phrase as
-the key for enciphcring the message. All the methods of constructing sys-
-
-tematically mixed alphabets as described in section III of this chapter
+the key for enciphcring the message. All the methods of constructing systematically mixed alphabets as described in section III of this chapter
 are applicable.
 
-53
+\section{CIPHER DISKS AND SQUARE TABLES}
+\subsection{Cipher Disks}
 
- 
-
- 
-
- 
-
- 
-
- 
-
-REF ID:A56932
-
-Section VI. CIPHER DISKS AND SQUARE TABLES
-61. Cipher Disks
-
-a. In the foregoing section it was noted that the separate alphabets
+\mypara In the foregoing section it was noted that the separate alphabets
 employed in the encipherment are produced by the use of only two strips
 of paper bearing the normal alphabet. Such strips are often referred to
 as sliding alphabets, because they can be shifted or slid against each other
@@ -1176,7 +1084,6 @@ use of unglazed celluloid upon which blank segments appear would
 permit of writing letters and erasing them as often as desirable. Thus,
 quick and easy change of alphabets would be possible.
 
- 
 
 To encipher a message, the key letter or the ﬁrst letter of the
 key word or phrase is set opposite “a.” Let us assume it
@@ -1197,25 +1104,21 @@ Figure 18.
 
  
 
-REF ID:A56932
 
-i-AImas-m-m-«m-u- .«sﬁmnni I l
-
-b. The cipher alphabetsproduced by the cipher disk shown in the
+\mypara The cipher alphabetsproduced by the cipher disk shown in the
 ﬁgure are merely reversed standard alphabets, the same as are produced
 by the use of sliding strips of paper, and by the use of certain; tables
 which are discussed below. The method of employing the disk needs no
 discussion. It may serve in monoalphabetic or polyalphabetic substitution
 with a key word or key number.
 
-62. Square Tables
+\subsection{Square Tables}
 
-0. Tables known in the literature of cryptography under various
+\mypara Tables known in the literature of cryptography under various
 names, such as “Vigenére Table", "Square Table”, "Quadricular Table”,
 ”Pythagorean Table”, “Cipher Square”, “Cipher Chart", etc., are often
 employed in polyalphabetic substitution. All the results produced by their
-use can be duplicated by the employment of sliding alphabets or revolv-
-ing disks. The modern form of the Vigenére Table is shown in ﬁgure 19.
+use can be duplicated by the employment of sliding alphabets or revolving disks. The modern form of the Vigenére Table is shown in ﬁgure 19.
 Such a table may be used in various ways, diﬂ‘ering from one another in
 minor details. The most common method is to consider the top line of
 the table as containing the plain-text letters, the ﬁrst column at the left
@@ -1271,10 +1174,7 @@ Figure 19. The Vigenén able.
 
  
 
-REF ID:A56932
-
-tains the cipher equivalents for the plain-text sequence ABC . . . Z en-
-ciphered by the key letter which stands at its left in the ﬁrst column.
+tains the cipher equivalents for the plain-text sequence ABC . . . Z enciphered by the key letter which stands at its left in the ﬁrst column.
 Thus, the cipher alphabet corresponding to key letter D is the sequence
 of letters in the fourth horizontal line under the plain-text line, where
 A, = Dc, Bp = EC, etc. It will be easy to remember, in using such a
@@ -1284,15 +1184,13 @@ column headed by T, and the horizontal row begun by O. In this case
 Tp (0k) = He. The same result will be found on referring to sliding,
 direct standard alphabets.
 
-17. Minor modiﬁcations of the Vigenere Table are encountered. If the
+\mypara Minor modiﬁcations of the Vigenere Table are encountered. If the
 top line is made a reversed normal sequence, leaving the interior of the
 table unchanged, or if the successive horizontal rows are made to contain
-the reversed normal sequence, leaving the top row (plain text) un-
-changed, then the results given by using the table are the same as those
+the reversed normal sequence, leaving the top row (plain text) unchanged, then the results given by using the table are the same as those
 given by using the obsolete cipher disk shown in ﬁgure 18. Again, the
-same general results can be obtained by using a set of alphabets in tabu-
-lar form known under the names of Porta’s Table and Napoleon’s Table,
-which is ShOWn in ﬁgure 20.
+same general results can be obtained by using a set of alphabets in tabular form known under the names of Porta’s Table and Napoleon’s Table,
+which is ShOwn in ﬁgure 20.
 
 AB ABC.DEFGHIJKLM
 NOPQRSTUVWXYZ
@@ -1306,25 +1204,17 @@ PQRSTUVWXYZNO
 YZ ABCDEFGHIJKLM
 OPQRSTUVWXYZN
 
-In this table the alphabets are all reciprocal, for example, G, (Wk) = V0:
-V1. (Wk) = Ge. Reciprocal alphabets when arranged in this form are
-sometimes called complementary alphabets. Note that in each alphabet
-either of two letters may serve as key letter indifferent-1y: G, (Wk) or
-G, (Xk) = Ve-
+figure 20
 
-c. Another modiﬁcation of the basic table, and one that employs num-
-bers instead of letters as cipher equivalents is shown in ﬁgure 21. Since
+In this table the alphabets are all reciprocal, for example, G, (W\textsubscript{\textit{k}}) = V\textsubscript{\textit{c}},
+V\textsubscript{\textit{p}} (W\textsubscript{\textit{k}}) = G\textsubscript{\textit{c}}. Reciprocal alphabets when arranged in this form are
+sometimes called complementary alphabets. Note that in each alphabet
+either of two letters may serve as key letter indifferent1y: G\textsubscript{\textit{p}} (W\textsubscript{\textit{k}}) or
+G\textsubscript{\textit{p}} (X\textsubscript{\textit{k}}) = V\textsubscript{\textit{c}}.
+
+\mypara Another modiﬁcation of the basic table, and one that employs numbers instead of letters as cipher equivalents is shown in ﬁgure 21. Since
 many more than 26 different equivalents are available (100 pairs of
 digits from 00 to 99, it is possible to insert many plain—text elements in
-
-56
-
- 
-
-REF ID:A56932
-
- 
-
  
 
  
@@ -1507,13 +1397,6 @@ Figure
 
 21.
 
- 
-
- 
-
- 
-
-REF ID:A56932
 
 the top line of the table in addition to the 26 letters. For example, one
 could have the 10 digits; a few common double-letter combinations, such
@@ -1521,9 +1404,9 @@ as DD, LL, RR, SS; a few of the most frequently used pairs of letters,
 such as TH, ER, IN, or even such common syllables as ENT, INC, and
 ION
 
-63. Square Tables Employing Mixed Alphabets
+\subsection{Square Tables Employing Mixed Alphabets}
 
-a. In the tables thus far shown the alphabets have been direct or
+\mypara In the tables thus far shown the alphabets have been direct or
 reversed standard sequences, but just as mixed sequences may be written
 upon sliding strips and revolving disks, so can mixed alphabets appear in
 tabular form. The table shown in ﬁgure 22, based upon the key word
@@ -1562,21 +1445,12 @@ ucmomthnnuunu:auo:z<>urn«u
 
 Figure 22.
 
-The usual method of using such a table is the same as that in the pre-
-ceding cases. The only difference is that the key letters must now be
+The usual method of using such a table is the same as that in the preceding cases. The only difference is that the key letters must now be
 s°ught in a mixed sequence, whereas in the preceding tables they were
 located in normal direct or reversed sequences. Example, using ﬁgure 22:
 
-Cr (Sh) = Xe.
-58
+C\textsubscript{textit{p}} (S\textsubscript{textit{k}}) = X\textsubscript{textit{c}}.
 
- 
-
- 
-
- 
-
-REF ID:A56932
 
  
 
@@ -1613,14 +1487,13 @@ xa<wm:susnmoonrw>zonammcou
 
 Figure 23.
 
-b. Figure 23 illustrates a case in which a mixed alphabet is sliding
+\mypara Figure 23 illustrates a case in which a mixed alphabet is sliding
 against itself. The usual method of employing such a table is exactly
 the same as that explained before. The only difference is that both the
 plain—text letters and the key letters must be looked for in mixed
-sequences. Example, using ﬁgure 23: Up (R1,) = Vc.
+sequences. Example, using ﬁgure 23: U\textsubscript{textit{p}} (R\textsubscript{textit{k}}) = V\textsubscript{textit{c}}.
 
-c. It has been indicated that the basis of reference in most crypto—
-graphic operations involving key words is the letter A”. In employing
+\mypara It has been indicated that the basis of reference in most cryptographic operations involving key words is the letter A”. In employing
 sliding alphabets it is usual to set the key letter as located in the cipher
 component opposite the letter A as located in the plain component. But,
 as shown in paragraphs 42!; and 60c, the key letter as located in the
@@ -1633,56 +1506,39 @@ plain component. Thus, to duplicate the results given by the use of ﬁgure
 23 in ﬁnding the value of Up (R1,), it is necessary to set the sliding strips
 in the following relatiVe positions:
 
-Phhn QUESTIONABLYCDFGHJKMNPRVWXZQUESTIONABLYCDEFGHJKM
-Cﬁmer: QUESTIONABLYCDFGHJKMNPRVWXZ
+\begin{verbatim}
+Plain: QUESTIONABLYCDFGHJKMNPRVWXZQUESTIONABLYCDEFGHJKM
+Cipher:     QUESTIONABLYCDFGHJKMNPRVWXZ
+\end{verbatim}
 
-W
-
- 
-
- 
-
- 
-
- 
-
- 
-
-REF 1D:A56932
-
-Here it is seen that U, (R1,) = V,, which is identical with the, result
+Here it is seen that U\textsubscript{textit{p}} (R\textsubscript{textit{k}}) = V\textsubscript{textit{c}}, which is identical with the, result
 obtained from the use of the table. There are other ways of using the
-table, however, each having a correspondingly modiﬁed method of em-
-ploying sliding strips in order to obtain identical results.
+table, however, each having a correspondingly modiﬁed method of employing sliding strips in order to obtain identical results.
 
-Section VII. OBSERVATIONS ON CIPHER SYSTEMS
+\section{OBSERVATIONS ON CIPHER SYSTEMS}
 
-64. More Complex Substitution Systems
+\subsection{More Complex Substitution Systems}
 
-a. The substitution systems discussed above are all based on relatively
-simple methods. They can all be solved rapidly. More complicated sys-
-tems have been devised, however, and are used in certain situations.
+\mypara The substitution systems discussed above are all based on relatively
+simple methods. They can all be solved rapidly. More complicated systems have been devised, however, and are used in certain situations.
 They are brieﬂy described in this section.
 
-b. Virtually all systems based upon the principle of a repeating key
+\mypara Virtually all systems based upon the principle of a repeating key
 can be solved because of certain cyclic or periodic phenomena, which the
-use of a repeating key exhibits externally or internally in the crypto-
-grams. There are methods for preventing the external manifestation in
+use of a repeating key exhibits externally or internally in the cryptograms. There are methods for preventing the external manifestation in
 the cryptograms of these phenomena, or their suppression and disguise
 if present internally. In some, the principle is to make the elements of a
-ﬁxed or invariable-length key apply to variable or irregular-length group-
-ings of the plain text so that no cyclic phenomena are exhibited by the
+ﬁxed or invariable-length key apply to variable or irregular-length groupings of the plain text so that no cyclic phenomena are exhibited by the
 cryptograms. In others, the principle is to apply irregular lengths of the
 key, or a variable-length key to regular and ﬁxed groupings of the plain
 text, with the same object in view. In still other methods, both principles
 are combined, or the key itself is of such a nature that it does not repeat
-itself. This may be brought about by constructing or establishing a non-
-repeating key, or by employing the key in a special manner. Systems in
-which the successive letters of the cipher text or successive letters of'the
+itself. This may be brought about by constructing or establishing a non-repeating key, or by employing the key in a special manner. Systems in
+which the successive letters of the cipher text or successive letters of the
 plain text after the initial letter serve as successive key-letters are also
 used with the object of avoiding or eliminating periodicity.
 
-c. In the majority of the methods described the encipherment deals
+\mypara In the majority of the methods described the encipherment deals
 with single letters, and is therefore monagraphit: in nature. There are,
 however, certain methods in which encipherment is by pairs of letters,
 called digraphic substitution, or by sets of three letters, called trigraphic
@@ -1695,15 +1551,7 @@ The Playfair C ipher, which was for many years a standard ﬁeld cipher in
 the British Army and was for a short time during World War I em—
 ployed by the U. S. Army, is an example of digraphic substitution.
 
-60
-
- 
-
- 
-
-REF ID:A56932
-
-65. Combined Substitution-Transposifion Systems
+\subsection{Combined Substitution-Transposifion Systems}
 
 In paragraph 10b, reference was made to the possibility of combining
 within a single system both transposition and substitution methods; that
@@ -1717,54 +1565,37 @@ volved, certain of these systems may be practical for military use under
 special conditions where speed is not as important as security. These
 cannot be described in this manual.
 
-66. Cipher Devices and Cipher Machines
+\subsection{Cipher Devices and Cipher Machines}
 
-a. Only a little practical experience with any of the methods described
+\mypara Only a little practical experience with any of the methods described
 is necessary to convince one that on the whole they are slow, more or less
 cumbersome, and subject to errors that often delay or make impossible
 the decryptographing of messages. Furthermore, from the point of view
-of cryptographic security, when employed in regular voluminous traﬂ'ic
-they leave much to be desired. Consequently, cryptographers, both ex-
-perienced and inexperienced, have been led to attempt to devise ap-
-paratus which will not only facilitate cryptographing and decryptograph-
-ing, but will also increase the degree of cryptographic security. Small
+of cryptographic security, when employed in regular voluminous traffiic
+they leave much to be desired. Consequently, cryptographers, both experienced and inexperienced, have been led to attempt to devise ap-
+paratus which will not only facilitate cryptographing and decryptographing, but will also increase the degree of cryptographic security. Small
 instruments constructed for this purpose, operated by hand, are called
 cipher devices. Scores of them have been devised, but only a few are
-sufﬁciently practicable for ﬁeld use, and still fewer are of such construc—
-tion that they produce cryptograms of unusual security. Among the
+sufﬁciently practicable for ﬁeld use, and still fewer are of such construction that they produce cryptograms of unusual security. Among the
 better examples of such cryptographs is one which was for some years
 (1922—42) employed in the U. S. Army under the name of Ciphef
 Device, Type M—94. Modern security requirements made such a device
 obsolete, however, and it has been replaced by a better one, the Converter
 M-209 ( ) (TM 11—380).
 
-b. There are larger cryptographic machines which are much more
+\mypara There are larger cryptographic machines which are much more
 nearly automatic in nature and can therefore be operated at a much
-greater rate of speed. These are usually equipped with typewriter key-
-boards which can be manipulated with considerable speed; the machine
+greater rate of speed. These are usually equipped with typewriter keyboards which can be manipulated with considerable speed; the machine
 may also print the results of the enciphering or deciphering operations.
 Sometimes they are equipped with electrical transmitters and can thus
 serve not only to encipher and decipher messages but also to transmit
 them automatically. A mechanism of the latter nature is usually in the
 form of a modiﬁed printing telegraph machine, or else it consists of an
 auxiliary piece of apparatus used in conjunction with the teleprinter.
-
-bl
-
- 
-
- 
-
- 
-
- 
-
-REF ID:A56932
-
 Such apparatus can obviously be practicably employed only among the
 larger headquarters where trafﬁc is suﬂiciently heavy to warrant its use.
 
-67. Disadvantages and Limitations of Cipher Systems
+\subsection{Disadvantages and Limitations of Cipher Systems}
 
 Except for certain electrically operated cipher machines equipped with
 a typewriter keyboard, most cryptographic methods using “manual"
@@ -1783,6 +1614,3 @@ of lists of groups of letters or ﬁgures to which arbitrary meanings have
 been assigned. They are called “ﬁeld codes,” “prearranged-message
 codes,” “brevity codes,” “voice codes,” “jargon codes,” etc. Codes will
 be discussed in the succeeding sections of this manual.
-
-62
-
