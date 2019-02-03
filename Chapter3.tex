@@ -737,7 +737,7 @@ alphabets which can be used at random.
 the most frequently used letters such as E, T, R, I, and N will have
 perhaps seven or eight different equivalents, whereas letters of low frequency such as J, K, Q, X, and Z will each have but one equivalent.
 
-\subsection{Use of Reciangles to Provide Variant Values}
+\subsection{Use of Rectangles to Provide Variant Values}
 
 \mypara Instead of drawing up alphabets as in ﬁgure 14, it is possible to use
 the diagram shown in ﬁgure 12, but with several variant digits as row
@@ -860,6 +860,7 @@ until the whole text is covered. Let the message be REENFORCEMENTS BEING RUSHED.
 in ﬁgure 15. For convenience in counting forward (to the right) to ﬁnd
 cipher equivalents, a normal alphabet is given at the top of the ﬁgure.
 
+\begin{textfigure}
 \begin{verbatim}
 Normal alphabet: ABCDEFGHIJKLMNOPQRSTUVWXYZ
 Plain: REENFORCEMENTS BEING RUSHED
@@ -872,24 +873,24 @@ The text is then transmitted in ﬁve-letter groups.
 \begin{verbatim}
 Cryptogram: YIEQF QYGLQ EQTUI IPRGU UUOIK
 \end{verbatim}
-
-Figure 15.
+        \caption{Figure 15}
+\end{textfigure}
 
 \mypara To decipher such a cryptogram, the clerk writes the numerical key
 over the cipher letters and then counts backward (to the left) in the
 normal alphabet as many places as indicated by the key number standing
 over each letter. Thus:
 
+\begin{textfigure}
+\begin{verbatim}
 Normal alphabet: ABCDEFGHIJKLMNOPQRSTUVWXYZ
-
-Key: 74030 27474 03027 47405 02747
-
+Key:    74030 27474 03027 47405 02747
 Cipher: YIEQF QYGLQ EQTUI IPRGU UUOIK
-
-Plain: REENF ORCEM ENTSB EINGR USHED
-
+Plain:  REENF ORCEM ENTSB EINGR USHED
 Message: REENFORCEMENTS BEING RUSHED
-Figure 16.
+\end{verbatim}
+\caption{Figure 16}
+\end{textfigure}
 
 \subsection{Systematizing the Work}
 
@@ -900,12 +901,21 @@ the key. Thus the text may be written underneath
 a single appearance of the key in successwe short
 horizontal lines, leavmg space between the lines
 for the insertion of cipher equivalents, as shown
-ﬁgure 17a. Instead of encipher1ng the letters
+ﬁgure 17a. Instead of enciphering the letters by individual, repeated countings, two strips
 
-Figure 17a 
+\begin{textfigure}
+        \begin{verbatim}
+        7 4 0 3 0 2 7 4
+        R E E N F O R C
+        E M E N T S B E
+        I N G R U S H E
+        D
+        \end{verbatim}
+        \caption{Figure 17a}
+\end{textfigure}
 
-by individual, repeated countings, two strips of paper bearing normal
-alphabets may be juxtaposed in the proper relative positions to encipher
+
+of paper bearing normal alphabets may be juxtaposed in the proper relative positions to encipher
 a whole column of letters at one setting of the strips. Thus, for the ﬁrst
 column, with the key number 7, the strips are juxtaposed so that the ﬁrst
 letter in the column, viz., R (which is to be represented by the seventh
@@ -934,19 +944,11 @@ The cipher equivalents for the second column are: E\textsubscript{\textit{p}} = 
 N\textsubscript{\textit{p}} = R\textsubscript{\textit{c}}. The process is continued in this manner until all the columns
 have been enciphered, as shown in ﬁgure 17b.
 
-
-74030274
-REENFORG
-YIEQFQYG
-EMENTSBE
-LQEQTUII
-INGRUSHE
-PRGUUUOI
-D
-
-K
-
-Figure17b.
+\begin{figure}[h]
+ \centering
+ \includegraphics[width=0.3\textwidth, natwidth=199,natheight=270]{Chapter3_Figure17b.eps}
+ \caption{Figure 17b}
+\end{figure}
 
 The cipher text is then transcribed in groups of ﬁve letters, reading
 the successive lines in the normal manner, that is, from left to right and
@@ -1051,8 +1053,12 @@ use of unglazed celluloid upon which blank segments appear would
 permit of writing letters and erasing them as often as desirable. Thus,
 quick and easy change of alphabets would be possible.
 
+\begin{figure}[h]
+ \centering
+ \includegraphics[width=0.6\textwidth, natwidth=303,natheight=298]{Chapter3_Figure18.eps}
 
-To encipher a message, the key letter or the ﬁrst letter of the
+        {\centering
+        \small{\textit{To encipher a message, the key letter or the ﬁrst letter of the
 key word or phrase is set opposite “a.” Let us assume it
 to be "E." The cipher letters to be written are those
 opposite the text letter when “a" on the circle is set
@@ -1061,16 +1067,10 @@ would be written "MARBPQIBAN." To use a key word
 or phrase, each letter is used in turn to encipher one letter
 only. When the last letter of the key word is used, repeat
 until all letters of the message are enciphered. Numbers
-when enciphered with the disk must be spelled out.
-
-Figure 18.
-
- 
-
- 
-
- 
-
+when enciphered with the disk must be spelled out.}}
+\par }
+ \caption{Figure 18}
+\end{figure}
 
 \mypara The cipher alphabetsproduced by the cipher disk shown in the
 ﬁgure are merely reversed standard alphabets, the same as are produced
@@ -1091,53 +1091,11 @@ minor details. The most common method is to consider the top line of
 the table as containing the plain-text letters, the ﬁrst column at the left
 as containing the key letters. Then each successive horizontal line con-
 
-I’Iain—Tn! Letter
-
-3
-I“
-E
-z
-0
-
- 
-
-puuua<camunmo=:ruhumnunuouu
-upuuua<=amwpmozgrahnmnumuon
-anhnnnI<camupmoziruhnmnwnuu
-uaupﬁnuu<=auwpmoznrnhnznmam
-nanupunusccamwavozsrxhnmnwu
-unuow>nuua<=amwnvoz=rnuu=na
-annuan>unxa<camwnmoz:v:hnm=
-:nqmunu>unaa<camw9mozsr=hnH
-H:“MMUOUDNHN‘468me1OZIFNGh
-an:numunu>nuua<camwpmozsra
-ﬁanznmnunwbunui<camwouoz:r
-ozzrnunznqmunu>nnxa<camwovw
-mbznrnhuanmuambuaxa<camw0a_
-ovozerhnmnmmuau>unua<camwx
-apnozsrauumnunuompuuua<camm
-«wowoznrnhncnwmunu>unxa<cﬂa
-amwpmozlrahnmnmnuowpnnua<ca
-camupmoz:ruhumnunuau>nuua<<
-<camwowozxruunmnmnunu>uuuaa
-I<camap~oznruhH=nunuou>NnuH
-ui<cduuawoznraunznununu>ngn
-uua<=amanwozIrahuzanmuawpnu
-
- 
-
-NH”‘<CHW”DWDB:PKQH=QMHUOUD>
-FNGHGQWNUOUDNNNI<GI-IUIWD'UOZ:
-EFHQHIQHNUOUFNﬁﬂi<cﬂmﬂpﬁoz
-III."SEHIQWMUOWFNHNI<GHMNDWO
-
- 
-
-NHNIﬂeﬁuleDWOIII‘HhI-Ilﬂ'ﬂHUQU>
-
-ﬂ
-
-Figure 19. The Vigenén able.
+\begin{figure}[h]
+ \centering
+ \includegraphics[width=0.8\textwidth, natwidth=443,natheight=440]{Chapter3_Figure19.eps}
+ \caption{Figure 19. The Vigenere Table.}
+\end{figure}
 
  
 
