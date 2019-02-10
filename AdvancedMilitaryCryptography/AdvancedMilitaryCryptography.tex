@@ -1,0 +1,28 @@
+\documentclass[twoside, letterpaper]{book}
+\usepackage{chngcntr}
+\usepackage{graphicx}
+\usepackage{enumitem}
+\usepackage{lscape}
+\setcounter{tocdepth}{1}
+\newcounter{para}[subsection]
+%\newfloat{textfigure}{h}{lop}
+%\floatname{textfigure}{TextFigure}
+\newcommand\mypara{\par\refstepcounter{para} \alph{para}.\space}
+\renewcommand \thesection {\Roman{section}}
+\renewcommand \thesubsection {\arabic{subsection}}
+\renewcommand{\theenumi}{(\arabic{enumi})}
+\counterwithout{subsection}{section}
+
+\title{Advanced Military Cryptography}
+\author{William F. Friedman}
+\begin{document}
+\frontmatter
+\maketitle
+\tableofcontents
+
+\mainmatter
+
+\input{Chapter1.tex}
+
+\end{document}
+
